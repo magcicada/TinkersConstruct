@@ -143,12 +143,16 @@ public class FluidEffectContent extends PageContent {
     if (components.isEmpty() && strings == null) return;
 
     // append hardcoded text
-    HtmlElement list = HtmlElement.ul().style("margin-top", 8).classes("prop-list");
+    HtmlElement list = HtmlElement.ul().classes("prop-list");
     if (strings != null) {
-      list.add(HTMLUtils.toListItems(strings));
+      for (String string : strings) {
+        list.add(HtmlElement.li().add(string));
+      }
     } else {
       // append generated text
-      list.add(HTMLUtils.toListItems(components));
+      for (Component component : components) {
+        list.add(HtmlElement.li().add(HTMLUtils.toHtml(component)));
+      }
     }
 
     // add elements to final div
