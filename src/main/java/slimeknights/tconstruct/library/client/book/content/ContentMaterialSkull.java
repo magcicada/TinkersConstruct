@@ -20,6 +20,7 @@ import slimeknights.tconstruct.library.recipe.casting.IDisplayableCastingRecipe;
 import slimeknights.tconstruct.library.tools.definition.module.display.CustomMaterialName;
 import slimeknights.tconstruct.library.tools.helper.TooltipUtil;
 import slimeknights.tconstruct.library.tools.nbt.MaterialIdNBT;
+import slimeknights.tconstruct.library.utils.Util;
 import slimeknights.tconstruct.tools.TinkerToolParts;
 import slimeknights.tconstruct.tools.TinkerTools;
 import slimeknights.tconstruct.tools.stats.SkullStats;
@@ -72,8 +73,12 @@ public class ContentMaterialSkull extends SingleMaterialStatContent {
 
   @Override
   protected String getTextKey(MaterialId material) {
-    // TODO 1.21: switch key format to encyclopedia.skull and encyclopedia.flavor
-    return String.format(detailed ? "material.%s.%s.skull_encyclopedia" : "material.%s.%s.skull_flavor", material.getNamespace(), material.getPath());
+    // TOOD 1.21: drop legacy key
+    String legacyKey = "material." + material.toLanguageKey() + (detailed ? ".skull_encyclopedia" : ".skull_flavor");
+    if (Util.canTranslate(legacyKey)) {
+      return legacyKey;
+    }
+    return super.getTextKey(material);
   }
 
   /** Gets the recipe to cast this skull */
@@ -82,12 +87,11 @@ public class ContentMaterialSkull extends SingleMaterialStatContent {
     Level world = Minecraft.getInstance().level;
     if (!searchedSkullRecipe && world != null) {
       skullRecipe = RecipeHelper.getJEIRecipes(world.registryAccess(), world.getRecipeManager(), TinkerRecipeTypes.CASTING_BASIN.get(), IDisplayableCastingRecipe.class).stream()
-												 .filter(recipe -> {
-                           ItemStack output = recipe.getOutput();
-                           return output.getItem() == TinkerTools.slimesuit.get(ArmorItem.Type.HELMET) && MaterialIdNBT.from(output).getMaterial(0).getId().toString().equals(materialName);
-                         })
-												 .findFirst()
-												 .orElse(null);
+        .filter(recipe -> {
+          ItemStack output = recipe.getOutput();
+          return output.getItem() == TinkerTools.slimesuit.get(ArmorItem.Type.HELMET) && MaterialIdNBT.getMaterial(output, 0).getId().toString().equals(materialName);
+        })
+        .findFirst().orElse(null);
       searchedSkullRecipe = true;
     }
     return skullRecipe;

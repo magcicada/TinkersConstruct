@@ -11,7 +11,6 @@ import net.minecraft.world.level.Level;
 import slimeknights.tconstruct.TConstruct;
 import slimeknights.tconstruct.common.TinkerTags;
 import slimeknights.tconstruct.common.config.Config;
-import slimeknights.tconstruct.library.materials.definition.IMaterial;
 import slimeknights.tconstruct.library.materials.definition.MaterialId;
 import slimeknights.tconstruct.library.modifiers.ModifierEntry;
 import slimeknights.tconstruct.library.modifiers.ModifierHooks;
@@ -26,7 +25,11 @@ import slimeknights.tconstruct.tables.TinkerTables;
 
 import javax.annotation.Nullable;
 
-/** Recipe using repair kits in the crafting table */
+/**
+ * Recipe using repair kits in the crafting table.
+ * @see TinkerStationRepairRecipe
+ * @see slimeknights.mantle.recipe.helper.SimpleFinishedRecipe
+ */
 public class CraftingTableRepairKitRecipe extends CustomRecipe {
   public CraftingTableRepairKitRecipe(ResourceLocation id) {
     super(id, CraftingBookCategory.EQUIPMENT);
@@ -90,7 +93,7 @@ public class CraftingTableRepairKitRecipe extends CustomRecipe {
     }
     // if the material is invalid
     MaterialId inputMaterial = IMaterialItem.getMaterialFromStack(inputs.repairKit).getId();
-    if (inputMaterial.equals(IMaterial.UNKNOWN_ID)) {
+    if (inputMaterial.equals(MaterialId.UNKNOWN)) {
       return false;
     }
     // tool must be damaged and be repairable with this material

@@ -46,6 +46,8 @@ import slimeknights.mantle.datagen.MantleTags;
 import slimeknights.mantle.fluid.InvertedFluid;
 import slimeknights.mantle.fluid.UnplaceableFluid;
 import slimeknights.mantle.fluid.texture.FluidTextureCameraProvider;
+import slimeknights.mantle.item.ContainerFoodItem;
+import slimeknights.mantle.item.ContainerFoodItem.FluidContainerFoodItem;
 import slimeknights.mantle.registration.RegistrationHelper;
 import slimeknights.mantle.registration.object.EnumObject;
 import slimeknights.mantle.registration.object.FlowingFluidObject;
@@ -61,8 +63,6 @@ import slimeknights.tconstruct.fluids.fluids.PotionFluidType;
 import slimeknights.tconstruct.fluids.fluids.SlimeFluid;
 import slimeknights.tconstruct.fluids.fluids.SlimeFluidType;
 import slimeknights.tconstruct.fluids.item.BottleItem;
-import slimeknights.tconstruct.fluids.item.ContainerFoodItem;
-import slimeknights.tconstruct.fluids.item.ContainerFoodItem.FluidContainerFoodItem;
 import slimeknights.tconstruct.fluids.item.MagmaBottleItem;
 import slimeknights.tconstruct.fluids.item.PotionBucketItem;
 import slimeknights.tconstruct.fluids.util.BottleBrewingRecipe;
@@ -75,15 +75,17 @@ import slimeknights.tconstruct.shared.TinkerEffects;
 import slimeknights.tconstruct.shared.TinkerFood;
 import slimeknights.tconstruct.shared.block.SlimeType;
 import slimeknights.tconstruct.smeltery.TinkerSmeltery;
+import slimeknights.tconstruct.smeltery.block.component.SearedTankBlock.TankType;
 import slimeknights.tconstruct.smeltery.item.CopperCanItem;
 import slimeknights.tconstruct.smeltery.item.TankItem;
+import slimeknights.tconstruct.tables.TinkerTables;
 import slimeknights.tconstruct.tools.data.material.MaterialIds;
 import slimeknights.tconstruct.tools.network.FluidDataSerializer;
 import slimeknights.tconstruct.world.TinkerWorld;
 
 import static slimeknights.mantle.Mantle.commonResource;
-import static slimeknights.tconstruct.fluids.block.BurningLiquidBlock.createBurning;
-import static slimeknights.tconstruct.fluids.block.MobEffectLiquidBlock.createEffect;
+import static slimeknights.mantle.block.fluid.BurningLiquidBlock.createBurning;
+import static slimeknights.mantle.block.fluid.MobEffectLiquidBlock.createEffect;
 
 /**
  * Contains all fluids used throughout the mod
@@ -97,9 +99,9 @@ public final class TinkerFluids extends TinkerModule {
   /** Creative tab for general items, or those that lack another tab */
   public static final RegistryObject<CreativeModeTab> tabFluids = CREATIVE_TABS.register(
     "fluids", () -> CreativeModeTab.builder().title(TConstruct.makeTranslation("itemGroup", "fluids"))
-                                   .icon(() -> new ItemStack(TinkerFluids.moltenIron))
-                                   .displayItems(TinkerFluids::addTabItems)
-                                   .withTabsBefore(TinkerSmeltery.tabSmeltery.getId())
+                                   .icon(() -> TankItem.fillTank(TinkerSmeltery.searedTank, TankType.FUEL_GAUGE, TinkerFluids.moltenCobalt.get()))
+                                   .displayItems(TinkerFluids::addFilledContainers)
+                                   .withTabsBefore(TinkerTables.tabTables.getId())
                                    .withSearchBar()
                                    .build());
 
@@ -389,7 +391,7 @@ public final class TinkerFluids extends TinkerModule {
 
   /** Adds all relevant items to the creative tab, called by smeltery */
   @SuppressWarnings("deprecation")
-  private static void addTabItems(ItemDisplayParameters itemDisplayParameters, CreativeModeTab.Output output) {
+  public static void addTabItems(ItemDisplayParameters itemDisplayParameters, CreativeModeTab.Output output) {
     // containers
     output.accept(splashBottle);
     output.accept(lingeringBottle);
@@ -483,12 +485,16 @@ public final class TinkerFluids extends TinkerModule {
     acceptMolten(output, moltenBendalloy);
     acceptCompat(output, moltenSteeleaf, MaterialIds.steeleaf);
     acceptCompat(output, fieryLiquid, "fiery", MaterialIds.fiery);
+    // potion buckets
     BuiltInRegistries.POTION.holders().filter(holder -> {
       Potion potion = holder.get();
       return potion != Potions.EMPTY && potion != Potions.WATER;
     }).forEachOrdered(holder ->
       output.accept(PotionFluidType.potionBucket(holder.key())));
+  }
 
+  /** Adds all filled containers to the fluids tab. */
+  private static void addFilledContainers(ItemDisplayParameters itemDisplayParameters, CreativeModeTab.Output output) {
     // add copper cans, tanks, and lanterns for all the fluids
     CopperCanItem.addFilledVariants(output::accept);
     TankItem.addFilledVariants(output::accept);

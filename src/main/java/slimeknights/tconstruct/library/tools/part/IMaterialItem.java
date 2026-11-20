@@ -2,7 +2,9 @@ package slimeknights.tconstruct.library.tools.part;
 
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.level.ItemLike;
+import slimeknights.tconstruct.library.materials.IMaterialUser;
 import slimeknights.tconstruct.library.materials.MaterialRegistry;
 import slimeknights.tconstruct.library.materials.definition.IMaterial;
 import slimeknights.tconstruct.library.materials.definition.MaterialId;
@@ -13,14 +15,14 @@ import java.util.function.Consumer;
 /**
  * Items implementing this interface contain a material
  */
-public interface IMaterialItem extends ItemLike {
+public interface IMaterialItem extends ItemLike, IMaterialUser {
   /** Tag used in NBT for the material ID */
   String MATERIAL_TAG = "Material";
 
   /**
    * Returns the material ID of the part this itemstack holds.
    *
-   * @return Material ID or {@link IMaterial#UNKNOWN_ID} if invalid
+   * @return Material ID or {@link MaterialId#UNKNOWN} if invalid
    */
   MaterialVariantId getMaterial(ItemStack stack);
 
@@ -53,6 +55,7 @@ public interface IMaterialItem extends ItemLike {
   /**
    * Returns true if the material can be used for this toolpart
    */
+  @Override
   default boolean canUseMaterial(MaterialId mat) {
     return true;
   }
@@ -100,7 +103,7 @@ public interface IMaterialItem extends ItemLike {
     if ((stack.getItem() instanceof IMaterialItem)) {
       return ((IMaterialItem) stack.getItem()).getMaterial(stack);
     }
-    return IMaterial.UNKNOWN_ID;
+    return MaterialId.UNKNOWN;
   }
 
   /**
@@ -116,4 +119,28 @@ public interface IMaterialItem extends ItemLike {
     }
     return stack;
   }
+
+
+  /** Material item instance to use as a fallback to ensure a nonnull material item in some contexts */
+  IMaterialItem EMPTY = new IMaterialItem() {
+    @Override
+    public Item asItem() {
+      return Items.AIR;
+    }
+
+    @Override
+    public MaterialVariantId getMaterial(ItemStack stack) {
+      return MaterialId.UNKNOWN;
+    }
+
+    @Override
+    public boolean canUseMaterial(MaterialId mat) {
+      return false;
+    }
+
+    @Override
+    public boolean canUseMaterial(IMaterial mat) {
+      return false;
+    }
+  };
 }

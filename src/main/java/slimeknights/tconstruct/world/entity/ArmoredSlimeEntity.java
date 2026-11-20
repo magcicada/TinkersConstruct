@@ -24,7 +24,6 @@ import net.minecraft.world.item.enchantment.EnchantmentHelper;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.ServerLevelAccessor;
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.gameevent.GameEvent;
 import org.jetbrains.annotations.Nullable;
 
 import java.time.LocalDate;
@@ -56,9 +55,22 @@ public abstract class ArmoredSlimeEntity extends Slime {
     this.entityData.define(METAL, false);
   }
 
+  @Override
+  public void setSize(int size, boolean health) {
+    super.setSize(size, health);
+    AttributeInstance instance = getAttribute(Attributes.ARMOR);
+    if (instance != null) {
+      instance.setBaseValue(isMetal() ? size : 0);
+    }
+  }
+
   /** Sets this slime to have a metal core */
   protected void setMetal(boolean metal) {
     this.entityData.set(METAL, metal);
+    AttributeInstance instance = getAttribute(Attributes.ARMOR);
+    if (instance != null) {
+      instance.setBaseValue(metal ? getSize() : 0);
+    }
   }
 
   /** Returns true if the slime has a metal core */
@@ -185,11 +197,11 @@ public abstract class ArmoredSlimeEntity extends Slime {
     }
 
     // calling supper does the split reason again, but we need to transfer armor
+    // from Entity
     this.setRemoved(reason);
-    if (reason == Entity.RemovalReason.KILLED) {
-      this.gameEvent(GameEvent.ENTITY_DIE);
-    }
     this.invalidateCaps();
+    // from LivingEntity
+    this.brain.clearMemories();
   }
 
   @Override
