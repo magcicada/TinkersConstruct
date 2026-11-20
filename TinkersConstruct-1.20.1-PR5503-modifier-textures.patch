@@ -1,0 +1,1924 @@
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/ambidextrous.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/ambidextrous.png
+index e9d7d9567eb5a47dae2396fc305dc90e66f6d396..4df3ffce6c8163e4b57ce7a80ef15c6b77a3bfc1 100644
+GIT binary patch
+literal 476
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|^0G|+7b93|m|NkF5cC5R*8z=?@vkZKG0V%eUAirRs)c^ksoA)o-4;0}n
+z@Q5sCVBk9h!i=ICUJXD&i4xa{lHmNblJdl&REB`W%)AmkKi3ciQ$0gH3+c>PD}ZXY
+zrABzBd3tIwZ~!^13{s4&42(dQ7Z6KB*&x?zFfxP1nSg9VMkcUtqJZqob{4RB7LW}B
+zpUM~+UI0A_qtPs707^|@XJ7%UG%zwYU|aw(6=Wmp0*FadfNT(80-DPNRvBbz0c1gS
+z85$UXWY6S@)p!NJkO4BIJzX3_G=gLM9r+jxIhX`L{*S-6z$|y#yg3s#E~;}Box`s1
+zOSVN*Am)*q$_n;?$=n@h&Xg{8`Ice)aO<Zx3$?>MUzrMC&bV43e<3P}{l?^<4XUpm
+fPkVF!-OSni8>^TTON}O<1X=0n>gTe~DWM4fQ7Lzs
+
+delta 335
+zcmcb^+|E3~u|6umC&YD2OYZ;w|ATBhw^pa`?krkWn>HueZF6<f_NJmN2ZMbbIg7H~
+z8-h(H#5qrkcPMu<?T@o-47SX7)yZ|%s`4{#4z*^OH;-Y(3WoLT8D`F$mLKhAwbaV6
+zlYxO@R>!s}KuWG8$S)XZ1qP^xi!i*Akck5-<t*@sEM{QfI}E~%$MaXD00nzIT^vI+
+zf?a!WiycznVY#f8wRU^P><L@`{m<WZn)%(s0|uOq`#N|YKeXUmYPkLKPb1&!Kd&AA
+z`_U!t*3sXKcddDSsipF(!Q9ZZCxZ6Q+Wjz2J5omd1e1f9h)2Zc2W_gXoOc$vO<0;D
+ze9m>5huH^XqxpYWcW|D0tR9=dCOzu_kIkJKbCtRi{LD7Kov8YmeQ~z%vd<}he*zuG
+N;OXk;vd$@?2>_)ApvM3J
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/blast_protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/blast_protection.png
+index 87b559f6f1fe29c88ce0fab010445319bf5bbebc..977437907634e9e022a3f62cd2f0f9bcb2715267 100644
+GIT binary patch
+delta 303
+zcmeyz{E~TsW4%OxPl&4kkBqvUt+jecy6a>GNn-{EMkx^u1_p-D+N`QTilZdRFZe$M
+zFx+e28wnKSEbxddW?<ku0K$w}*E%_Yf)XXJ5hcO-X(i=}MX3w{iJ5sNdVa1U3Z{C7
+zdKS`|uT}unY)g&sO!M^AV&DLBSSOxvl;2;*$nb)hfdNLN>6@&<=vnWRvFNAlIj*Nb
+zJqeyJjv*Ssv1bB>ju>z-1uO`BU;mgdYxmrz-tj6c_AlT%a852@fnJHqp@J2s1uK&l
+z9_Ifc6T#u^b%OuL-?c86c1!y>AN^SCw^(uIlu7FB%T&JJGkC-=x8cpc071jw%=_;!
+Y8M3&%&Efe1w2Q&h)z4*}QvzcX0B(9|c>n+a
+
+delta 280
+zcmaFK{EvBpV~|{cPl&4kkBpCTuC;oIf~0Y}>tuB~TPYC@F+pVp21W)3hUpTD#z2az
+zB*-uLKMXKzI-_$QD9Tyj5n0T@z;_UY8Fx&~emk*Sp4Ghj+IP!|>x1NPmN7ECU}j)|
+z(E*8>c_n&&t|1DhdWL%DlNA^}>$7)Vlb-ZjA{b~|uBVG*h(@sOIYvGPLlzc?u#Nxz
+zKjgkO*{ftx$SRj5YRe`Fg`QvuS$c3m)j7*m8(5F?{#O*5D}HFA%ktyQ3XA6RY*0Lr
+z^PquIh4Y4!)P!Ok>8||s(!ZBmrznWUoi^e5BJo}B!-5$ztM>=&EnCeW>db2A_mr>L
+Q6KFGor>mdKI;Vst0G_^OuK)l5
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/bouncy.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/bouncy.png
+index a92b58e71f1061e38e1cb3e9c478acc1a7a48c9a..be7bc1ebd7f431dc0b6dac93da9b8582aff99f4a 100644
+GIT binary patch
+literal 513
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}50G|+7U0vP(|Nq~(aYIs4^4PIs)22;xuW~y1@0>}ne$Vx$vVFOQYm&n!
+z`U92!4HJC`r1(mL{DOg65P-q;z?~C78O{Qa$YP*^10c+pb*+;VC@4|l8c`CQpH@<y
+zSd_{TkeHcQqUYxtqF}0LsAnOa`Dz7F&9>AC&ooa@Ed~xChm}E!k(GfF$npYWX($`y
+zI}Ju=us9QtZOF(3_H7i9o!QO;7S95*L12FwBf|?|Ai!ueOBsMt6WAG8fGQ1)j13qU
+zKuiVM$hrVx(i9*Y1ek#4GJ#bFSy}*DP+f)w1|V6Vj72|X&v88kG7~&q978mMQ~Lt>
+z4k&OqufE)P?%w}h+zSkgXH0qiTY<H|k=;O<C1_t*+X=m*n}-BaxsUg+P<th`-Gf8W
+zw9q>%*0Yy4tNxgQpmd1zYLN$T&%Mg6<vDOnPK)8qzZ0DMrS%_ha(?Psq6P|P22WQ%
+Jmvv4FO#oEvjQ{`u
+
+delta 208
+zcmZo<>13MVSg#V`6XL3?tNZ`|{~I@MNJ>f`J9cc^v}x{DPK9fd!zcQi1nUPhcrq|B
+zyqKn*45WBUg8YJkieZ33=>EBLKyl6jkH}&M2EKzJ%(!D>_FJG}n5T<lh(>Vk2}ZsK
+z1s>)DjT$`v{>R_e>k`<V^7`B{u|`SHzOaU+H8$1?+(k1FWTiH}VtURLzV>Y4tiG4;
+zTl5%B{xFn_HGNJE;D~16T)g7X;n@xO$96C}o#g27Tt3qfXa$3(tDnm{r-UW|7duxY
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/boundless.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/boundless.png
+index 63b7a13e93c319d075bc80fa732ead610fbfbac6..9500e405ebb432afa00851ec7d5f43b58e60aa7c 100644
+GIT binary patch
+literal 489
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+7DPb*l{j>nnq9n&2YxNMI7IisWpk!dv#)m+Pqa?^L_&)?N+-u$&
+z2^8Zj@Q5sCVBk9d!i-thIyr%Y5+$w?CBgY=CFO}lsSE*$nRz98ey$-3rh0~Y7Sfro
+zRshv(OO5bM^YqkW-~e)18Kf9l85n^qFCdnNvO&JkU}Of1GXdF#j7(r(MFH8F?JQvN
+zEFc>M_Lng-ya0L@Mx$BE0F;`*&cFgxX<%e*z_<WnD#%9G1rU>_0NEhG1T>cktTM>b
+z0?2~uGBhv%$@*k0`YC&k>nV_#;OXKRq7fW>&XJGVkb~J_cEivA{o0e4>|X0%(IW6-
+z{{ra)Gi?_fjF{mf(3Ya3eqs%?@IQtRtws!oq!~_ba^xxRoU%~+{lztvIbjNhTN723
+omhtC&Y~-GHnZG3TZQa9@?7YiaB2-wbrh@GCboFyt=akR{04mybfB*mh
+
+delta 222
+zcmaFKJe_HRW4&~MPlzi617oCheSm3^wR%XBV~@Ljn!22=0FMj<1H+t4!eT&*vn0qb
+z_&*dd1p8MAfdmUYB8wRq_zr?F<Bo~hZ-IgZo-U3d8o|E(jC=<aIG7juJp8X87ahAv
+zZBmt3hoSI6rJF}w)G{<vK3N5t@E;9tw@P@+c3_j<jVtnR?%i#=!kDF)HII8v_-R(w
+z<I<%L;!~b4%3^#QDi@cuKyi{AhsC1ZOl(q{r?J&EwCuVTYQKGUC8PZsmStwgS5*Kl
+OXYh3Ob6Mw<&;$TVT2T-H
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/bursting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/bursting.png
+index 88c0e2212f6a89d5ce51547c8c3bc3c24d84886b..d72a8aa530a9991308cd3df811f49671a927b317 100644
+GIT binary patch
+literal 538
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|+7U0vP(|Nq~(apTyrW7DQhyYlq==JRhPB_(6~54q&OOi<=3)8;ja
+zzoi?rH#<8UsOetjn$ti^pd`pI7^o2$Fg#F>l?2Lh7I;J!GcfQS0Aa?gYn_}xL5ULA
+zh?3y^w370~qEv=}#LT=BJwMkF1yemkJqzi~S1W*OwxvdRrg?g5F>nAmtPE0&tPG4m
+zmKP99L)jo-YA`Z`#hHL?Lq;aBucLtM%yt&AcovWi0{hDt8D0Pb14g4+$^ev_z|Oz|
+zRB2#jY{0kxVk*c+)&&rgrU2O>zyvgx39K^6(gMhW>M}Gi0Ll7fEcz*Xj_WCqS?KBF
+z7@`rJ+HWYtqR7FLE*bJA<lq0>x)(CmFP`V8@j(8AyugxW2R?H6do((Gv|5K$FnI<#
+zoa9+L<&?XNN892pY3Y+5YP>5mKO9&kzyI_L+e0$jdoC_txGuG_Vb#MG*|)Bxv>!gR
+kCiSN7ADiowe&1;qPu#;%E%bEuL6Ac{UHx3vIVCg!0A5F*Z2$lO
+
+delta 229
+zcmbQmGLLD3W4(HSPl)T4r{6c9f1|6b8{2>A|Ns9tZrnI_?3hdb%W2c5nZ)19&d!#U
+zlw@FFi1cPt0aCmrL4LtNWpKb?`$DM=D8X6a5n0T@z;_6Q8AUa`8i0c7o-U3d8o{n-
+zJ((H|IG7!dPEz{t|NE(=+c6x68&AhsU)QU?vpP`i!OBSn5+&z<hIl48yqK#J$i=Wh
+z!1D~7D9<wsXOn|I)vQ-^4&41G8<x*}L4n<h{T1Vr1}|6fKS9;bd(MUA-YERfpj*u`
+VU+d+e7eG51JYD@<);T3K0RZG0VmJT*
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/crafting_table.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/crafting_table.png
+index 2c03ac81ce23fa57d6f74c4d65591510023ddfbe..ac5cd158cbcb313124f9fbd485eb5ee45f3821c1 100644
+GIT binary patch
+literal 529
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}50G|+7Z*7UXB=htDokMezc1(#cwp5r_;wUM?Grz^xQJHV+)~)~l|G#nL
+z22i=e<9(lj6kkb@UocP*0T^5l+&KZ1;VkfoECwn#1j3A>8eR=RL5ULAh?3y^w370~
+zqEv=}#LT=BJwMkF1yemkJqzi~S1W*OwxvdRrg?g5F>nAmtPE0&tPG4mmKP99L)jqT
+zX)rQ_#hHL?Lq;aBZ=-<h%yt&AcovWi0-wql8D0Pb0Y;-)$^ev_z|Oz|RB2#jY{0kx
+zVk*c+)&&rgrU2O>zyvgx39K^6(gMhW>M}Gi0Lh-o6RYtGejx*77I?ZihG+z*_B-+&
+zG2md%_3HGz@xQ+OXr6NDT7J8pV_pZI3+`d`DDh}sc(BmoT%M8}b2(>GCUcs=#F=cr
+zrC;8gI^A%J?abo513e7kS4|~DpBAjWb!?653$_y+E(LEp_rw>z?dLT%F1h(ba{Xhu
+ZpG>zj+4B{`FGPUc;pyt<vd$@?2>>vqkoy1t
+
+delta 440
+zcmbQp@}7BuWBr5xpAgsb1jF<Ioq18l(@Gq7Oo?CLA38V9a#6P3f()DG1<vzZe1pxD
+ze03#5ER?;qC4$YB7RQ+cnJTU?a@$zqxggWVSzT;mh`x`JY;S;Wh`Dl*nWDF$jGvyA
+zmzG3?wff>5`_*|)Gop<bX4!T7>I9l9cp1tp%(Qh<72Q-??>R5hXhX64x<c1b3zdx}
+z9xHPk85kJ;7bh<RQU)bKe!>4q0}M$^FH`{aau#?*7BevL9R^{><M}I6fP!m0T^vI+
+zf@Aw{3pE)CIB#dIk6~fjv?ySGg}dwT|Mlt7^G*D38c#mi_GbQxNkLs(f<-K!JI=Y#
+za#?e8*Jk|_+zhUrTpO*|23^=3wd6{100VD}xObj)?9z$Mv(9Gao?&}ymM(k1PeLi}
+z{$p-Fy(E_c5fjEaU7wF`U9h(BYr~E!cZ$j%Gs;A9e0TplC5k_QQN>W%>v5cPqEP(m
+tO+9h7`k%h(x!kd_Kezr%bY03@_R_Z^?fZCE0v*o4;OXk;vd$@?2>@i|#R32T
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/depth_strider.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/depth_strider.png
+index 13357f43386113b310336e8dc77f2f324f0bfe70..c4d6287689d468eb8687a9bb980536c1bc9f2cde 100644
+GIT binary patch
+literal 515
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-orZX=xwp|WexcC46|G_hwmRvkE@z5HBl(3r3OMpuDR|;nVDXx+r
+zzhIyO2w>QBM&~?Gl(WDivY3H^?+^$xifVW@00kvVTq8<?^V3So6N^$A0unRxO7#3(
+zLljK)4D~FeGheL$s@awr;hE;?sl~tn<ghYGF|sl+0$E-_EDdFYe51k03>IesvJDxT
+zz`lzDvNPLRz~Ug6fxxFSMurzaPs3<5OBsMt6WAG8fGQ1)j13qUKuiVM$hrVx(i9*Y
+z1ek#4GJ#bFSy}*DP+f)w1|Zopd15tQ!7pTh%py-0#}JL+*uF?UXGI=n=JORh|F^DY
+z2o?AKDS7C~)cqmnXV@>8_rzIC@+D&f_phx@TW>6pEe=tTzoft@mU78ssgdJ^3AwT>
+zr};Ps)z4hnVYIMXwe!wz3+cOCIIlk{yfRr);>M)tHJrRT7mj9SJ=gtviu<HIJHxV5
+RZ%=?+;_2$=vd$@?2>=|mjn)7F
+
+delta 281
+zcmZo>xyUrZv0gX8C&V>s{rQY-mjeO<l9Q5xXEc5K|37Tu-ie3S)NEdI=+L28uU_dT
+z1TVRGsOiiL1_p+r2@CE3DgKfmzu^BUfZ@uW84H0@oCO|{#S9F5he4R}c>anMpx`7=
+z7sn8dVAp;}Ar?gr=0umop4tEH>&u(BhQ2=NJliBg<!sFN_Z$-Pza;!!ViM*|j_Elg
+zwDJ1Ao!{dct=x~Suv6O0RB7bQ=YGg<+8wR0Q=ZD(&hnDWaB#g;bgtv7@o@o-)sha)
+z(wbXB_t|r-&uaYmblU!aBJsRKY8$t7U;DvW8pb$jQMCX6GmEVXP0NkHX*1L@&XEz~
+VI8_?oI|JxG22WQ%mvv4FO#oZZfMfsw
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/dragonborn.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/dragonborn.png
+index 1688721b217899bbb3b9d64bea6428286358c547..dbc2465b8c1015e88bda5d7414fbefde7905af58 100644
+GIT binary patch
+literal 507
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|+76&00&f`Z!G+ODoHF)=Y?V`Cp5AA5Uyp!~sxm-#@7vn0qb_&*dd
+z1p8MAfdmUYB8wRq`1XS^qXlcQ3Q$m@#5JNMI6tkVJh3R1As{g`uSCz!HAKNw&rr`o
+zI`h>Epqg!|5uRzDo>~kXKn^Q|6eBAGBar0<#L`eU$R`?%%wTaQAls0U3GA~dAUm_2
+z1uUKgWP?C&86(3Bpod{JnxzatsR`^1EI^e8M#ct=3m~R~Y-C*kF=+~r4FXI+bD6*@
+zgDfq8ET}F+0|Suk=_sy@=T0wx!N-v2>Ealo5gdCikc-8TgZY9=@|EB7D>jx%MC_l$
+zzID-mHeLpEf2ZauH723t11HnneB?Epr)d0enmNH?f5OE{n#l@0yIf{lTu=<_Ox1eU
+z$M<W`rb<QI{|8RA-egisJM47)(3e)el)U{H1ULR|&9C!iW;rZSyy6eY6`rnsF6*2U
+FngA5PeYXGr
+
+delta 235
+zcmey(yo70jW4%g%Pl&6Sn3%o2y|J;ejEszrkB^#~+JnkpQc_Z97=H2a@JL8VFfcF(
+zr`_8Eq<Bh#{DS`@0E5u|bLW8KoCO|{#S9F52SJ!|$HeTnK*2&!7sn8dVADQsJ{Ls}
+zW<jw(1^<8NaqsDLl<-`f(zRehR*Fiht}AzmZjWZ$GxiS&x-snkU09BH2;P2tV8IW$
+zz~2jwF0Cl7xi4hKouxbPC1=4EIoG()VtLc;-wGV!;97U(Osh~&Vfq2}1c$TApP25=
+atY7enP4KJS^sPYK89ZJ6T-G@yGywpRJzH-8
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/embellishment.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/embellishment.png
+index 02755fa147dbc0733df61f18960b262ad88cb931..80c3dad4718b2244c18342c09b71dce41a6a1185 100644
+GIT binary patch
+literal 503
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|-or`0O|CyM>ruemE;`p>&5zwT*DN=i<fHtpE4W7*l+KvgT-%O!yn
+zcS(?6@P9a9@bYK;1Qg~h@Q5sCVBk9h!i=ICUJXD&i4xa{lHmNblJdl&REB`W%)Amk
+zKi3ciQ$0gH3+c>PD}ZXYrABzBd3tIwZ~!^13{s4&42(dQ7Z6KB*&rWjFfxP1nSg9V
+zMkcTiqk!zpb{4RB7LW}BpUM~+UI0A~qtPs707^|@XJ7%UG%zwYU|aw(6=Wmp0*Fad
+zfNT(80-DPNRvBbz0c1gS85$UXWY6S@)p!NJkO4B2JY5_^G=fXd2l5?I;9$OR$<O6|
+z{R7sEI+058-xOU8>sz@QES7h<NtGxldv2b>S|jBt)39-?Ok~gowgjDkwJj?58*)~E
+z->10S&9y>zs-yEOLq3D`?iJ6z@@4J{-&6l?wRnLr+q{FVPacD8_H^}gS?83{1OTF&
+Bf(ift
+
+delta 231
+zcmey)yntzfW4(HSPl#)mqo%H|?w^@WAG@-j*MuEAcI;r3*@_^eY15`<XJ_Y{C`w97
+zGB7Z#Te<c>km4-~@(cct1Q={zD7674I14-?iy0XB4ude`@%$AjK*3B;7sn8d;M_B}
+z`Hm=XxCUyucOCj)pTBd7n(@oJrUcQ}KkNAytZ`fP+DoFR?cnAHMoz^<6NUsup#-x#
+zO$TM(FVIeWzdJl(ChLy;FLt{A>PNo&@E@5P&(Zm%VeQ<PRf;Z)Z%N--B_-|mj$cWW
+WBP-_Uu|q&x89ZJ6T-G@yGywnw7-B{M
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/feather_falling.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/feather_falling.png
+index 404b428f75bc574a3b16e714a2af0e6fa39364c2..48a879d06d7f567684027a1d5cf320d7b23842dc 100644
+GIT binary patch
+literal 493
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+7U0vP(|Nq~(aYIs4^4PIs)22<keED*AcJ{t~`+!Phe$RIRQd}iL
+ze!)Ox5WukMjLvzWC})93WHAE+-+mBgv|tTZ0SZc#xJHx&=ckpFCl;kL1SDqWmFW4o
+zhA5co8R}U`XTDkiRI@EL!ZXd&Q;UHE$YEuWVq|4t1hTw<SQ^R(`9_1087$5OWE(Ov
+zfqfSRWM{UsfW@<bY!Fyh#>nsj=xG>@W+?+uY63e03s9wjk+A{e0*I*~8(9}XOqv2@
+zg8&oITqdx}AWI7%3#!Y|zyKus$g_0fd55Wwfy@|B7sn8d;M{ZETn7|*m@m9|qyByW
+z2amZsPBLBl;UZwuBz3@8ZNb;<vz&Vu^z*KgkX}`HfMpv)vSY4E{@G@pw`v~e1zf7Q
+uluANYU44I#aq^n4A`{-(>977{V_C#pc7$DEi>vbvke!~celF{r5}E)dvVw&G
+
+delta 260
+zcmaFMyq9T$W4&2`Pl&6ouI~T;|8Ly5At@<&?AWns)23a%eEI3qr(MMg`&S!IX^=a;
+z&0zH;)uo;~O9HhgIV!iC$}li6Eb9xO1f+yYg8YJk+ED?+qy77ZfU=wg9+AZi415Pb
+zm@(^GCnr#_$kW9!L?bx%RAVjQVFeDBfRd#_r#AflKmV?5TBeoo&c`cj{`oa>EIP)N
+z`S<H=?kdOoc?nbBwyom7!2V_}uWJw2%35_DMxHkep<+!%PaPR=JZzuaC%I?&1}jAm
+xv828OS$T<qitp#lw0yotEBJ$`{v4mr`itgqRaT|Ho&vO<!PC{xWt~$(69DYhcEA7t
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/fire_protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/fire_protection.png
+index f741cfc19421ab45a7c475a0392f6a002ffc5b16..07deda39fe4e0454362a17ef04ab8e2de34f170a 100644
+GIT binary patch
+literal 486
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+76$M2L6JvWD%cSUVeH|@HF>x(5HK62v1G8g5ilZdRFZe$MFx+e2
+z8wnKSEbxddW?<ku2*QjzCT70{8CK#NQ4*Y=R#Ki=l*$m0n3-3i=jR%tV5(=RXCa;W
+zY6Vcuw$upEG*3@01`Z&Hl|hP;m4Ok+@&aOMC>!Jp4Mt|LI1`X<$jAitRTPk&+0FtM
+z&jPYR;AR;k!waBiVKkbh3_z&~><lbGl?Fz}28;_Jrh;r_T>vp@3Xlx~Oh9v)z$$|*
+zEr2YjE<*zYknGdi%+{p9sr!J;SWg$n5RKs2Gl6^u3^<qq5=7tEKX!e+t)%88x8P51
+zBgQka>_S&s`&>kHUajhgF}(1QajSd>lY_;<58TTVPAkMt*qGv7#w+EsbGP{xk5~6L
+lES0kfFsfBhPWsNi?~Z^qOHw?m6)1EVJYD@<);T3K0RS*6az_9F
+
+delta 228
+zcmaFHJeO&LW4&B}Pl&6Ef}+2dyS<I2vA%9nbhw3yvA&L$q?ovxvJwLW!{f5Wc0h`&
+zB*-uLKMXKzI-_$QD9Tyj5n0T@z;_6Q8AUa`8i0aDo-U3d8o|Ej82Jt;a4<V8VSe&o
+zKCW9YGFfI$Tjt%gJ5w~*<m#rM{1FwKbNj%f#EJ&yhvpxf4|1=3mQg3bS705$!m@+I
+zl)>NNrNxGa*1|hwqc0q7oN{*llsGGAH7Ugz+OJ9z9g>wy9x!tm|83QCyZ=tynw3>H
+TR?F}?(0T?>S3j3^P6<r_hKN#}
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/flamewake.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/flamewake.png
+index b3b2da696f369bc0c1a093f12acb1156b4310843..1af785da225f69a059b54c600ff663e0d6357dab 100644
+GIT binary patch
+literal 623
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%Lh_0G|-oEzS%(d>FR4GVJhX(ACxb|NsAu8#g2+B@ZVsoh@ZOcI?>hK!$gx
+z0)M{Uc(I;+voph;St6gV=S`b7?QkN~ktC+)+w@fgx$iHOdbCRE^R2Q}cZa%!$XF8{
+z9!}10kNZyLvwXSN@cCvD&^8|J`b|Jexg^Lh7-$Otz>ucdJPoLvv%n*=n1O+BKL|5g
+zum-CD1tm&cBT9nv(@M${i&7Z^5;OBk^!!{y6ioFD^(>?_U#$SD*_ImNnda%K#lQjN
+zurf$7vNA9NSzbUa4P}EuOoNdbEY1XE8!|G1Lof=+&TMA^i)R7ZAkbUJ$nXLfurM0U
+zQU;*Z1a<}%ph^QHV*|zo5K}=mvMzv_GzG{80VbfiOkkBkmKH!3RF|QF0Z8_A6j#P`
+zrx(CzVyN<TaSYK2o_g*!*C7J|*NYc-sw|7k+7dW>%hk{S<uw&M6f}0+Pb-vb`ylw2
+zaZA+xM#hzm(gw~UXJz&u$agv0^jgXwzdT9w8@s@a+WILOVolbiqBZ(&``*2A{LtL8
+zi{EhBY0;L4(~iyg9N{%HjWuy+c9!pEySlyqc<24Hmxy!Tb*LHSB2QO8mvv4FO#uF?
+B%jEz7
+
+delta 420
+zcmV;V0bBm>1d0TZL4UMROjJcJEiM25|Jc~r85tR~Ljbfy0LI3~x=;YMMgYib1HfAW
+zu|NR8S^?FF3&&{#$!!C@Q~|a~0LW|umX?;(hYHw^4#i{wyi)){9u<CIS!G8+BoPbI
+ze+bWd23<5P#A5=(U;?>L0L^s;vOxg#;*8vy6!zkd?8iykltvKBZv^0_9pb7X&UXdX
+zhYG}E0@Q{I-=P}XlMuU50N|t??Z-;#yg2#ov+Tr0_voMX;)~CF1^@s6^@RDF0000y
+zbW%=Jk-;31&<&B$4Uy0Ve*n9P>!$z!010qNS#tmY4!-~Z4!;371ydvd005UsL_t(2
+zQ;o<+7K1Ph1W?Har}qL_2_e0aO1kfVugLJc$tqgRj6Rs3`x5}T@+bgMNS6f&Aw3_2
+zlD-2aOJz_>R;moOx}A-t%~qSC(*@O&{Tv2Eh9Hb0O`{;xTw@0NO2;%w!q|!h%|A_N
+zM0U&>hzJ+U)q2B&d@$a2hlu+$JseNxi-9X<8N=<453a<(6JI>sy+2>RG9U7KdbW`O
+O0000<MNUMnLSTZm=Cp7C
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/frost_walker.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/frost_walker.png
+index a87501b2a0c03a3fa54d00a03fb5c49cf07590ac..9ad8baf20f0ca7f2df8f0ddc63706a063378aaec 100644
+GIT binary patch
+literal 516
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}x0G|+7U0vP(|Nq~(aYIs4^4PIs)22;xjcIRP`y+4ijowXvChz#O;PBt}
+zwZA9r{MWPjU)#FBKz-stM|J@z!IB`qV4z+Uz@WNzW)e`6v%n*=n1O-s00=W?UF+lo
+z3QCl?MwA5Sr<If^7Ns%-BxdH7==r&ZD46OQ>RCu<zFGlPvn@5kGtJXei-7~kVP%kF
+zWMyCkvb=y;8p;OwRD+QjEY1XE8!|G1eI5m5XSTC|#j}8H5ZGVF$nXLfATS!uQU;*Z
+z1a<}%ph^QHV*|zo5K}=mvMzv_GzG{80VbfiOkkBkmKH!3RF|QF0Z7&-W6@99b6ih>
+z%y3T^#}JL+rRN>R8WcEOFX}IBW!?DyYT1=FYZCL1*%~nX<FaR1%C5k&D3d`+uEEVg
+z<&pG-XEzvQzFEdic(!!vFHfu0&-HeyO}ef#`|#C}t7ooU$@%}Uh~cI(k4uTR!)cIp
+Mp00i_>zopr0Cmfk;Q#;t
+
+delta 223
+zcmV<503iQ_1g8R!K|L@~OjJcJEiM25|Jc~r85tSI#>SSGmS~I2g{}B?oaJGHziyM*
+zpuzmD%KqBt|G3is0000XTk69A000n?ffIiK;3Hib00009a7bBm000ib000ib0l1NC
+z?EnA(WJyFpR47wz%25u0APfW0i74Ray#H-&w-};vAGCczuFw602qK;YS<3pn2_>M^
+z39M2lM18^bg1xmq5IsU-AA}<W(6Iqyun-0(4+Wq&JKYTF?n*GvZH^a!<mFaj%gq;G
+ZsyDS&3d0hJ{XGBx002ovPDHLkV1mNHU$g)K
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/knockback_resistance.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/knockback_resistance.png
+index 1f7e3e1411b91d65bbd50d11d99cb8dbf7e094d0..f511d6e34eb998c5e83cecf8e71dbbd26ad1961a 100644
+GIT binary patch
+literal 481
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+7OG`@?6_uc%ps1)QFE1}ACnsxbYoKIMQlm7G;wTC73;quQ4ELJ%
+zMgqk+3p^r=85sBufiR<}hF1enP@=>&q9iy!t)x7$D3u`~F*C13&(AeP!Bo#s&q6x$
+z)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP&UXH8jQ?faV8+!kdX=Ot0*8lvz-Mj
+zo&{usz^5`sh8IB3!e}&08Gup~*cn)WDh-T`4Hy?dOa<A<x&UI*6d)S}n1JRofmH@s
+zS^!y4U4{k*AlWl{Vl`gDFJyqs2u~Ns5RKs6{y@G40}kiR@CX0Q%{J_O@ugKh&WqtR
+z^KY)|iPIivSUh>BVOTv$?xNGx2_Z*(Jl+JY5oCB5SGm9??OxLTLJs53DOt;oMk$vq
+gJDSwZzW=;zOxPWkew)zM&q4Niy85}Sb4q9e0H0NJ=l}o!
+
+delta 237
+zcmaFJyo_mrW4&&GPl&6Rmse0wP*hZularITx3{gWt%{0@rlzK$p`oRvrJkOiv9YnW
+zwY7zX1p@;EyPlB(km4^1@(cct0vN8`nXwQk#aZAHS<Jw|cNl~jkLRyQ0Scyjx;Tbt
+z1n2f}@--;%uvAAxIsW)xoVHe5YOx>38$aocJwJq9j<72o5$MuWI&<8j|D5PPbC2mc
+zKP6m(y4+bFX&%~tDA{$6(w-l|7Iuy;E4FUU&HgHsb~i+Krjqyj$k6=8!h69s63OiE
+Xy*SrOzM2yaw3ETp)z4*}Q$iB}`Jq`X
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/leaping.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/leaping.png
+index 44d4030adb5cacb399ee764a5915f745c8f8d46c..09653feaa2023187ac2ceaa70a606718b9a744b3 100644
+GIT binary patch
+literal 457
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|^0G|-osP*T6{rYw9^QT!ie!2Fq1_~Eue-s8%Y$ZW{!T&*kVe|ea`+*{y
+z1s;*b3=Dh+L6~vJ#O${~L5ULAh?3y^w370~qEv=}#LT=BJwMkF1yemkJqzi~S1W*O
+zwxvdRrg?g5F>nAmtPE0&tPG4mmKP99L)jqLYcMi{#hHL?Lq;aBZ=!(g%yt&AcovWi
+z0yoPT8D0QA38T?0WdKS|U}s<fsx&Y%Heg%;F%@JZ>jH>LQ-Ev`U;>)U1XdYjX#r$G
+zbr~8MfMlQ6X0|2;PTdD&dU(1xhG+!O?eXSoaNux$nf|UmmAUJnVO|bX?)^m@&5nw9
+zSjVuHyt=of&Vcd!oaJvCR;@{mX3@C4_aTei;`#;;TZhbsh2j<rD!wezIy!4zLFRk9
+L`njxgN@xNAIjL{X
+
+delta 153
+zcmX@fe2H;_V?9rRPl#*O`t!4H{BrGI&A`C0WkO9nkYXtb@(cd||38C+*2*tHK4*bP
+zWHAE+-yslY6xHx*01DcBx;Tbt1h4JB$i<+*!Cd<9zy0<SPmaB%3-Z{bc;+3lda+}E
+z$nDOg@|k<DoGxIv!rdIl6un_$ztYKwM@bzWtnSBznDUvk<#qziV(@hJb6Mw<&;$Vf
+C0XWJ4
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/long_fall.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/long_fall.png
+index a30a9784cd8ef4013f24b48856b40aab36ed54d8..d6ec14880b5cfab70d53ac4813d9841c86fb7b60 100644
+GIT binary patch
+literal 487
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|-oY15|t|NsB;<;&UG*}A&Al9H19_U!{oCdKkz08$(!L4LtN1t7q1
+zuX%4IP>i#{BeIx*fp0$uGg`0)tAGqEag8Vm&QB{TPb^Ah2uRG#E79|F4N)-FGt{$?
+z&V023sAgMgglC$krxpVTki*I##mLIQ2xNHyu{4wo@`VN?GgzDn$TnnT0{bco$j)qM
+z0gGn=*&wj2jFI65(6cZa%~A%S)C6`07NAN4BVz-`1rSp~HnJ{&m^1~*1_36ZxlCY{
+zL6#Ok7F3s^fdNSNk!R_|^A1xV1DSE2E{-7@!KHnkd<P6Tn0x0w`2T+gQ`E{=kC-Lh
+zCa~18#5Qd1aR}JfbazXKSYfAXUUmC7)eB8OguQ23hgcg(eD<2FG0|sgfRVSy)v#H=
+n%D*4*G~#BrQ}Zd>@zAu8VSzoXhJl1a3CLDYS3j3^P6<r_*{FFt
+
+delta 197
+zcmaFP{Eu;hW4&B}Plzi61H;UjGYt$3K7IOBUtj<K|No~?pWe7}<II^eK&eO{;b<Vm
+zRTAVE43vTZhD~R5&I3g`3p^r=85sBufG}g$wN6f;V6dl)V~9p@?FmM%0}4FM4y(7`
+z`d?q+*>d(|gv+d$lgdp=(=xYN)#viPunT?MxXn@E5&to69Vdg5u5T(noCyiccOp5?
+pom?Q$$6z&Y(I?(=u{S68FjN?`eVu1>t_5g5gQu&X%Q~loCIHOUQ_}zd
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/magic_protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/magic_protection.png
+index ebd3a5a9bec4f0c9e8cc81730be1ea6a5c58012a..d73ff3849f795175c3cdbe138c0d11bc42b24edd 100644
+GIT binary patch
+literal 488
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|-oO(}veH;Vqc=Jo&YgQs&uN;R0yGzkGE6(9H{0V$4>Aiv=M5WsM+
+zd2b|8jI+QavY3H^?;r>>?wFYU7Gzk7YeY$Kep*R+Vo@qXKw@TIiJqTph=Qq}p`L|w
+z=BpJzHQQ1nJkvZqwHP>n999M?Mpgz!Aj=DgrJ-z)FEkjL!QxCnwjm=E*jG_Nc4j*Z
+zSUd~J27#Mpj0`V;o`un9mNEdPCa^QG096_o85=MzfS3xhk#zyYq$xl)2rvQ7Wdf@V
+zva|rQpt=kV3_!9^YcpGu0;lc+GUGj6978mMW6uQg9WdZv3P=%sU;mgj`*Lc{%kHLM
+ztf35P-x{1gIJWahgncNK*jThcSe}6+N#T3z3jQ4*nwk_6CoC)q{QIPttyOx-QeIt^
+o>iipznwY2EWY;qOUiaV`E8l9Cxb6N1$3WJ4y85}Sb4q9e0MA8z4gdfE
+
+delta 216
+zcmaFCJdtUFW4&~MPl)TL6v4k=<9}WAdOAns|KA5MH;UewCS0n)#K6GNd-CWRAjMe{
+z<QM!O3K)X@D}+FT1s;*b3=DjSK$uZf!>a)(nC0o>7@`qe+UF_cqR8PaIqTs+^>-|Z
+zKa;0UVrROf+tfYFAu5DdF=f>T-M$Cxfr=0LTh=~ePKh|T@dUG5^#U;;SKfltExw=G
+z4a%Q7T_{aH)IB>-nCXwgj!Bvl2h19mzK~~VJf{Dm=||arMg~ik?AQp0|3GUQJYD@<
+J);T3K0RZf~SCjw%
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/melee_protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/melee_protection.png
+index 8c2bf237aed9bc5baa6d56bf8100fb7060607239..f85f85a2d6bece15788bedea36bd94ab8b5138e7 100644
+GIT binary patch
+literal 489
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+72F+ad;2p|kcdK@OVQ^l`AnC$jJ{c%kxcO)nkm4u_@(cbC0Sxz=
+z_eKK6I14-?iy0XB4uUY_j)~cCL57vMMwA5Sr<If^7Ns%-BxdH7==r&ZD46OQ>RCu<
+zzFGlPvn@5kGtJXei-7~kVP%kFWMyCkvb=y;8p;OwLW7YREY1XE8!|G1eH8^{XSTC|
+z#X;@@ftzKF3@?D5h0$o1G61C}ursg#RT>x>8!#?_m<qCybpgbrDL^&|FagbF0;>$N
+zv;eZ8x(p2rK(bG3Gh34ar|ttX6FglULo|Y8&v|kkFyLW!@cj7czr48qQdO%+;iR5D
+zO+F0P*Be+$FHG!UTI}b#<fl`+I0Ls`Lx+6AFQ*Onv)x6O%oYjsKKt8%--+vDQi7f5
+nU1_(hgWRgO#V_4mzW>8hM!uyi5zqR)zz*|t^>bP0l+XkKEE9Ne
+
+delta 227
+zcmaFKJcnt5W4&B}PlzjnW^UxN_sV5=+5Fd5?fk+Xyo14fGK2F{21yqN1_t>AIYS`D
+zRTAVE{2vAwHl5Kq4;1Ar@Q5sCVBk9h!i=ICUJXFOLQfaR5RKr_bKYVN1{}-|UQf#Z
+zb4xGKJ9FsJ6!)oGf^}BG9w#kNO}bbdb7NY=(Ze5@xR;rKYy8cBNMNIY_?DxEik!MK
+zn@%tmNFB6|c(A6*LiS$3$@0tw#ozwrC+#*FDBt~lz+t`NYgYMy887uijB3O7ddaZr
+U6n_@H0koaL)78&qol`;+0Gq8@O8@`>
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/pockets.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/pockets.png
+index 8313329f6ad8f6cf9c13c6bda6c22ad817f28105..4c514d48333f02576b7c462faee8673ec7bb9a4e 100644
+GIT binary patch
+literal 501
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|+7EmhgRM77nGy8W55ON!JNWh-X}X_iMB0Oik~J-c-2(uor%mX(#&
+z$14FvnsSzR04e^GAiv=MD1hP0of!*(Qk(@Ik;M!Qd<Q|8amU2$w?ILO64!{5;QX|b
+z^2DN4hJeJ(yb?V>*AN9$JwrVU>C9IvfNHj-MtG)qdTKFn06DA-QjDw&j6jwb5KBYZ
+zARlTlGK0mLfNVoXCa{mAfb7h67O;30kPQMi%NQA600RO>qgl!Tl$yZKzyefhU}S8-
+zxBy}*$VS!$5R;|=*&x6KG?xjiGRV>b$b#xJGynw=!_(T#)}+9x`+&><PZ!4!jo`WG
+zPI5IE@VH*wla_HS>i_>@*B1gJF%{F>Ra(xuf8ozCWz^ibB6a?PAT6dH)wy-s)o(GH
+vMl*;V5ls?I<+~vI;>5=n83$fp&fmdsGMekgG>$c(0AcWS^>bP0l+XkK7J!8z
+
+delta 196
+zcmey${FiZpW4(HSPl&6ljlP+In!Jqo@;v#~mAYE0vP+jP?a!2Lh*2slD{E_OD+-Zf
+zU|<Mc`1c5q;w=gC3;vG;7;IlCwE-nK3p^r=85sBufiR<}hF1en(9P4uF+?MHZjU2h
+zg8|QBHqUKLfB#pnEK3kH-%zy4_Q{r-kKtQ#H|aA@YM3^mYPwI4#W@MJ4(%77wpVN%
+jYomhdC%aqBcYVg|YstlaV;1Wgppguou6{1-oD!M<A81Rw
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/projectile_protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/projectile_protection.png
+index 0dbb619c76168eafdf89545171cd53472c104d58..361e53c0c02ee5f92b414661ba2b424a689080b8 100644
+GIT binary patch
+delta 298
+zcmeyv{FHfuW4%OxPl#(=T-=TwJ8s;#@&Et-6)RSlnwmB>H8C(S^b~iL0V$4>AirRs
+z6bLZfYu+0P6yq%Lh%9Dc;5z`qj9J$@Ie~%_C9V-A!TD(=<%vb93;~Imc_n&&t|1Dh
+zdWL!y(wVPT0M%?ujqptK^weVD0CHF-o^X`kU&hGrf|-E<Mx*JQtikA6<CC%Ir|dbd
+zr$9Y1o-U3d8o{w=1NjaZa4-cVgubtT%=&s;NzKb{-4*cxtO;rS8Uf-~LWvPqo_53-
+zUU<mKz?P(E<lhkI(X4&KBt&Ot(R34)scloGpG~aFzwwA)Zo?V70Ktvl+4tRHZDnz_
+Tm=fd<w1>gd)z4*}Q$iB}2Ig#}
+
+delta 278
+zcmaFL{D*mhV~|{cPl#(=T-^Wv|99-zF>~h38#ivOSh1q1smavTw5X_vfq~(XRsKpK
+z#Z?mI7YtMe0SueY=$r?Nau#?*7BevL9Ry*<9TT(PPVAOvHSfOm-E!jkAo-hRj0`WB
+z85m%6Kw@TIiJqTph=Qq}p`Q6<1xC;M>|NKSC;gTP2AY=b>Ealo5gdAslgq`BgE?Sv
+z>F)on?HQ-jTbw>m*m6l%$<|mrlQASsM4(Bt;GAW{t)|zq|CxU@D=^5t`q)_YL7+$>
+zOM$&-X7sjzvdvL~R`+-3ot%Gf(#zNi?ac-Uq{_u?UaVPlR@}<i{5!wyQI_A%JTnw{
+Qfc7$Yy85}Sb4q9e04nKmx&QzG
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/protection.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/protection.png
+index bedd7089bdc258377858c335c94f26571f2018c5..6e16130ee933cf147324605f232ad3ca9dc889d6 100644
+GIT binary patch
+literal 488
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+7JCCINvd*Ti+3Pm%k4dSJQ!()k%Lhu{%NLUdQXC~ge!>4CfZ<;A
+z-bkPrXMsm#F#`kNK@eu#F){ls$gmREh?3y^w370~qEv=}#LT=BJwMkF1yemkJqzi~
+zS1W*OwxvdRrg?g5F>nAmtPE0&tPG4mmKP99L)jo-XfQH^#hHL?Lq;aBucCnL%yt&A
+zcovWi0yoPT8D0QA3!~92WdKS|U}s<fsx&Y%Heg%;F%@JZ>jH>LQ-Ev`U;>)U1XdYj
+zX#r$Gbr~8MfMlQ6X0|2;PTdD&#(TOrhG+!Go(be*G2~zhNYJ|X|Cn^n?72MgpB62$
+zcQkJ>PIqXoGMLzLV9`96C##r+_bG~tX9YIo?m0NA_MmjarN(tjWe!A27$`sc)F$Y8
+onSI-ngRLiCvhP||w*SL<e$huPIlY%|uz{@gboFyt=akR{0F7XLivR!s
+
+delta 222
+zcmaFCJe_HRW4&B}Pl&6XN7A&ptDCxJ$D~xO+q^%&tkX9v-`*o$PQ`?Qfq`51_Fo{y
+zRTAVE{2vAwHl5Kq4;1Ar@Q5sCVBk9h!i=ICUJXFO98VX=5RG8pzLSgx6gXHcn;ic0
+zraKzWY(LbodWvVu(icsWX0WOXq;2sG?|Q^&aY5II?^`G9x`?)WwL5R@I%H^~^iL@&
+z!`<P9*g7RXmn+^WXLc_Ow0}E6w_x#+o-YpFU52Y01PvDaRyJ~YJ5xVlF>7$!?7M4#
+P7BhId`njxgN@xNAuNGRL
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/reach.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/reach.png
+index 47418cfe4b379ffb5edad550a0eb11897f6e018c..eb7b1364c7d9fb6706f8b49bf00dce73eba0a37f 100644
+GIT binary patch
+literal 482
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|+7nZy>Gz75{<51N~s|Ns9VD17YLvF`3}AY*G-t{afzED7=p21<be
+zL$H5^5J<4VBeIx*f$ty)Gwzs}{T3)FQQ{g=5}cn_Ql40p$`Fv4nOCCc=Nh75s%NNY
+zA)WbZ1yIel)CkWsPfsld4j_k>L5h);ff2~^0%B<>8{`uWMrN=$6Oe7l$OQIT6p)?S
+z&H@(C0<uBiW*H;H3!sN#G@7LhK&c7r3@kvE21dpPj0+&9f^1}605NF_kPQM%Ky#VE
+zDuXO7fGnskLjwbl?9<xJ)}+9x`+&?)PZ!4!jo{e+Xubmq94z9RkN*1Kd2=o3&4<La
+zN6JZm59~ga^Ti>gDqtnUtloXjt_NA)a@G|(9pCt2XI|2bIkGcqCUx8r{_@4fDQ%mB
+g_VZxHZS(6D&C5F3W=T5Ed<C-1)78&qol`;+0I-04Z2$lO
+
+delta 194
+zcmaFF{F`xtW4&B}Pl&6Fi_8E2|0N_O_U+qu<Hn6?)23x-XJ`1yX~=OiFfh!{&<_Ms
+zTqQw%!9ZmYz_96z&Uv6HXMsm#F#`kNVGw3Kp1&dmC>Y@B;uxY49D2@C=zs!;^F<HG
+z*}vm=Y;o;<^Dj7!A(bJ3aqUc|Tcro?OIvTUtv>jM^TVsAuW<^05B{6~`Q9?$mP!wG
+om+R-I^5rH;@E!Estowv{RV>>_R;7Jkfrc}9y85}Sb4q9e0BZD7@Bjb+
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/reflecting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/reflecting.png
+index 6b3a449f50adc295fd483cc3ef089e0d313fd6d1..a4840b81111ae5a6ee65cefb9dd2c8ecc80b0fb8 100644
+GIT binary patch
+literal 511
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|-o8#iwJ|Nq~;%IW04bA@Y?O@j4%t~ZtK%MG9CAJE_lR3)-Qp$15C
+zmjw9*164u+gO@+!C!jEAfk$L90|VcF5N5Ps4ORgPN|d-plmzFem6RtIr7{F0X6BXX
+z`MHKDnCcnoSx9HTS^-qEEj7Y3&C^qhfdj~4WsqWIWncudynt95$_DvJgOM35&IDu|
+zGBSaE7zJc!wzGi6vw&<6SXRc!@B-*@7>#Br15j!LI|B<)rGb&L0pkLQsURC!7eGv!
+z0%U^#6VO~Hu*x7y3m^-s%h138B>Tv-bmDo3sgHroEKe855RKs2^WH*-4LFzs_Dy>D
+zkNsW3@=U3<4|*dM{&tmg?{Pf(j;CkGs$K0*+uFLUJ5O*+aj74W=HYsD(V*>?@TWJg
+zuNNpsu%G#MZiSWlvuD#*XNj{txEYy!RD{hV?fJQXPpxBr{x12%*uInP=7GP9cY|Eu
+M>FVdQ&MBb@01d#9)Bpeg
+
+delta 176
+zcmey*{E~5kW4%OxPl)TiE}56>MZezC`u}um_(XsADyPCV$qWn(KVLrD2c$Skg8YL2
+zLjc3Q=Dm?XG0p;y$YKTtz5^i4n02j_6Da8B>Ealo5xll5kn4Z}hqG_iv%mRwN?60c
+zncr|$wGsaM$XxJ&!iLXQ3s^hF1R397{!p%IdP7OIe^cuxqm^P$x9@x`#y;QmDvR|;
+WHu<H6*Ghp#GI+ZBxvX<aXaWF4bxGU+
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/ricochet.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/ricochet.png
+index 30ac37e530b2ae0a8a96068700164319753a3176..453b6c9aa9e6ae2957015dd62a020b9f2227d32a 100644
+GIT binary patch
+literal 495
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+7>)c$=hC2P=z>{D8HC?}&yKisun$`Xj`~Uy{4^(0-a<B$Sag_x5
+z1p`GOfML@ao%29Z&H|6fVg?4j{UFR}!5XXr6qG1&jVKAuPb(=;EJ|evNX*PD(erZ+
+zQ83jr)U%Mze6<3oW?O26XPT#{76S*6!^$AV$jZP7WO)IxG?WeUjRqq#SeyySHe_T1
+z`z{K|&TMA^i)R7ZAh4{Ak>Lf<(=Zy%QU;*Z1a<}%ph^QHV*|zo5K}=mvMzv_GzG{8
+z0VbfiOkkBkmKH!3RF|QF0Z8_dXX(WA4pScknQ@*jjv*SsbNjrxjyiC#Y(3`x>z_Cu
+zA7=}@e)kRm-Q3*E{x`xC(#ldNdnd69O*}EhE>$Gt3fs#?k0T~tWnLxlBx>eSwlfpE
+wPUJm1{bkYSyXj@W7gTTIPd;$(@8d7LbIxnB8_jtow+Ljbr>mdKI;Vst0Nx{o`2YX_
+
+delta 362
+zcmaFQyoh;%V|{FZPl)S;%jc%vxn6a6=Y*T*Bj(KvnmsXS+62em=K9kIiw|te+_bXg
+z#G$-h8w$6sk6tn>Z~MCX!+Xp2?nqg&C}GW_mUD;ePwWexKh0-qw{?51&x9_s`m&%I
+zlT+3$_M6_vz`)S2ED-~w<V%A5g8!p~dK3YMvyx>3K((9&9+AZi419+`m{C;2s{tsu
+z*we)^L?bx1|F#&DB8O|?9L4p@o=elt{;yA4kw5n+^P9tun6A%fxH6$Y;+DvZzXznb
+z3@n6r)7W3<Ma8hlUtoB1ZD&Wq2Op7uo@S>Fg8jR>U4&EAl0W?WsM58b(d(>PrPQgd
+z92b@?HObDJ%`?5Wch8r}kFCy4TydGNarQii?G~K#-?J{LPqI<|yj^d@%vm!npDh#L
+q;V?a@>b+NQ(%zgW?HfPts^eM9ccOIbk}{xs89ZJ6T-G@yGywpW&9qMd
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/shield_strap.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/shield_strap.png
+index 9df5cbac186016d125d1b3d6d995548cf563001e..39d803ee20db31a15dc285c4cf2b3c268e0ac56c 100644
+GIT binary patch
+literal 489
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-oO(}x^|33KpHNI4X>DM){1ZA!=ZQhp~Mej@#25Dh?{}@Pdl?3?(
+z|AzsFO=on@14TItJR*x382Ao=Fk{xWPEMepM2TxeNpOBzNqJ&XDnmeGW?qS&pKFMM
+zsh**pg>>et6+kuHQX@RmJUz7-IDi~h1}R2X21X#u3y7tmY>;m>7@5K1OhC3FBNNzn
+zQ9yQPI}2Dm3&;k6{bh^{FMytg(P)-30Hr3dGq3<v8W<THFfM?Y3bK)P0mP&!KsE?4
+z0nKFss|>QV0J5OE3=IrGvOXD$e#)NXdJ1Glc)B=-Xawi>d-5GH;9%}7^!o9?UHe3s
+z>Rf5%+d_}ni?}0w0);yK8iN=DwqAQ)SZLairt8AHQ8+xcdq*y(>4a-Vi~EI?4c%fr
+m*ST?ZpK{-!_V-`)y9cbCW^4kxHBLB#?DKT>b6Mw<&;$UI^LgX|
+
+delta 175
+zcmaFK{DN_UW4&mAPl)TiE}56>MZezC`u}umnKo~NG8Y2_!}ZlQtw4&sB*-uLKNv7b
+zc{95Kg*Xd5B8wRq_zr?F<Bo~hZ-IiIo-U3d8o_IO0=W(t@Hkyvy7T`;@#z<*{uR|y
+z>9BM8SE9pE+L`m-Jyc<1a|dHXsf3_!NVb#4<Q2DA)B_jK`{8z(x#I0-@m%(q<_n*&
+VJoH<mBn32;!PC{xWt~$(69AwLL;L^$
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/shulking.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/shulking.png
+index 047a2c38ad2a6c93ec739ed195b980fcf38b7ca1..739e2dd1cae7e10bca961ac4431cd199c79e5440 100644
+GIT binary patch
+literal 502
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-oAd`gEEvuZ>0;Xq9Zwcz$wXO2_;ofH-*5-I*1C<0m(0T`?xJrWj
+zg8#z+!=^Jj=YgV}1s;*b3=Dh+K$tP>S|=w^P@=>&q9iy!t)x7$D3u`~F*C13&(AeP
+z!Bo#s&q6x$)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP&UXn8jQ?faV8+!kdX=O
+zyC@(#vz-Mjo&{us!2U8uh8I9j!)P>18Gup~*cn)WDh-T`4Hy?dOa<A<x&UI*6d)S}
+zn1JRofmH@sS^!y4U4{k*AX%S`ML%WFaXkexQ$1ZALo|Y8`=W&!3^<rQ7l^*APi$|$
+zR=7Xmw8_LDih@c;#e70c4qOa63%i`Qw%+RQdr)xXR`q*RrTOcWmiH{Jj^7cUb77DE
+zohX*Q|4Yg)FEGr$ASdWD&EcK$s@ZaZ7uVDtX_ubs#2U@YouUe|+|$+1Wt~$(6987@
+BgPQ;V
+
+delta 219
+zcmeyyJcVh3W4&~MPl#)fNy6g#Mbk5<m->~gZduh5)S2Uv?W`8Sz`$^7Z}tTs#aR;M
+z7yKUz7=ryPgg}A?9+AZi415Pcm~qF%?6*L{Tu&Fr5RG8lK2IhVLk_0cV=w;4+cbC<
+z8$=XtmNaJZI(F<1vlv(Tl4Q=$%^xO)aBHo5#k~D#6Z3_TE0qj!jtdwstSg98D0g$$
+zI}q2)V9@k(`}R$hFJ+w?_?p5OF){XO${ej><k)^fPeSjZ^=EeWDwf)^vwb&!HZyp-
+L`njxgN@xNAw<A>W
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/slurping.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/slurping.png
+index 2e0b6ceda33908362fff54076fbf87fe8e1b4f5b..72b09df06cf00fa5ed5ecc37a35f061ab6daae6d 100644
+GIT binary patch
+literal 529
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}50G|-oD^I^~KL18nS2wo*(6njOjvYIeot-TyDS6|@jsO4uyX3z#iNB>A
+zv=^v+Hn(Uokm4%|@(Tt^ApnExfjcLFGMoh-kw6uEhd`K7RKu$QC@4|l8c`CQpH@<y
+zSd_{TkeHcQqUYxtqF}0LsAnOa`Dz7F&9>AC&ooa@Ed~xChm}E!k(GfF$npYWX($`y
+zI}Ju=us9QtZOF(3_H7i9o!QO;7S95*LEuvvBf|?|Ai!ueOBsMt6WAG8fGQ1)j13qU
+zKuiVM$hrVx(i9*Y1ek#4GJ#bFSy}*DP+f)w1|Zopd15tQ!7pTh%mPmr#}JL+)_zC6
+z!v-8IiQ;=!=KlMCm&<*p%Tz0&j=9_kUl0A`HvW8QVe{-z!HF|1uM~41`MT36`9+82
+z#PH`FXKyAc3OBfA=*@cH+cN9IJ>6@{ZQmA6beXe8anjzE3ySntR>YrLcX{6Bm+j~5
+b>ngkT>$Y-qzTaiB666j~S3j3^P6<r_H^rNQ
+
+delta 232
+zcmbQpvXE(lW4(HSPl)T4r{81y59#XaZa)8J+O%oMjvdR+&X$yvym8~k|NsA8@?V<7
+z-(p~3D0}ecE|B6a3GxdDio*ee?F*$gpaf@uM`SSr1K(i~W;~w1A_XXz<>}%Wq7gi`
+z?;@A8A%}DC)mu0J{QvIPdNB1(>hpz(Gn_R9>pnW4IDGZ4;FX211tME!iCc?>a|XTL
+z)3^KW47X*!Ugn5ZDr&Fab)A2sZXV|yAt_%|A*Tn*WemnXxka7xE>&;QKek7C-XGl)
+Z=3#R=wzufY{{vdf;OXk;vd$@?2>{nJYgqsQ
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/snowdrift.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/snowdrift.png
+index a90e8775020a47287dee6a09deda77cbac9fd182..07e4f5298304ed632cdb602b6389b8a693ce695c 100644
+GIT binary patch
+literal 482
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|&0G|+7U0vP(|Nq~(aYIs4^4PIs)22=P{_kJ)vSk-Oemr#R*7{SYK&Gs!
+zS`4IkN`m}?fr?>(LFoRub3k#<0*}aI1_r+UAk1jN8ms~olqhkHC<)F_D=AMbN@WO0
+z%*-p%^K%VRFx4~EvyjewwF0PSTWW-7ny0500|$`9${@wa%D@O@c>%FBlnwHg1|u_A
+zoC(M_WMl&SG78AfY-a(BX93wDu&j)c;RVq1FdEHL2B6dgb_N!pN&_Qf1I7gqQ$aSe
+zE`XRc1;_>gCZM@YV3k3Z7C;tMm!W|HNcNFu>BRF6Qy&AFo}Mm_AsWF;PdN%TDDXI6
+zR1w?w_V4@G3Km?_;{RgrvFvP-Z@9+o;B}j2lJ5e^0F`Qn+Ue2>Z}U?RoU5vEsi;sD
+g_T1E0aqyD)oKrp=2Vz#fxB{}k)78&qol`;+026wFwEzGB
+
+delta 227
+zcmaFFJcnt5W4%^@Pl&6ouI~T;|8Ly5At@<&?AWns)26LIb?U{B9~VA;tX{V4(5+kF
+z|NZ;$_b&qj!%U(3lYtapNswPKPzwSuxE{E30w}{-;1O92RB!-<8MCf+asmYtJzX3_
+zG=g(aF!D7h@Gu|X4U{<izy5kz0!PfTi5I>-`FF>@L*bFM!mPgU@)MYX;tpt4I$q&D
+z$Ga|Qm10)Qk-Qc$rWH3BjK!J?KLs$XvnZeY@{r5xx%P1kYK?9)f~(6zYZ>lu;P4F;
+Sl2-xR#^CAd=d#Wzp$PyMF=&zi
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/soulspeed.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/soulspeed.png
+index c03f16bab934da4e7329b0fed74e1e75c39c6425..f5156ba727211350c1a1f352890a0986c5169851 100644
+GIT binary patch
+literal 509
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|-o4Zr>-eEnsrsr3K<e}i+E8JDk#e*B{5(^sJU9J#o7AjMe{<QEK-
+z1p|g){|X_HV1Y+uF#`kNK@eu#F){lsP*9@8HKHUqKdq!Zu_%=xATcwqM9<GPM8Q<g
+zP|rd-^VJHVnr*2Oo@t(*S_~XO4l9EcBP#<VkmUu$(oi<YCmM{*U~wiO+mMk7?6W8!
+zJF}eyES?2qgTT!)Murza55s6QOBsMt6WAG8fGQ1)j13qUKuiVM$hrVx(i9*Y1ek#4
+zGJ#bFSy}*DP+f)w1|Zp|wVAC+fm8PZnFXFMjv*Ssv3-twM*=vU9&%6nJ-=d+@8q%@
+zKbsgnsjD#9H!Q!$;&|0j$+JJ1ch#c_jMcM4FEAATQ59a$6d}lRLdAA#-)WcA-`;s7
+z?a;ih>v+86d&E0gb?0@fR;xe0@}%QZ+nHmFRTpeg`2G6o<xiLR-<Yyi@8el426Bg|
+LtDnm{r-UW|9x9Ib
+
+delta 222
+zcmey%Je_HRW4%OxPl#*Hr>|H3{Z~G4Ec)?_|NsAU^iL9AznOu7Vb1dRRzQlQB*-rq
+zC=LP)_nP-c0>wBBJR*x382Ao>Fr%o3R|8P6#M8wwL?bx1FPe|pkca7D|Brv>dKP!r
+zhU{DPkwyCRbXJK89UbgBOdf&-CsuX6P;tE$Zeg7(z|q_s=2|ADzo0$n(ycm2=gVOi
+z?`ljiTJ$@zIz-{_d2yGtxaQ!)n;y+tzp?B5kH!h>FMW&ptK^dNWba|i*~apL{45Fi
+TkGx!g4q)(f^>bP0l+XkKf4g91
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/speedy.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/speedy.png
+index eb1070b2b92846f2a531a2947f3d5de849ef58de..0f4fe23d657894fa155c0d5b8a4e555925465921 100644
+GIT binary patch
+literal 479
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|^0G|-o7<PvL3=FII8Fd*LihzO)4E>WXuLDwSB|(0{|3QFZ^Zq6Kfg+p*
+z9+AZi415Pcm~qF%?6*Kci4xa{lHmNblJdl&REB`W%)AmkKi3ciQ$0gH3+c>PD}ZXY
+zrABzBd3tIwZ~!^13{s4&42(dQ7Z6KB*&x?zFfxP1nSg9VMkcUtqJZqob{4RB7LW}B
+zH_I3qUI0A_qtPs707^|@XJ7%UG%zwYU|aw(6=Wmp0*FadfNT(80-DPNRvBbz0c1gS
+z85$UXWS`b%wk8Em-3MgGdAc};Xax86dvY;5@-TaM|NsB=L0((q1m}`X+@8nIO#dOz
+zkY3mLBv#I$igWQqhb3h@`FebBr8TB3)$^R!XJNWCT;+DG{rcof5ue`9kZeDsnRx7$
+iNc8E)H!fW4e{Lrr!@POU-zSqmwtBkyxvX<aXaWGu40sy=
+
+delta 240
+zcmcc5ypm~xW4&U4Pl#(kKtOU*QVcu8Dt^Wy28Kh24!wHy%8`}fKLdj<0|+Set-A-L
+zxJ!ckg8#z-gO@+!C!jEAfk$L90|Vb75M~tB@M-`GR(ZNOhG+!G_H%O`G2mcbTfg^z
+z<8PC<dLbMwg`Z5W%#U*Lz3zG@^G}nmSfIcrv*Pk+7knm|X6;tgJjCp!6l_xRp=pkq
+z$Wcpw6_&dW7iMxSFtB(e8_m&RcU?Xq)V6Kw_MaNUpCwkGk*YuNK~Tzgnv^}Wr1N>X
+d;H{yx%+vR=9TqOz{~G8F22WQ%mvv4FO#qQITl@e3
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/springy.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/springy.png
+index ef5d3f469447e739c988257269788173edd3adb8..3cc5ecfe06f65614a01d3ce52273dc71c076b841 100644
+GIT binary patch
+literal 491
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-o%Rvlp;utnKF#LbG|NqXK|MLU>H>>>5WBvdCKTye+-nCLdimN2Z
+zFBm8S0SueY=$r?Nau#?*7BevL9ROj*tZSW|KtYKT*NBqf{Irtt#G+J&fW*wa5<NfH
+z5Cu~`Lp=-W%vURbYPO|Dc&2%JYB6vCIjjs)jI0cdK$aH}OGDWp-)Jy0gT<MEY(qvS
+zu<xRP?96r+uy_`b4Fdbi7#UswJq@GLEM)*nO<-qW0je}GGB#jb05KJ0BkKZ)NmGDq
+z5MTnD%LG;#WN86pL3J4#7=UDbG8X-mJ;(JF$c*xIaSYK2p4)ekt092Hxpdde|Njps
+zes>bM;>^r$z2Mw0#oyd#&TQlV;HFZwv(#F8CX)+q!KT1UmmpJyAm$#0)@;^UCsRbP
+rP2U-=Q=V(!G*#{XQ3jv7>|d;Y=i1o~8_UWYKsI{1`njxgN@xNAWw(H5
+
+delta 364
+zcmaFOyo7mzV|{FZPl)T+#d-hN7eDU~`?o6lV3Fy89Nish2AjjAKTe5!*5P}t%JtQZ
+zqzBC&*INBg<e1;7_j)=x_QAxEQx#5^O07Q4OL#jo>R5*Et~B+v0iv4{w3fIF?atA^
+zRA;{@UW<W&LHYBnUqDK}B*-uLKRT#K5nwngStbBf%UR$NS<Jw|cNl~jkLRyQ0SYel
+zba4#P2#)PPEp|wO$Hh5Q`MgjkSH#=@^~*T#TDG(9Jbcoi;2-CK6)nwKh6&es^ED1E
+zjMLd6TC*dvP%z1feZwySqo%`q1Dp)ayiTUyd8a7o8!$6f;n?xX8v8}I#MO2#S+$pQ
+zL*5jlbg6Eg>3bXl?*%_tcYosL<#UDjts7-4h3?%KZ+JZU^Sqh+|1x#Io;tHw_8Svl
+pPWD?1zT_=$b9nr$G9Fd_W8kReo3f21<qFWn44$rjF6*2UngAO-ujK#$
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/step_up.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/step_up.png
+index fdc0cf8bec44d57128e8433644c589cf6c5de0b1..a496edee1c27fbe3729efa0063cc5fb2a341c4be 100644
+GIT binary patch
+literal 487
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+7CnqNr6_q(N=X7^=M@2@}*ViW}Cs&kJWaVZ7l^pu&5eKBWN`m}?
+z|HA;orZYO{fufuR9+AZi419+`m{C;2s{tq|QQ{g=5}cn_Ql40p$`Fv4nOCCc=Nh75
+zs%NNYA)WbZ1yIel)CkWsPfsld4j_k>L5h);ff2~^0%B<>8{``eMrN=$6Oe7l$OQIX
+z6p)?S&H@$(IS>Rsl`%5B0D2lmqgl!Tl$yZKzyefhU}S8-xBy}*$VS!$5R;|=*&x6K
+zG?xjiGRV>b$b#xJG%x_kp2-ud@d|z+17wDIx;Tbt1ecz_$k(92<9yL~7vKN??Y<K`
+zrS|r#M>22QzsY}tart-7*;x!+Q5qi@B^C5f^qk>LYkSf4{A85Q3fFH<J%$Trb9T)w
+kos=x7+$gu_*Uvk9nU(LbKDtm>k_ocS)78&qol`;+0Dh%=$N&HU
+
+delta 213
+zcmaFP+{ZM*v0fs;C&ab8vwP0WIra7R6=fA!xmi(>QOU{43=9kly-T`)6h}#rU+{kj
+zV7S-3HxekuS>O>_%)r2R7=#&*=dVZs3TAt{IEH8h`}Q&Nu_$sJadX@8|9?gI>sP*u
+z8ruTC+`d>*d?29X2y0^GM|K&$U%L<UwffaMUiip2!<s$iT9;itdv4Z-Rs0F=-V9$>
+zvu)m@e&J!Zx?IEaT?>}Z^XZtsOi@%g`oC)ERq-cwi(fGc?P6XrU1hx!&|U^lS3j3^
+HP6<r_dB9j9
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/swift_sneak.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/swift_sneak.png
+index 93b139460320685a972757d5c4047250dd511eca..7d914bd5c4de6009895b07be3fcc345deb7adf1e 100644
+GIT binary patch
+literal 479
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+7RxKm0fCPp~Q<)tDc!k6@@4pt5Rs>2O`_<n9q&P}~{DS{O0K>iJ
+zy^%mM&H|6fVg?4jgCNYfV`BDOkYOdR5hcO-X(i=}MX3w{iJ5sNdVa1U3Z{C7dKS`|
+zuT}unY)g&sO!M^AV&DLBSQ(@kSs56CEH5CIhO$Av&|qW+i!%Y)hKx*LUqu1gne8lK
+z@hl)41a6iwGQ0qK7Dl64$^ev_z|Oz|RB2#jY{0kxVk*c+)&&rgrU2O>zyvgx39K^6
+z(gMhW>M}Gi0LebB&1_8yoVpLl4D)nx4ABTKJ@3hPz<`6<A$j-9|Mf8wTSEe0GdnTM
+z9H?cP-!PMvqix9q@efHH4viWPD|odNoVO-EJ+ra#W>jweoQ51;u`PUi&rP1wdzi7z
+eX}$gVy`LFY?P9gtaCiQ9kZqo>elF{r5}E*nXLWc0
+
+delta 290
+zcmcc5e2Zy<W4(8PPlzicJ0}w}3o|Pl0}CskxQw8*BCn7*H@`58qB^gr6e|Z87oQLZ
+zHy<Mt6O)=gmw+&XtvwSnGb1-20~-f}loYe1ETgm%i<meA1H(P$^)rB!WJ!=;@P8bD
+zfzgC(J5Uj4fk%C0F#`kNArNL1)$nQniWYmiIEH8h=bnDecSwPU^})6Um$)C@xw7y7
+zWUiDAJ1Xi-)Z_gQ`v2r_=x~u>bJ!D;Z@AGU)4_0)*6OF6FXMCyEf;+I;8EPTs=N9D
+z=lOrWSyQbUwtF3CT5~lf=Wb%PXKYG!eHn*R>Bf#8*L9N8+YkHuJ^05ODk$W%?Ogdm
+Pp#2P<u6{1-oD!M<)6`~=
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/thorns.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/thorns.png
+index 8f87072339e18093f061b38567107844acfcd3cf..128be1864f2eaa79d327a107d100929eaf1a68cf 100644
+GIT binary patch
+literal 507
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|+7Lmx3s2jS=*?VwsU%Lu9Y%X6Jl6?W~Pnli)a{gVwqRZ)9VCju$%
+zk|4j}|8T(I<<IyDD9l;l5n0T@z;_6Q8AUa`8i0ZlC9V-A!TD(=<%vb93;~Imc_n&&
+zt|1DhdWL!y(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=AeM%*K|a!8WCn{f0ojI(
+zOkf{I0oj@DEMW00AR7cel`%5B0D2roqgl!Tl$yZKzyefhU}S8-xBy}*$VS!$5R;|=
+z*&x6KG?xjiGRV>b$b#xJG%x_kp2-ud@d|z+17xOox;Tbt1n2fg^D!H8FgNEm&HgRF
+z<5cp}Ew_Hk98|dVWAWaOZvukR4NO7-@r#61BTl@EtUk18x8mEW8(d313$dP9bD6{0
+zZKk>v(~QQ|jOQ2>)@sjZ;eK=GvV>#Tn>oEPj~@Nq8NV-3g3W%y-%x&#?VhfFF6*2U
+FngAfOgNFbB
+
+delta 226
+zcmey(Jez5PW4&B}Pl)TT{Zr>J&(+n{{r~^}jT<+P9XmE{+O+KKY)MH;1_p+gSM?Qv
+z6jw=*UocPs1TbtmqjMf8%30tMS<Jw|cNl~jkLRyQ0SXp)x;Tbt1jn9@6gq6c!5rWt
+zaQd%)3}c>EaP5&7N4u}Yi^WY7vOHDtGBn!rmjv569v0>~i_Rr7H0)ee?0SFU!wR1t
+z(sFy1jnC|2n&`RW)a{8n%n={t=Ww@AH#@`pVYjnioByNgC1K0-KV+sI|GRJHF9yE|
+WwyuZs{+$9^&fw|l=d#Wzp$P!^dt+k&
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/tool_belt.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/tool_belt.png
+index 5ad2e7c2fb9d90d6d3f1161e1d7f6119fda2fbc4..87574f455b9b08e3e9244823a9558767eacfb6fe 100644
+GIT binary patch
+literal 486
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+76GhQu$Bx~&abw!FX;b5@i#+r~O%=1VvlT^ofl3x7WfuV{u96_X
+z;Quhdu<4A>d7vm~fk$L90|Vbd5N6ylG5al0P@=>&q9iy!t)x7$D3u`~F*C13&(AeP
+z!Bo#s&q6x$)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP&UXn8jQ?faV8+!kdX=O
+zyC@(#vz-Mjo&{usz|As7h8I9j!)P>18Gup~*cn)WDh-T`4Hy?dOa<A<x&UI*6d)S}
+zn1JRofmH@sS^!y4U4{k*Alaw2nXO5IQ}+Rxp`I>|AsWGJ&v|nlFyLUh;Q8pqlYioR
+z%DSyVFP5$Q^3(B+`vY-?2E*qvr)MfQX`j?dJEf2rI`wxJ$ExYd9?dg&nK%!JU61Dc
+l(yM*s^9$WiZ%!x27cl(cXP=@|Wo!qs%+uA+Wt~$(69ALDeLesH
+
+delta 164
+zcmaFHe3x;8W4&mAPl&6DmQq24N355Pw~fK``?vo8|Ifg{@aguGB|wV3B*-rqC;}3c
+z@@94e3UL;AL>4nJ@ErnSMo|r~2B4swr;B5VM)202gM17M98RpK|Nnnta62nDS|&t}
+zuiM+c(et$yvk<E;&w|aRybfUth16rU@3+X7x!<~3@<P^yXH6)}yN3CP)qqAZc)I$z
+JtaD0e0sxx@J5vAv
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/trim.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/trim.png
+index 1a37fe32571b4b2f0efa57d0e3ad7346219e8124..5f6f974f81b898419f621002e16e00762549f09c 100644
+GIT binary patch
+literal 505
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-ovXZQ@n9#nSIu935?~^AJUc69}Q&X6=!_>$UsN~>-jXgk$t0c%T
+z_&*FVY&xTJ9w^FL;1OBOz`%D1gc(IOyc&Rl5+$w?CBgY=CFO}lsSE*$nRz98ey$-3
+zrh0~Y7SfroRshv(OO5bM^YqkW-~e)18Kf9l85n^qFCdnNvO&JlU}Of1GXdF#j7(tP
+zMFH8F?JQvNEFc>MK9w;tya0L{Mx$BE0F;`*&cFgxX<%e*z_<WnD#%9G1rU>_0NEhG
+z1T>cktTM>b0?2~uGBhv%$)3p*tMLkcAp>M)c)B=-XavWeyU2IgfW!IX>sb??{I9Q2
+z^1PjEqww>DlfnPCy^i+}l*TSdWnXaOo<fHh!#U=QQQZfmd2E#y*()sB_eo;|kD_OC
+zifrjqy(iKtUzZ!qj8vNMBzsnA{vLbXUyX~-OwF%&&U`<Bb@l#bw>v@hd%F6$taD0e
+F0sx~Ch8h3>
+
+delta 234
+zcmey#yqIZ%W4%g%PlzjnuC4+D1JnQij5ls9U}R*RHthhAJa+5>BO`;PBtv#K0|P^s
+z#j-Xa#ZwaG7yKUq7=-ShI|mf!EbxddW?<ku48n}Z^H-z*1q(b~978mMb9>!|m<>5t
+zE-Lx_`d@F`oK;#NDZ3z=<>mYz$;vJ%y>3DYrx*Y3SZn6=ws{fjN%tA-`)1TwUF)j|
+zxvHC_-*HB1)y_~gm-1hU{_B<nNN>~bdQxh=K`bQZXW0V>m%D;ecAo?-&d&JMA$>Rg
+Y+g|oh_m3*Q1zOJF>FVdQ&MBb@0CzrL)Bpeg
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/turtle_shell.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/turtle_shell.png
+index 301d9d1668dd529c72833f36d00d17416e47c949..a6da819fe33ed7f2f13a77fc790f097a926d3e0e 100644
+GIT binary patch
+literal 487
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|^0G|+7&00_UB~I@9y)1gIq@xXi!f&>&ss~bRB|(0{|3QFZ^Zq6Kfg+p*
+z9+AZi415Pbm@(^GCnr!)qQo_#Bsf2<q&%@Gl_4N8Gp|I?&oxBBRL@Y)LOS!+3ZR;8
+zsS%!Oo}O9^96$~$gA^kx10#^-1;o-&HpulFjLcwhCLr68kqPXZC?GqtodqnO1!RN3
+z{xU{}7eG(KXf#V1fKn6K8CZZS4UCKp7#BcH1=+~D0AkV<AR7djfaWrRRR&pF09jC7
+zh6V;8S)YtWKV{ExJq0q;JY5_^G=gLMBl!*}2spJL{T;uvab;$ZU60Moqn7q(=Urtr
+zW}XyqbIy*H><<|x`M4&rdNv&Kjo7)Yb0Jf;ZGt$1V#6A>K2GjQtmXXAFY?6{=xk5_
+qvo5c3<<EafFTU!Zc=J`fri!8G6tmN<x2FF=wtKqzxvX<aXaWF;TY8NE
+
+delta 242
+zcmaFPyqal(W4(HSPl&5Rmh++Q4J&39cQ(YFx-fA{cd}-!r$w)o{Sqhl{a(`1h6Y9U
+z3=9mRjTcma6mLn8U+{k<z+n4AsSPN>S>O>_%)r2R5QG_bOw4`@6fE&{aSYK2c0Cu!
+z)S$q@e1TKY_0Io2yjO0y9}4zN$!7W!vdbZfC-LM7i5%fmj}mq)6!r;w(?0p<0bjrU
+zdhIjx6YB3z;e5#UO~lDW<3jiXVY#Vw9UXS8lE3#a3)Ek$$X&5GLH;E(uj#QhY&i=I
+h?&_aN$U0lYcsYlya+1T=S3n0ac)I$ztaD0e0sz7UWH0~#
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/wetting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/wetting.png
+index ceebe33e478ac540a591fc839e40807ce44cd56d..ea087cef3f62250f4f62171d10fabc7d0a4c4a8a 100644
+GIT binary patch
+literal 535
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}50G|-oD^I^~KK~}R|B$Y(uB4>ojT<-q|NnpN*s<*F>}k`cx#YhziNB>A
+zv=^xSU}$0tkm4%|@(Tv4K>!BV19wgUWjG5wB8!0v4uLSEsD@VqP*9@8HKHUqKdq!Z
+zu_%=xATcwqM9<GPM8Q<gP|rd-^VJHVnr*2Oo@t(*S_~XO4l9EcBP#<VkmUu$(oi<Y
+zcN&b$U~wiO+mMk7?As_HJF}eyES?2qgTSXUMur!_K!DL`mNEdPCa^QG096_o85=Mz
+zfS3xhk#zyYq$xl)2rvQ7Wdf@Vva|rQpt=kV3_!AH^2BPqf?vo0nPr|Xjv*SsvF984
+zm=!sgFUWo23;g;2er(sxO}$6B^k-?jTEAdv#rqYzR{3l$<u<MBGGh4fyYiiNlE99V
+z^QNvYn@;h$q}3((F<L5FE>EarS*;P#mYx6p@TtA5ueqlkJY&OpX35N#TjwoyyjlM+
+h<Asd_mz8wgE7k-fjsT^J>+(Ua@pScbS?83{1OQ^-nfL$z
+
+delta 238
+zcmbQvvYcsxW4(HSPl)T4r{81y4{bjGMpsu?Qd089jT`^}|37x@Sax={Oa9Ag)25lk
+z-(p~3;8K+g1X8>uL4LtN1#rM%`$DM=D8X6a5n0T@z;_sg8IR|$NC65Kc)B=-Xatw`
+z1@bi*a5yI#NUr&AzrJCXgz)c+TlmwbIsWKy(4V$b>%Qsoghh<gysZp`7>xRp{WdS%
+z`%v#{(87H)+wy0M39^<k-Qx`j&$SSqaa1Qho9Wpv&Pg9X$_t2Y{mWL`xXt{+)dhc<
+eRvwq$!!pO_CWi~JzS|_A<qV##elF{r5}E)u(q%*d
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/workbench.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/armor/workbench.png
+index 26281902cfe0ca23fd3005c1305e0c1466471a78..5ce5a56175339897d1a581055a6bbb11bf2ddf77 100644
+GIT binary patch
+literal 495
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}@0G|+7Z*7UXB=htDokMeziY*m(Oo^XX;wUM?Grz^xQJL??jT`^}{|Bng
+zX6oStQoJQWe!)NyIAE}Sq0|PH;4JWnEM{QfI|#yzJ0@no1qw=(xJHx&=ckpFCl;kL
+z1SDqWmFW4ohA5co8R}U`XTDkiRI@EL!ZXd&Q;UHE$YEuWVq|4t1hTw<SQ^R(`Amb6
+z87$5OWE(OvfqfbUWM{UsfW@<bY!J9v#>nsj7yvLD%~A%S)C6`07NAN4BVz-`1rSp~
+zHnJ{&m^1~*1_36ZxlCY{L6#Ok7F3s^fdNSNX>Dd}QsC5mKxUAqi(`mJ@Z58OTnz?1
+z%onyq-^!`_|GDc?Lhy&f4)(t?7Tl0OXy3rturvO&<<cu&QBN2qPEyObsC1^*VO4jr
+r>Tav&UU}PQ>WXIV{b0=;H^1&MBab;})?)v*2#`&lu6{1-oD!M<ESrK6
+
+delta 338
+zcmaFQ+{HY>u|6%pC&aZp!7x2QXI_-?v=YZ1Q{vb6ht5s2T$F7$zr{D$OvzVQGQ>jJ
+zTU#R7TxoHf$;J}T1(`PMi`;ySWP1a27i8Fkm@5aFDS8{qcxg#EsfunY^_&-Jw4vBN
+z$W$@ZLS<u#$I2W>1_p-3l5?_vlu}8MU+{k@sE08yXa?R3hYNwqISV`@iy0XB4uLSE
+zsD@VqP_W+9#W6%9xVP^%-ys7Y=gC`CW#2XA_MC3${rBJhQkJez^&$PRzLeu4=D+v_
+zj3-M>Uc>M@WBI9T^^Tj}9k^$&<C&q@uHYWPs_tEKi~rKRvs^C6PmBIt8>lHO<?`Oj
+zF}vkM#l94#@CVPnq#S$U#a`|2{ry~+a^~tMdsA=pn<*UQpR`BRIb<*A6`)%fJYD@<
+J);T3K0RWNFlD_}|
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/book.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/book.png
+index bf1e225620361080170140d3b81e61bd97d67a5a..15aea78e32049647f53cdef0954b6e0d796cc6c0 100644
+GIT binary patch
+literal 455
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+77gerQZ}AX2;qBYEU%PfqOn`Of%$Y#R3n7OKfD}hbkYDhB2w=F^
+zyf+dk##!JIS<Jw|w;zNVEm(t9K!%mLMwA5Sr<If^7Ns%-BxdH7==r&ZD46OQ>RCu<
+zzFGlPvn@5kGtJXei-7~kVP%kFWMyCkvb=y;8p;OwLW7YREY1XE8!|G1eH8^{XSTC|
+z#j}8H5Li~m$nXN_Ss0CGDFaYy0y_f>P^E#9u>s=(h^ZhOSr<S|ngV2l029z$Ca}sN
+zOA8<is>{&803`d!vvlHlhpCT&Ogm2(#}JL+qrC@t4;Tm>QjjV6-+TMX#5tQB{%%%f
+znaBM{enW;|pPa*_3w#o%U$=CgvbOL%_5A3>CuOfsn%6QG>|hhn2wS}#WU8mDpUXO@
+GgeCwDL2a%8
+
+delta 175
+zcmX@k{DN_UW4&~MPl&6bB1@{bc!-^_iz?U5nKQR<-!3M=dhOaZ1_p-LTUmL46lY10
+zU+{k@U<mfF5CRDnctjR6Fz_7!VaBX$ot!{HM^6{W5RKroT?cs&81OI^8eIA9AG5ma
+ziH7i(y7GoyKO7lu^)+;S-OAe}IEQ_Q#;wmBN;5yTxNBC*m5G1fuy<o@sQzC)cG-4j
+RGj*V844$rjF6*2UngCHVLMQ+L
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/draconic.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/draconic.png
+index 3fe6a59dce61b78a6f31ee6063b7aeb8208e4e68..15f3111d26a577e8ccb28d6cd0616e4ae59ab423 100644
+GIT binary patch
+literal 489
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|-ouCA`|@bKE&S|1-D6%`e6adBf~V|#o12bI6hF#H0l3S6tc3`lX8
+z1o;L3hXV#Lf5uNhVa@`N$YKTtzWpG~Xu%q+0u+=eag8Vm&QB{TPb^Ah2uRG#E79|F
+z4N)-FGt{$?&V023sAgMgglC$krxpVTki*I##mLIQ2xNHyu{4wo@{tB3GgzDn$TnnT
+z0{buu$j)qM0gGn=*&wj2jFI65(Bm)~%~A%S)C6`07NAN4BVz-`1rSp~HnJ{&m^1~*
+z1_36ZxlCY{L6#Ok7F3s^fdNSNk!R_|^A1xV1DPS7E{-7@!KLQ|xegd`FbC|;ymI&d
+z0q50Ad-SH%*cb#<*)24_AQ8%XeaC8{9m-0=3j|qw4ICJ6A7HFt);^wmlIujPgvNw(
+mX0Otoaerc2KKac3=iBx?$YeL1ney-%$SzM;KbLh*2~7Zn8F{Jz
+
+delta 268
+zcmaFKe1vI&W4%FuPl#)HczA4VY*JE^n3$NjxVW;ivVwwwjEszggoKool(e+8l9JMc
+z%3o&~eldVS_wh1sAVZ)e$S?RmDqwh^94iTw<1FxqEM{QfI{?CrS=Tx_fr5>mE{-7@
+z!KVJ*LWdPNHgik8sL%NOf4^+tbY=H5Cs&`nxvo+{^>Oh%@2Q2N=1Xq1L>^6YbbH_Y
+zu3%HS{$U1b!SWtP2e!jG6XHFlK0Ncq$jZoBwWH>eQozeF&Jz#Rb}q{}^tvK8pubAH
+z>=OTt$=v)oUkm<A?{?|F>h>toCw)$K!e{nve>p-=s!rGmbPa>2s~@Y&I;Vst0IPIs
+A@&Et;
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/farsighted.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/farsighted.png
+index 1fa624d7b12dca3c3cef65281e1ef2b8b687c752..2e949e37b0a2c55753fecde2e991b0fe1b4a94ee 100644
+GIT binary patch
+literal 515
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|&0G|-oMorU78TI$MNfK(7mt5>;?cV<X|NqdkqJZoSAsI~_9UY)To7v3s
+zffP?kkY6xR76urE?w>mc6z44Ph%9Dc;5z`qj9J$@Ie~%_C9V-A!TD(=<%vb93;~Im
+zc_n&&t|1DhdWL!y(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=AeM%*LB7&pWCn{f
+z0ojI(OkiI|0oj@DEMW00AR7esmoYND0D2xqqgl!Tl$yZKzyefhU}S8-xBy}*$VS!$
+z5R;|=*&x6KG?xjiGRV>b$b#xJG%x_k`eZEnDSM9VDUg}v>Ealo5ggkW$amO)!`YWZ
+zaozj+`<({4xqn;bZ!lGHewRGJd_%(i!8^U1TiD)h4BK&9N=7<+X?f;P-*;A81>g4Q
+z&6}a{OkPDh=(72tx*o}m<u0G5FeNQasdO~cI<}4dOy>6gipJGV)9r%xak#7N94iF5
+Nz|+;wWt~$(696K@hsyu}
+
+delta 213
+zcmZo>>0_GUST7gg6XN=xfk8sea@Owc|Ns9FEh`Gh&RDQufsl-*j*bok1A}n<Rc0W?
+zRTAVE3{(IC44cmAoCk_>7I;J!GcfQS1YyP<6SLm}1(Q8p978mMWBVQX7!)~<2wc4Q
+zzrG^fMR=3#O}CyK{{ow3*U5NgJed~q-tX>IBa`Kuk7yR1l6WrU{fi|{Z1VTUtp+C7
+zcmkadn7!io5^V8sF-z4HRh4&+=VKR$OxXX_;Zw=s<oEnc{jBG-54p$y?PKtC^>bP0
+Hl+XkK)OA;c
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/gilded.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/gilded.png
+index ef019621ee2b67b24fe0cf745ca9c3de028cbc8a..fef09411c8cf21a1f507a73fcf202f29be184e3f 100644
+GIT binary patch
+delta 248
+zcmZo+X=j<>BVXsrC&n*esAFbh>3(Y>|DSi>uF}kY-XRPO42l69&nIRpaqVYd;M>n=
+z!5XYGak@OKg>>et6%%&{$uBEoWO%{MzyPBI5;OBk^!!{y6ioFD^(-dqFnZQM@+_Tr
+z-eKxvplL;(E{-7@!KvpRg$^5VIA7FPk=gy-zTmju^6nPaZu13<cKwfd6;^sB+>~y*
+z^jPRo+dJJ-&oj*0)!BhR8j_yL+2=N=t4_Ga?_wqOb-sgBaEo=xwGEf<`o7|OTC^$b
+v@QnxO1iS*~^4y+x<Jz3(m#!E0|6<x9+{bDs%_wyrXg!0ctDnm{r-UW|I7nVE
+
+delta 245
+zcmZo?X<?b*BX6i<c55R4pLgCimhNKw0(Gu@e%>Lj(##AD3}#Hl*Cu8waUEb_;5)#W
+zb*+<g;&gdd%bdJhb`y68$?q>?WOxBo2crWLGxJLH{9Hp6O!W-)EGO$Qde*O2cV3iz
+z|7kAJw0ut&#}JL+-2Onm!v;J~50`FxeDD8(;8_`$mVNr!!|?jw<hX_$!*v{%@(n&N
+zv75{y)Srb!{%z<?X^-B?xH9hBG3}50Hgl^SVvk^v+nRGfYCEg?7PocxIu@Mk(@s3+
+rko-O&f^BCR+e}sI^3VV7thcjfVv`nlQvO;6Xg7nWtDnm{r-UW|NiAN$
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/glowing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/glowing.png
+index 88aaa72a2e23b80a92a3e017d7e051bc45261903..4a00fe0d3c0c41e6a648425a7a73051f93ba197f 100644
+GIT binary patch
+literal 503
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|-opTAH4|Nno-){2)eHvIf~@c;k26T7W1U7P`wpP1#p5=e2D1o;I6
+z)qnv*uz!URNU*>ovY3H^?+^$xifVW@00kvVTq8<?^V3So6N^$A0unRxO7#3(LljK)
+z4D~FeGheL$s@awr;hE;?sl~tn<ghYGF|sl+0$E-_EDdFYe4@d~3>IesvJDxTz&?ut
+zvNPLRz~WgzHVAwwV`O*%^e~J@vy=fSHG!Rh1*p=%$k>2!0mM|0jjRhGCQSjdL4XNp
+zE)!T~kfjBX1=VF}U;vUmlP6Z=75qX5$jtI|aSYK2j_v2>JD|Yf9PRMnpL$%w%QGH-
+zmP|=^{m0d5nfBFgI?MJ6E<y_a(n~rxHru>izG9}=`7O>RYg1q8ONnSJ&ROH$y&#q2
+zd0W+r%sCUol&<ibc$ViMI(LT4ERy~5-rvgdZ$;NtF?^fKI{SIJPaDVup00i_>zopr
+E0GzFf2LJ#7
+
+delta 211
+zcmey)+`}}%v0gF2C&cyt|Nky7E)o(FKYyP-c<|tj8#g@7L_5>fHRQN6{NxxI80Lvg
+z<pEOMB|(0{K*dnN;N{Qw2`J22;1OBOz`%DHgc*<LuSfw3#(KIqhG+!GcHd??pupi|
+zc-r*;|K{gQbENf8F)mnI!~KB!4a31QA7+KDH~vwqjCW7Y6L51+zF%qk$DlxJ(;v1X
+zUwILO^Q+|@-mQF9JDK_P_37%Lm{mRt)!pm*%o`$q&xw7@vkY4;piK;(u6{1-oD!M<
+D7DZNc
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/autosmelt.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/autosmelt.png
+index 22edb66f44b33c5dec30d6d74cc60c565316bd5c..56fdf80f721db04aa6a8cb32e95422dad183df8e 100644
+GIT binary patch
+literal 528
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|+78*6JpLBWiSjPmmG*y!li*4Bv=Cmua|bj6AlhhwGx_cQ$eKmGp=
+zAo(At<6U*FB#`1S3GxdDiXZ`oD|cor1WIuhctjR6Fz_7$VMb96uLhu?M2TxeNpOBz
+zNqJ&XDnmeGW?qS&pKFMMsh**pg>>et6+kuHQX@RmJUz7-IDi~h1}R2X21X#u3y7tm
+zY>*E%7@5K1OhC3FBNN!iQ9yQPI}2Dm3&;k6Pi2e@FMt67qtPs707^|@XJ7%UG%zwY
+zU|aw(6=Wmp0*FadfNT(80-DPNRvBbz0c1gS85$UXWY6S@)p!NJkO4BYJzX3_G=g)_
+zdkP&^;BmQ_=R2|C$-m>ikvHNjex7b$AYj-3fqRGYNoJSO&=3|i=|2|D+$qi9bQX$R
+z+|;)?@~y@F`3Bzgn@xJ#d^U9ObPETVW`#s$I2T-r$v#r5nzinG&Wp}}NAB)_Dp$+c
+XWy~)8{g~`kkP|#z{an^LB{Ts5;AWNj
+
+delta 292
+zcmbQha))VxW4&d7Pl#)PpP!Ajb!>EWd3pK7i4$8}TQf2;6crT(1qD~ESg~QlhNDN1
+z&Ye5=e?P<FSn2;a82<mC{{R1f1_p*8#m6^+lyFIqUocPv4KQq~y~6>N<}C1tEM{Qf
+zI}E~%$MaXD00nzJT^vI+>VsqZ5Aq#0;Ba>K33}o5^3#8L>jk$GH(N|le|#eM|H`*w
+zizH5UK3~RnY(}zyn$VUTFF7tA&}ncCQYz6haJ{5>$X1pm%+`5TPl>>zZHwKX)ELD*
+zf32;%VM;ZN%&}cu2IiAb-;tJM5G((DJEf2*DW<OaOl#<VAEWB~V#^{vtE`rF-MA*~
+dY2B9Z>>kz}^Cg<3W&xeX;OXk;vd$@?2>=5<gjoOp
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/blasting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/blasting.png
+index 549cfb437b140920d4c91c108b5e3899ae0c89ab..24ca8039088983d43581bac8afdf55085ce15246 100644
+GIT binary patch
+literal 483
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|-osHmuY`}XPS>3N!o_Vn~*_{nvqt82({1LfCW_y{tTvn0qb_&*dd
+z1p8MAfdmUYB8wRq_zr?F<Bo~hZ-IgmC9V-A!TD(=<%vb93;~Imc_n&&t|1DhdWL!y
+z(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=AeM%*L6&MTGK0mLfNVoXCa}+<fb7h6
+z7O;30kPQMi%NQA606h$&(JW;EN=;yAU;(N$Ffuk^TmUf@WFzYWh)Gj`Y!F}qn#%-M
+z8DwbzWI=Tq8W@0NpVnr!CIwF22V{nMx;Tbt1jn8W<U63i!F(a=&VzsIai``O{G9N`
+zlcQtt1pZB?63LfudrrLB#*wwEIb~C`p#6sIlT5qMHs5IAJZ~FQ?(<i)Ch|Ln*7K5g
+g>t#5~-)0wFVYXspGoQ&dbr#4rPgg&ebxsLQ0Q8%9_W%F@
+
+delta 227
+zcmaFNJcnt5W4(HSPl#(&R8&t-&%S;8WO!Luu3V|7r<ZN7tRuo!Q&VHF#4jhOZg20)
+zz`(Fvta=xa;w=gC3;vG;7;IlCwE-nK3p^r=85sBufiR<}hF1enFxAt=F+?Lc^t`9g
+z0R;}01BH%PKK%dA7GUyl(dE{F7^f`^_Iuv6P5Hd=?!yqT1B<+TpW3*E{$yIb%ul?+
+z<kicjXMr(dAFk*)G1|<})Lwg3VN>V9v)m<dDWZ+%?_cElbAH#+{UWNLnEFdOB|bHI
+RJOtXv;OXk;vd$@?2>{!3UNHaw
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/exchanging.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/exchanging.png
+index 96b151087c2d0bf3b43b2963e1b2dd6510e31369..9b9dce78802ff1001ee1e2f39f5274e1ca3935b8 100644
+GIT binary patch
+literal 585
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}}0G|-oMom-OJlTK=YU#^uD`nK*=O#@$m{hkfB+^#%l8b$1sFjzo(zG0}
+zovkq$85yzB(f$4X_4V~7KoH>qG^3<j_breTEeY}q{*MJPXy2@T1ysOU;1OBOz`%D9
+zgc)~C%m(R_C~=J_3C>R|DNig)We7;j%q!9Ja}7~2)iczykj{Ly0;pzNYJ_K+r>7PJ
+z2av<cAjQbazzAe{0kJfc4f44LBQsc>3CK2NWCDjo6p)?S&H@(C0<uBiW*H;H3t#}j
+zXf#V1fKn6K8CZZS4UCKp7#BcH1=+~D0AkV<AR7djfaWrRRR&pF09jC7h6V;8*{8Lc
+ztx17X_W_wbo-U3d8o{xBo<c1K91Mnz%^m_0|NdXoOsd@2AA6SRC!-L9!uD%X@7LyX
+zcK+tO+2?rt#bTF7ojU{7mt9;h)Hy@th|iHNE@_)S%&}R@rP~pi@=0j>OzDX_o4NWq
+zgr3QtHh%Q3?qcW#<uf{G-hB@a<?Su-T`_s<m9u-f?j(vXl#;7cpQj%7aZ*Rbqr>uh
+W6nIxZG-TrgxzW?r&t;ucLK6U#sjoZ$
+
+delta 306
+zcmV-20nPr&1cU>SL26x4OjJex004BfN_MtPbF)ciraW)2MPHvaY^*|cwM&Y*T7j@p
+zgR)auJt=6YK4PLcjl5l)%WPz%I%%mtaIi*fY;19{M~{z>mTXFSRXVwaTz`LmbaZrR
+zXlRFrhX4QobHWQ$0000Vk&PIUpaqej27k>Nb`Ssn010qNS#tmY4#EHc4#EKyC`y0;
+z004zaL_t(2Q(ceS62c%1L{Y2tvfed>1o{8Zbb(Ioc%I0aO+rHXgCc~b4YdwswcZTF
+zb~koGzaJ0B6V8`eTyeWU@I;$Y!3%f;T?mO96QXJpW^Rf|Hzmw-POAD*O;bXI?>EFu
+zZ*lgxoA>cGA=aoBf6)@$<MI<6>e;;?K{3;=TnbXk7uQ}FN&7Sx`~Uy|07*qoM6N<$
+Eg5mOhmH+?%
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/expanded.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/expanded.png
+index 87da279d8fc216c75704c1c70adfb68465bfa8e5..4e70d376c2ebe1af6dac27b5157e362f373606f0 100644
+GIT binary patch
+literal 521
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}@0G|+7@!(AF`3HHOqjYQLmXws#*VilO_pey7V)5d|8#Zi+jgFo>cP>z^
+zeBS=eK#I2{$S?Rm5@4`>q0|PH;4JWnEM{QfI|Ravq8eTeKtYKT*NBqf{Irtt#G+J&
+zfW*wa5<NfH5Cu~`Lp=-W%vURbYPO|Dc&2%JYB6vCIjjs)jI0cdK$aH}OGDWppJ^~M
+zgT<MEY(qvSuur3a?96r+uy_`b4FaFa7#Usw0{}*&S;_#En!wJ$0#s>WWNg5=0Aec0
+zM%D!olcoUKAixAPmkF#g$kGDHg6c9fFaXJ($rG#b3VtC2WafCfIEH8h$DY5**I>Zm
+z64(_iIqm=dxXZ4K?;RIbSbIfZQ?ho!)@AV)A}?fL+*q(&>g?U*CasXOXJ%wCTDAM~
+z-5!2}lPPu#=I7>?F6P>ncZ+xK85LKj68|3_ewo}#3@lE4yx$i;mycVp*nEv%Lk~yq
+TVYXw*AUAlr`njxgN@xNA=WmVn
+
+delta 209
+zcmeBV>0+ATST7gg6XNRP;`0Ch{~I@M96Wf?(@ZqOPfkKYqBC7xLynt)fkDPz>NSw!
+zDhcun1}cL9hD~R5&I3g`3p^r=85sBugD~Uq{1quc!FW#>#}JL+*xo?C0}33@qB4_z
+z$5(7QdSs0}%e`iUPt)0$1D9K!y?d-m%IiY=@7=6@=KM{M=f4$W)sx@a)Vsnjjv@2B
+z@VU3?&7uEad}Xy`JSBWUe1ZCn8NqStUC+1;X3DE%vZY&T?b;2ri^0>?&t;ucLK6Te
+Cs#ACX
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/haste.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/haste.png
+index 66e89fbee51ee2a2f543c6d2b8235dbe38370acc..3f573d9976c66c72845837e1813f770c47f8148e 100644
+GIT binary patch
+literal 483
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|-o7<PvL3=Af0te$3~tN0l+{Ny^*)iva}f%17vlUD;N&XOR%;Qvs-
+z5bR$e1QIOph%9Dc;5z`qj9J$@Ie~%_C9V-A!TD(=<%vb93;~Imc_n&&t|1DhdWL!y
+z(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=AeM%*K|ax7WCn{f0ojI(Okkfy0oj@D
+zEMW00AR7esmoYND0D2fkqgl!Tl$yZKzyefhU}S8-xBy}*$VS!$5R;|=*&x6KG?xji
+zGRV>b$b#xJG%x_k`eZEnDSM9VDUccF>Ealo5gdCikney32lIufI}iS;$DNvE@N>c!
+zPmYeo6ZkioN+e&t?K$yg8%Nfv=9Ep%g7zD-PcrR3+kB&e^So_LxzAtGn#k`QTF*<~
+ht(V~_f16!!h1rUY&3q=;)L9_gJYD@<);T3K0RX%<bO`_e
+
+delta 211
+zcmaFN+`}}%v0g5~C&bl}m0=Y><9`MQ8D3TsHr8x=WgQW=7<LAGC4L452Igbyz5yw&
+zk|4j}|1iL?>5R^KpeSd7M`SSr1K&XqX529``z=r~(bL5-L?bx#yra+o1rBD16&;`c
+z^G|oVXeNHP?~%qt!H0(u)PLEuf8z}D$!6`oQgv#l&(EgrR~xwPcJuC?P-}LIY5N<&
+zum@%a`UNZjvP?T_8K1qMCv@oNZly>6=dJ(XJ+(tTe;eD)GQkKlpluAEu6{1-oD!M<
+D36oLF
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/hydraulic.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/hydraulic.png
+index fd4224fdced285f2ef2c651bf6cd13b652424111..8d7b722e7d0d3a643d4034aa36ba387f2ea4a419 100644
+GIT binary patch
+literal 483
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}%0G|-o;2BLzE*>&S3G*})t=YUJ!%wa=U0p+t8z^s=t+@zDah3%61^<Tv
+zhG72+A&_8!M`SSr1K$A<X3V<Q$q5vcC~=J_3C>R|DNig)We7;j%q!9Ja}7~2)iczy
+zkj{Ly0;pzNYJ_K+r>7PJ2av<cAjQbazzAe{0kJfc4f2TwBQsc>3CK2NWCHsv3dqiE
+zX90_60ofq1zl@RL1<=DV8qHD$pwt9*1{R=710!Pt#sv^lK{m23fS5D|$OZu>pt($7
+zl|hykKo(S&p@9KN)+b}pPuX)^Pl3!ZPZ!4!jo{dGfqVxPIG8U)-Ffg&J?_*TgP#+=
+zcye?sp1{A!R3iEEZO@4}+c>gTHK%N97PQ}xeUfSS+2$J!oab$0%6<Nd)<k~i(0X3-
+hZoLdg`P=M*E6i4GZ00k$rp^M{=IQF^vd$@?2>=>{cVYkl
+
+delta 212
+zcmaFN+{-k<v0g5~C&V>)MpMn^B}*<IlHp~Ycxa75N?5kNvW^Iwy%IkI1H(^;{01P!
+zRTAVE{2vAwHl5Kq4;1Ar@Q5sCVBk9l!i+m6X1@grCV9FzhG+zbo_7>FpuoX=ARzF`
+zfB8Izi_^N(*b`eeH`r`?#8x@adAIUP->prqx7eTBv<2-;2yon=P+W3?_1VoJu^9%t
+zzcUF>jgZu3oa)S!7k8j?s%GDu{mCM4=I>P9AM*4cQ@R`5ZVO$FwLt3_JYD@<);T3K
+F0RZM^RHpy{
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/lightspeed.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/lightspeed.png
+index 955076aae30f3fcca128c4fe50134a6316f2a8e7..14138170e372a8510929def515c3c69f4d3cc812 100644
+GIT binary patch
+literal 488
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-oIuFI4SLQ@n%6OWIZYgy5zb7ukPp&gvT|<r=s6_GTq*frsRTAVE
+z{2vAwHl5Kq4;1Ar@Q5sCVBk9d!i-thIyr%Y5+$w?CBgY=CFO}lsSE*$nRz98ey$-3
+zrh0~Y7SfroRshv(OO5bM^YqkW-~e)18Kf9l85n^qFCdnNvO&JlU}Of1GXdF#j7(tP
+zMFH8F?JQvNEFc>M_Lng-ya0L{Mx$BE0F;`*&cFgxX<%e*z_<WnD#%9G1rU>_0NEhG
+z1T>cktTM>b0?2~uGBhv%$@*k0`YC&k>nV^K?&;zfq7fW>E>P%z0SimOv@Li3ACjH5
+z=;OgR-p3T|yEX;(F`jXK&(h?=b!Xuj6UCIoCWm^3>(h9Px-GXfOpAJVa9{G#=)=<=
+n&ucjM)B1aPS<&Vj<_}h|Z@R{=x~jiD8)TiQtDnm{r-UW|GpK*;
+
+delta 217
+zcmaFCJc((7W4&U4Pl#)shvMs1em}3wk>O?izb7urQYPD8Sx1CzOQD0k5<de2!~9R%
+zzXB=lk|4j}|8T(I<<IyDD9l;l5n0T@z;_UY8Fx&~ehU;#_H=O!(FhJbA1KD4$ijMI
+zxkT!JZn-J5J_f&+D{QJ{tV}t|d*xQp!n+f%R3B8DcKoRg+wL02gC<X!&bhP2ez2)N
+z#iV*ZEoi|J5$(mQ3yM4roaL^GOBHuMci)if*ZF;_`$JN{F`Zw=-o3f0a2wD*22WQ%
+Jmvv4FO#oGpS|0!a
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/magnetic.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/magnetic.png
+index 4bb56a96769717b5a897c59c441d1aa6c5a7d417..44f61be5d810e397e26f0110197810a9d8c9d000 100644
+GIT binary patch
+literal 511
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|-oxVX6g|Nq~(aigiJX~l{arlzJvMMaX5l9e**mt5>u=(w}0B%8z?
+z7INqY>S%BfTnD81OM?7@fx3_Y!<9QT76PR>3p^r=85sBuf-vKbiP>*~f)XXJ5hcO-
+zX(i=}MX3w{iJ5sNdVa1U3Z{C7dKS`|uT}unY)g&sO!M^AV&DLBSQ(@kSs56CEH5CI
+zhO$9E)L>)=i!%Y)hKx*LA4dV%ne8lK@hl)41a6iwGQ0o=1dK+rlmRF;ft`T`sM5g5
+z*nn{X#8i-ttP3C}O#!k&fC*?W6If-Cr3H`$)n#a40Fr%Lo7tKaICUS88RhBX7@`rJ
+zdm@mp!GMD~;Mj^s0q^Q#4&O++@^$%J<^L_$9BlamIt$+Y+Zi_TkVgkULl6sd(vD;%
+zFW(0*RKE!BRed9LSa$Ep*#2dVWpUFku*C?62%izU_wyjH%{;Ee5bfE|K{k52`njxg
+HN@xNA17(Yr
+
+delta 187
+zcmey*{DpCXW4&B}Pl#(#QPKbZ|8Ly5(bUvrYHGTlf#E*`1B1+d1~m{p!NvUskm4!{
+z@(Ttkg8+t2XLQa3ML7#RB8wRq_zr_G<MI3zDL_F_PZ!4!jo`H>z4;C(aIgeC2|o2#
+zKc?iu618`8SZ7uS<XAGMuIhDOyRpIK*GbJ)XBG*&U1go}KSxz|!|E8OYMuw{nRA+$
+e|J_u0#615#JNMD4ljVV?GI+ZBxvX<aXaWG~>P=Jt
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/melting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/harvest/melting.png
+index 6b83ee78b00d4fa18aaeaefdf329d6cd13ea0074..155f8de1b886103555aaf3900ab3e09f95faa901 100644
+GIT binary patch
+literal 511
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}@0G|-o+>FGy$Ph1ACj(vG5Pxq)c||)bi^H+f|N9yK-(dLvfBOIb|AA@`
+z&YGPBq<Bk${DOfZaKK>uLa7ZX!CBxDS<Jw|cMyabcTCKF3lx+nag8Vm&QB{TPb^Ah
+z2uRG#E79|F4N)-FGt{$?&V023sAgMgglC$krxpVTki*I##mLIQ2xNHyu{4wo@|gxB
+zGgzDn$TnnT0{b)y$j)qM0gGn=*&uMUjFI65FaTgQnxzatsR`^1EI^e8M#ct=3m~R~
+zY-C*kF=+~r4FXI+bD6*@gDfq8ET}F+0|Suk)7s3|q`;~BfXpOM7sn8d;M87EJ_bb&
+zmd3Qg-~X%CSIm@nEA8rhafg%s0v=;Q?gp0sLB~7}>`E8aDKOLVKj+r8eWUJ~4XK{9
+zcX!{urnSh0SG3u`yW+~Vt`}@vnrpZ7%}|~nHSgRE--4%%@|n*#1mZ0ggn?}KboFyt
+I=akR{06mq4a{vGU
+
+delta 228
+zcmey*JeO&LW4%g%Pl#)FT0&BExWAXXy^W=XiLsiBs-eE_|9*!5HyHl^pZ@><e+CAI
+zvKs4mK#Hd%$S)Wu0s{;}_s^XJigOltL>4nJ@ErzW#^d=bQh<V4o-U3d8o{Z3(R_y$
+zcvwDi&;If6yY6nsz}e^6FY$GseIXvZm|aj%hO2O0$6Jj&^{qRdZ7QYB{1h^J-m}f$
+zll~`vr#+Jk6K^1Q(kkJk=Vw-(F<5NSAG1~K@XZOjucEH63NU-NN4<gbqw{xmelPZ9
+U+dI!%fz~p3y85}Sb4q9e05A+*j{pDw
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/offhanded.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/offhanded.png
+index fa55b6b60ef3323c94fb94e9d47f93377db6475c..27fa71ae62c5b708e1f78d92110666905af143a1 100644
+GIT binary patch
+literal 530
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|+77Z;cR|Nq~(aYI5v;^4u9o@SyMesZ1Z>YGvo|NnjP_iKEq2Gg%=
+zUN1L_-kBy0)U;1B!V5?Vlmz(&12rN8h6l>Al0Z4m0*}aI1_r+UAk1jN8ms~olqhkH
+zC<)F_D=AMbN@WO0%*-p%^K%VRFx4~EvyjewwF0PSTWW-7ny0500|$`9${@wa%D@O@
+zf$WopvO&JoU}Of1GXdF#j7(r(M*-QH?JQvNEFc>MddnCYUH}6FMx$BE0F;`*&cFgx
+zX<%e*z_<WnD#%9G1rU>_0NEhG1T>cktTM>b0?2~uGBhv%$)1kl%6RVd0vNOmnVv3=
+zAsWH4ebIae6gXHkGeRA9{?C=(Xm{&pl-g|G1p5S5i9)U&0=Dbf0v$TOi=~M;DKVcG
+z?v{v|!k6A@9(eym4A<r^6{*ERGec*0+)q#T+5Mn@!m3qkWu2-Q<~^Jm`oVwc=X=jz
+ZH?yn9^YBlx)$IW}z|+;wWt~$(699o*kEH+r
+
+delta 230
+zcmbQlGM{OJW4%^@Pl&6Fi;IMW#Jw(=m+M8p-qQO2bnE~B{|_EKc;m(mPczZZbaf3m
+z?hHRU1_lPJ)s-GVimxQdFBqr>0T^5l+&KZ1;VkfoECwn#0K$w}*E%_Yf+?OZjv*Ss
+zwLPAE2MjovIWMev`v1Oen^$j9{0db*W4050f4CMg9b7cMYeV4LwL1h#7ixu6uNF9?
+zWA{MrP;|}<j$@vAJv$Hl6!{y&R@SI)^N!W)q2qtGBiGv{qUR?)w}@PRBk3E%!&=Vg
+UBI=#oKnoc>UHx3vIVCg!0H_LM`Tzg`
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/pathing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/pathing.png
+index d9e3596a2f78fda8cac30e15338971e7f86c12e0..7f8d370a81c2c953f9f29ef83d04d055b60acb58 100644
+GIT binary patch
+delta 450
+zcmX@kw2Wnfn?pl}d3Ly7Yqr&dQin)e&6y3(m7!K%#!Az2yj)ydBqStuw#NMb|Nr2@
+zgEwy6@H7+cOjp;C<IeDtV_;zLb8Re{*rr{7h=GCc5TmGuR|8N`qQo_#Bsf2<q&%@G
+zl_4N8Gp|I?&oxBBRL@Y)LOS!+3ZR;8sS%!Oo}O9^96$~$gA^kx10#^-1;o-&b`X%Q
+z!N?32X9BVf8JQRafOHfPXSTC|#j}8HAgE{fRL02gf|&tMquI&;l$yZKzyefjU}S8-
+zxBy}-$V%1)5Tm95*&x6KG?)pjGRV>b$b#xJG%x_kp2-ud@d|z+17zlUx;Tbt1m~W2
+z6f190;9(BXm>Iz0`sH8w+;G<Cy|ZHL%+}t{FZ3_4y;uH0Na3My3WI`zivYWZM?;6E
+zuew2cTB=s+JRXm$K1(*8IjZ2~yGCF3(Zs4R_Y+HVuj#MIzP*-zMfB^_oZJ2%+`7N!
+ZH|q&SJ`Tfg5wAh6@O1TaS?83{1ORW+c$xqJ
+
+delta 226
+zcmV<803H9P1jho9MnI~KN|}H|kaa+XYdTpyDMUm>7#J9AY;6Dk|G~k*mTXFSRXVwa
+zT-eyyhlhtrHWi6yCnz2ZXigpg000TAC|i++D}TcP01m?e$8V@)0001VNkl<ZC{ta|
+z(Gr6o3`9|a(ISgdn*aaTZV*StJaJE8hG4G=L4rhyaWr8esW`0bMv#vz1ZAhRZx%9g
+zi5XxYdm=zHP1XBwC;(2NSnbUlD1~=Wzs=k3f3VH_hWcyQVSw+)ba?h1>a@RL?*62`
+cVHX;+Ki-WF#MhOk5&!@I07*qoM6N<$f+;0oCjbBd
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/spitting.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/spitting.png
+index 065ee64491df14da7d40f135a8793d8b4570e96b..8c7d0798225d04fc4533bc5c85db49d1f3e92855 100644
+GIT binary patch
+delta 342
+zcmdnUGL2<|W0r1!Pl&6HwY8w2U~F`BMn*<?d3kGV>%@r@j~+c5;ODnt!-f?rR?M9{
+zS5Z+>KtO<jfuYSw_yUmPFA4Gs{*M9}uH2ci5Gci2;1OBOz`(a3gc&VZgH?cn5);=;
+zb6QAezFGm~Y@2w+%p7D`6cA^&voJ6M=`0`yfn{Zk3@?}wbU<QeUWuNcYlwoWo}r$_
+zWM@WY#wnB28CB~ad6rH*?=bZ-P*b6&i(`mJaPE0WzQYPUE`c9>+HSPn`@ci*f?3cl
+z{mRcN-T`s_r}U@fZ@p%9@IbS|8VRun0+k&aHx698CA0fs$q&neW-NDP4<<<)IR~Xk
+zZB^XU|8C+kbB*H?zD9+OO2=Q!{57W`q^qGY_YC{}zrXJ+=Kg<Gi2bPlVXZ$PH+#DJ
+KxvX<aXaWGJMTFJ>
+
+delta 386
+zcmbQnvXNziW4%FuPl#)FT0&BExWAXXy^W=XiSgs6oNLw5CrZN9R8$XT`)o>bH`Lc%
+z9_27Az+!@@Ap--$?IWK5fRsQ<kYDhBRKV~+IaU%V$64SJS<Jw|cL;<TMK!z{fP#`G
+zt`Q}{`DrEPiAAXl0g0J;6Zdd&85(wRh@AsU@0fVr%u*1@hyvowb`}OkAe{rmAn>V-
+zk>Le1f(Gd>(erZ+Q83jr)H5_>m~6wS%s6dw0;6hu%-h6YoG(`G25M{dba4#P2#)P>
+z<YQLkVP2SE&AH*{|NPYjD^`6y`*>pXzDt`zt6uNjde5Hq-}i~Szh(AYr8iDY2sJov
+zDkQSnInvGhgpIJ;{sqgESPzQsd0>3VvAk*4SH>L@X^UcZGd#V0Ml8na`=w;v=<Glp
+zht_Teg-23yYSuPRN<XF)o~t~!`McfoDIZUXOD^KPvq#ls8OSG|u6{1-oD!M<GpCX|
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/splashing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/splashing.png
+index ebba1cc03c086c902f81adcc9bd8dacbd01cf918..2db0361ba0835356b57705d163ba57818ee09368 100644
+GIT binary patch
+literal 497
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|+7m;9Gko_^na{*9-ZXojDhN&KzY{zDpa+`2(~JJZ#Hs%$zErGXT8
+zNswRge>h<9@@M=66y_}Oh%9Dc;5z`qj9J$@Ie~%_C9V-A!TD(=<%vb93;~Imc_n&&
+zt|1DhdWL!y(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=AeM%*K|a!8WCn{f0ojI(
+zOkf{I0oj@DEMW00AR7esmoYND0D2roqgl!Tl$yZKzyefhU}S8-xBy}*$VS!$5R;|=
+z*&x6KG?xjiGRV>b$b#xJG%x_k`eZEnDSM9VDUccC>Ealo5uDo}&38b7gC+1u;Jf+<
+zX$!Y5d0RK*4Ufyxiq<-Y8xFUQoGJdWinB8yR8)$sVP4>JP6fHXbJ{2OweoX|-fftk
+vn92Nu@6z$jL2^sv%6@X0)-%8U`}?+V)-8_C;$ym*AUi!>{an^LB{Ts5NEm@e
+
+delta 237
+zcmey!yo_mrW4&&GPl)T4r{6c9f8zoK`7i(f|9|7gje`dddYXx5_{o{X-;$7!=uB7F
+zkmHW+Kg7Vm5Sd;$2}tpm1o;I66(a$LD|cor1WIuhctjR6Fz^9Y^BrOo)$nQn3Z{Fy
+zIEH8h`}T5+F$i+F9@jV7^8e|%wADQCESLN~r2Jsx-HXcC4Aq)ko_2^7D{5^t6Ic9t
+z;*87t0>kS08e0W+Psps54!O}9WO!cUCu`Bp)@K60yPgVEa-Ki<EA=Vgk#oEqh2LLa
+b>^;H$RE_&YRO{_>pq&h!u6{1-oD!M<NzZF`
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/stripping.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/stripping.png
+index b5644870f153b5d7017439358d1265ef4b193c43..1919c45b9bed2b80f1db455d7173dd2ff0f7838c 100644
+GIT binary patch
+literal 548
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}Z0G|-ox+L@T0G-8+URx$c?3x~RXkpsqQkNN3E<o`A|Nnyr58k+O!_!PO
+z!%t2^LSovqX&Q3eo$2a8-Cw;;oPd;YNswPKP$e2**i?Im11QZ|;1OBOz`%D1gc(IO
+zyc&Rl5+$w?CBgY=CFO}lsSE*$nRz98ey$-3rh0~Y7SfroRshv(OO5bM^YqkW0GYzd
+zAjQbazzAe{0kJfc4f3%DBQsc>3CK2NWCDjk6p)?S&H@(C0<uBiQyC+}3t+&&Xf#V1
+zfKn6K8CZZS4UCKp7#BcH1=+~D0AkV<AR7djfaWrRRR&pF09jC7h6V;8*)w@!HD19l
+zWPr?kPZ!4!jo{cb(R@b~I2;0X`5U#izN_CTygbVHz4#m!r{5w`6<vmY77Uz?m)Tl4
+zYIGc!n4XEx;9#`u<ni!enBubaG>gF2Vg_cV&RLOqvXAVqU)EbK>-O%Z-e*?b=~>oK
+mcAI@Ko#b8H##wy7uBUF#Q=a&l`?Z#WoZ;!}=d#Wzp$Pziew8r*
+
+delta 318
+zcmZ3&@{MVNV|{plPl)T}QkTU|o;#;TZ0HMJ*B7*?!P~{fWp<7G+TQR54Icmh|DRpu
+zx^Hg$!Gi~H+_<r*(euFEBu_KZ3_rQWjb0KG64Rzl(~#qyQRT9Ea>VjZ|Cu$;o$2Zf
+z3=BtDe@Fl+*^(f?V4xw`Ks{KHA+qgx7EmQ;fk$L90|Vb-5N14{zaj-FSnuiL7@`sE
+zdnQ`!kOB`&fE1IfiD=dl@!#>w6$4WD&9I&$v6-QPHQJpe;J~g|we6*j?0R!*dbHAP
+z7w_KjKsi@-9h0V~`l)K>VrHMl$8P0XT>J-~Ya65shB;_|Fh5tV*jnZ>$$sgkFU%?L
+v`x*b=Tlm-hQo=3KXR!;<)XMx_dQD%sNMy<Rg5GC9w=j6R`njxgN@xNASc;Jr
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/tilling.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/held/tilling.png
+index 77d3fe4ac81c1a89f4dabf66cc7d4d55ec0c9b98..777d58e52cd99c392985733afd19ef077bbe2ca8 100644
+GIT binary patch
+literal 528
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|+7FJq-hTg}Q)tDUVe({j9ATwMPD|9|7g4G9T}g9i_Knu%uk$#tfy
+zYshf}bv)faH4I4cmjw9*1C=2GhAVewECfn%7I;J!GcfQS0%1l`4X*~EphSslL`iUd
+zT1k0gQ7S_~VrE{6o}X)of~lUNo`rPgs}(>s+fpMu(>y)37&w3&Rt70XRt82O%L|C5
+zp=^*3H5i$};!HrcAtMvm$5B9bW;+X5JPXJMflp<O3@?BI0i)3@WdKS|U}s<fsx&Y%
+zHeg%;F%@JZ>jH>LQ-Ev`U;>)U1XdYjX#r$Gbr~8MfMn0)iPd-ozmNekvproLLo|YO
+z&)?=dqQJotkaj?H<?a9f?<~79Y1!`23qC5urPRCDIWkNvKENAds=UMOG~cBR7A_u@
+z3sKq&v~Dl|KILkX*Y}IjIhEZ@4;-H{Pa%9!zp&QEo%Zokm#;4j{r{}S`OH?m9k1%^
+asu_;|=6taJiSlod6Fgo0T-G@yGywoQHI_yI
+
+delta 238
+zcmbQhvYcsxW4%^@Pl)TZ9Iwhyt4LeTovkr0E-wH7|G#nLhJ=K~!Gi}q%|tW&<U&J3
+zJJZz}7#Q|cGFJmBzLFrnV4yMtU~oNf=LArOv%n*=7^vVd2s0kfUy%Y7%<*(_4ABVo
+z?R6A7puoZ093>e2@Bdw<u3WzKb1BYB3|cM?c?+3XTdv(=bL;xK`nzjDcE}9(e51uq
+z+l8MR%6;oHU6Z`{QaiJ>YJBL-96QEUKlV0Pysguluke{g{r-c~;y<1;{;O>G@h_uS
+bZsk4(TTX*XT(%-Wiy1s!{an^LB{Ts5I}&2q
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/antiaquatic.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/antiaquatic.png
+index a01584c841416e64a959d07665fb6e4122486528..06f270f84aaf44e107c255e6bb36c0d2de71b958 100644
+GIT binary patch
+literal 646
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%LiI0G|-oiP56}PjWN|@ZFdy_3r%aKTr3pFqiw^r2nB@!!k9fl3PeCx9y6f
+z!tdog+bYzWm(ICYq*b?KZ)|;O*3@Ple+O}EchjyFj)hTaoeh_k_#W7`?)ug9o@SyM
+zesZ1Z>Kby~Kzp8w2C4xm#gZVu;Qs^w!~BC66oHC43p^r=85sEXgD|57Yp@DXP@=>&
+zq9iy!t)x7$D3u`~F*C13&(AeP!Bo#s&q6x$)e4}RZK)BSX`Y^13>-iXD}xjxD+42t
+z<pspjP&O!}G#Ht|;!HrcAtMtw<f4G=%yt&AcovWi0?W!68D0Pb6h@<2$^ev_z|Oz|
+zRB2#jY{0kxVk*c+)&&rgrU2O>zyvgx39K^6(gMhW>M}Gi0Leb`ES-4XVd`TbbEc<@
+zV~9p@Xy0kRW&<7;+2BtF8mfAHnT?PB|3B5Wggq;h-}urxo+?|0275EM^-MnHySWTv
+z`=eU7emj26>|xD{H#Ut~Jx|zn^xN7kTi7Myocio}O`eC}jb7Wf4O6s2g!=SVsy3IW
+zyN2>S^4c<O+rry=mYl}Lt8?Zndz?GuZRy(cJ8`b~#FaYF<qbP8nVc!+ZtTzyT)FLn
+Yc)@d_JN$8X-hmwK>FVdQ&MBb@0Lv@Sf&c&j
+
+delta 289
+zcmV++0p9+G1@r=tL0(Z%OjJd-cqaR&43S$Ezl0mul^R4uL~CnnmX?+n7#LlDb^n4d
+zW{H4<rJO-=S~+D>YL$aYHWg@29!_~?*3->-3lhG$t%+wRC>{&f)5^fQt^fc4mnZHS
+z0000Rk+B|s04FpHH2?qr32;bRa{vGizyJUazyWI3i3tDz0EJ0JK~yMHRgF;+!XOL<
+z0}`5mK#ORV`ybQ<>a;#S!tTsVpkD)$<2wSz*sB0@`xArvDTJMsao~?tAnJ6Jhwymv
+zsNh1%90JEM#p0cfEHB>2QYlf&np9M*8zEACwDznxT3KIvCqjC+_K_Wk+paaD%3Nav
+n^rYNVF3g!L5KR$^oGl!_L*o!;kys*`00000NkvXXu0mjfp@el-
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/bane_of_sssss.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/bane_of_sssss.png
+index fcfdf53a8bcc64cb3eb1e2cbd0f01197fca758ec..99cfdc1bda2e0103d4ca7b2454ce1b63f75c9f4e 100644
+GIT binary patch
+literal 621
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%Lhh0G|+7S60Q#vpTdG1dhaK&y~|P(^n5=QZmw3Q(|C{65$UB2&m>&w_#%P
+zceP0f@hB=PTEWMstE(Fl64KSxWox4AX(pQCC)b&-t|7<mZf82FvtCU>x~HieX#5@r
+zj!GaUR}$nG{2w1+cq1Vb2UN*f;1OBOz`%C^gc-B0b#ej)B}!Z)N`mv#O3D+9QW*jg
+zGxJLH{9Hp6O!W-)ETl7EtpKXomKx!i=IN=$zyaj2GDtD9GB5&JUO+4jWrIRTgOM35
+z&IDu|GBSZfD+<WYY-a(BX93wDu)mCv;RP@dVKkbh3_z&~><lbGl?Fz}28;_Jrh;r_
+zT>vp@3Xlx~Oh9v)z$$|*Er2YjE<*zYkgQL}qMx$oxSj%;J)SO(AsWG<=OX!<4R}}r
+zCbP~-P@f^j#d`n$tk4@=pUwTHPA~Y*z+h7qI@7wLmg&YRslUuSF7bc3*SvY%w|_0m
+zN}7FdD7dj)w{o7tcjCgeb1Htaxe9+*=kb;vY5C3ja<hQYvhQ}1Zk>Tb>d$!F&bKHX
+yD*kcKQSn$|P|P)h;)v-?ks*ggSp|3Q)BnlHFheMxS#OUl$c>(^elF{r5}E)kAh8|*
+
+delta 291
+zcmV+;0o?xW1n>foL0?W#OjJcx0wTm;YbXgKdkrU@9xX&fL~CnnmX?+n7#LtwNKZvP
+zA^-p~D<(Vw0;moSNj4Q|P9BM8Cnz2ZJv1#xJ~fhwe;O1ICLkM(f_DG_0FpI+OaK4?
+z8gx=lQ<1S4fByg!A^_R|000SaNLh0L01m+b01m+cxRGn^0001mNkl<ZC{tC80S<#8
+z3`Hxm*p`9LA<F$Px)wCLACmH3`U~|L(45~E7zXzgFueXm<9Z9_(djtxViSlq$IeZ7
+zyt!3yB4ZZe@a|&rqm#fKh1*drQDk9#$;7-6B1wuVIZ9M9f7VK*J0S-C0^+h-jmR1z
+pfS!zN-iqY1WgzNeKT4Kz>_69}5AE<luRZ_(002ovPDHLkV1heoYxDpB
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/blocking.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/blocking.png
+index 7d3fb5c5cf5d66409f2220257c96caeba42944d6..7d412e2f06137711a04daa3dd0eae2a642735a0f 100644
+GIT binary patch
+literal 473
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|-oO(}x^|33KpHNI4X>DM){mm5XzOcMr5%6tn72T~j*L4LviA%Njt
+z^WI3H7-xY;WHAE+-yslY6xHx*018T!xJHx&=ckpFCl;kL1SDqWmFW4ohA5co8R}U`
+zXTDkiRI@EL!ZXd&Q;UHE$YEuWVq|4t1hTw<SQ^R(`9gz{87$5OWE(OvfqfMPWM{Us
+zfW@<bY!LWV#>nsj=vf$zW+?+uY63e03s9wjk+A{e0*I*~8(9}XOqv2@g8&oITqdx}
+zAWI7%3#!Y|zyKtBCQq!!EBJ*BkQw0V;uxY4oZBDBcR+!|xlwHI|6cJmX|sR*`xPX;
+zabKc%qP$9t5L;(Kf71j9w+Ux*f@OMV2b?Q!-g@yG+YVE!RSv1OvXT03^R_2!$opB`
+Y!5+APWxa*;!ZwgSp00i_>zopr0ML_lUH||9
+
+delta 251
+zcmcb~yoG6kW4%FuPlzj@z1fn#A2?JM?sdt$Trc|dme&8LTeXj`F@AkouB%)$In>ik
+zG{aA>GhJOnj+=pjA@Cf37LXDs3Gxg6j|vzbD91_y<v0sGB8wRq_zr_G<MI3zDL}zO
+zPZ!4!jbPt?PQC^O9+vBJTqPA>{_ihcJ8ehfg_%ym0{<I+p5mG2y5QOBnfvwx&iMT*
+z?<ixa>ANRtHa7Vcg$-}h7w$cyF7s&F(Z&Z1SFhPGd+@GSWH|?q$nqQf2TeqNSGIac
+o{(H7#p3^dk&y{RJYkiLJ9(UtB!@<Tl5okMur>mdKI;Vst00tgzLI3~&
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/cooling.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/cooling.png
+index d28c2ac412cd5426674ff61a3a96f35a50f3fa8f..837adf77429a5b20d09a5d87701f6cde4a75aacb 100644
+GIT binary patch
+literal 584
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|y0G|-oq9rr#zr5p_60_yTsfkCopR8c`|G(w`5BJ514F9ic81ixd|NsBb
+zG=_^64692S%@`Ry%|tW&<ho55a|{_e)73TPxZ{}^frf2ae!&k&Nt6Wn1p~EU0}N+{
+z^<Dwha29w(7BevL9ROj*tZSW|V2!R3CBgY=CFO}lsSE*$nRz98ey$-3rh0~Y7Sfro
+zRshv(OO5bM^YqkW-~e)18Kf9l89-Kh0kJfc4GIMfMrN=$6Oe7l$OI0RC?GqtodqnO
+z1!RN3{xU{}7r?-R(P)-30Hr3dGq3<v8W<THFfM?Y3bK)P0mP&!KsE?40nKFss|>QV
+z0J5OE3=IrGvOXD$e#)NXdJ1ILd%8G=Xat9zyC~J9AkcC#F+#!HLGkAI`pb3;t~`5Z
+zU(I;oH^YPVy$@v**6cl;v6sP3=PUQQofpsjJ<!kh?;_)YJ?#5=7MN~O;!*So;9_ih
+z`ZG#h!|~XRYcoDI<SsYWQN3!EP%YnkD9C&5PWz4Wv!o-VbJsQpn9dKLU{inpJL4jA
+VKJiT%A3<q`!PC{xWt~$(696R&vW@@%
+
+delta 304
+zcmX@X@`7oCW4(8PPl#*Lk{S13-tkO{nRs;jmK&#BTwJoVv!_j)CLtm5|A+hk|1JNo
+zYIvH7X86hd|Nq~RkNeLwhR$?#4LR<M6%4CO8FLI7x=k44nHU)u7}{doGJuq1NswPK
+zP%&1(z-Yp?9jJ)2z@t90n1O-sAP6(=n3(+*DB9@h;uxY49NH5p)MCKF>ZzvTdFR-g
+z@AfYlE?%mvaVWpa{LA{lPCs6W<oir#p8IQjcQ>#;{rb>sSA|n$&7nR&HiQ+ZCF*lJ
+zpP9V5@v-xj<uQw1%-kEkaZQWI?RSs&$?8mdf3tH!&?)y*4LjxqX)0@NeHO&1F7$5e
+klvBYC869CMQNJ0dUE+W1Iq~pHplcXBUHx3vIVCg!0D)eO!vFvP
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/fiery.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/fiery.png
+index 6166818f6665079e22326c8d173f8e3b2866312b..bcafc2c118308f7d8446cd909aba75aa65ea519e 100644
+GIT binary patch
+literal 560
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}}0G|-osm2Wd|8M>O07&NjSj_OemEr$C!~Zv&TwGj!?>EfO&OV#UFm2j2
+z2?>e+iy6*_F?gDZX86f<rmJhnaRbdz`Md5XkP<Bk@(cct1u$setbGMkz**oCS<Jw|
+zcL0PLv#xb=0tF>XTq8<?^V3So6N^$A0unRxO7#3(LljK)4D~FeGheL$s@awr;hE;?
+zsl~tn<ghYGF|sl+0$E-_EDdFYe6GRB3>IesvJDxTz#$O@WM{UsfW@<bY!KLA#>nsj
+z7(g%@%~A%S)C6`07NAN4BVz-`1rSp~HnJ{&m^1~*1_36ZxlCY{L6#Ok7F3s^fdNR?
+zCu7l1*>hY^fy`o07sn8dVBfxnLd^yo&B3dU-=11F`FnjB|Asq17++35Ao@#W52Ky0
+z*ovf;oH~tB*BBfFPqSUGsEq%1Hp#g0Zq4;2zt7(1vl899S2=%*bJUyqM;ga}q}@}u
+ze)`_NYR(~*0Nc9hT|P{o_V{=-&3nz566Jr_d<EYIE9n;>K~C{>^>bP0l+XkKvE8Y(
+
+delta 260
+zcmdnMvX^OsW4&2`Pl&6zspeE;hIeZu<i$k)|KB>(l;QtB!-KipE-o(F+1dXWGfbN{
+zO+rG#(@ZqOPp&gvT|<tWfq|jux||b`5-JJu3;vG|7#{84F9ek3EbxddW?<ku2*Qjz
+zCT70{>GX7Q4ABVo?d7f&YEa;CxoDSksr`4nS=rTPb3JSH9X{5pT*~iU{$x)Jhlh60
+z6JDja29x)eD;!Miy!0}eBlHSWUs}hi$^AzJbKRcp(u-16j*)V1J9YfAwSKU~ng)ya
+t$IoV5SXgD7Vb14xrBGUM_I`=);#TK*y2{--CjzZ!@O1TaS?83{1OQY0Z6W{w
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/killager.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/killager.png
+index 4c2b6a6361744c6aaebe820f3b3e446b6af4c54b..cf5fa6907b1a7857180af256c4ee4ee03d39f0d1 100644
+GIT binary patch
+literal 640
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%LiI0G|+7Dck;%>93-i9<iz<o5UUV@bQ^Cd$vsQ3RP8A7Z;al)28)Jo-83D
+zk)55*5X`Xt?^y<2hL+AwOG`_JRXPmS5|d}n^fVLA@RKtNP5b}<e`mV7h8%ZBUS3CE
+zUvXt+P(%dKp4_VNbwEn7B*-rqs0J@!n1AqsB2Y1Bfk$L90|VcF5N5Ps4ORgPN|d-p
+zlmzFem6RtIr7{F0X6BXX`MHKDnCcnoSx9HTS^-qEEj7Y3&C^qhfdj~4WsqWIWncud
+zynt95$_9m$1|u_AoC(M_WMl$|TojO<+0FtM&jPYRU|AU>!wX=5!e}&08Gup~*cn)W
+zDh-T`4Hy?dOa<A<x&UI*6d)S}n1JRofmH@sS^!y4U4{k*AlXNrr4!FPOnnSwPWE(h
+z4ABS<J^hfcS%HV;0aH`z+I5Fl-gbHU+y3dI9Y?;pPyVgPUS-SBus>(bZYGJ#F^p?6
+z=Y)N@_j~bodk!Ew_JC|sNc}V6yo>U`9YlA$uF95ncPVKos-J#M&^Bn*0wWvM-ej+c
+z#96LN!h7$P8r6zDk+AH4-NsdGuiqtY{5&X8AoNW3$(?H?MP14qjs$&MAMf^C=#>TA
+RnM)w2db;|#taD0e0sxLL$gBVW
+
+delta 289
+zcmV++0p9+A1@!`uL19!-OjJc2Q>b*8>IEcYG+x76g5pF(M3tMHm7t(&YipL4mKYcq
+zj+2u)IXQ%hiAgpUXigrJnVBUeC5dMzC>{$kW<3A@|B#lJh>nhPd3jP;SZHo;0001s
+z6X%uy00113u^)c`7qa5l00009a7bBm000ia000ia0czHX2><{9f=NU{R47wbj8PJU
+zAPfb862v4bt+puK|DH_{r*?nB?##o~J4WcwhOyS&gRzgl(7gVFxOZ~8UakQ^uNMzP
+z2pS@ES9Ag+UQRuX(K|Y6pUMcCC!&d2!@MA9Ns0L>VSY8O6%lYF+TLUUmQ`nnpOjMG
+n4MbG0dp=4zBp{xlw2;deB)kycIpgO`00000NkvXXu0mjfnO$?&
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/knockback.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/knockback.png
+index 24d91b8db9d15dd61bbc756c2279013752b32026..18b82833d55e4d7c0537784bc1d30957a64c2b85 100644
+GIT binary patch
+delta 467
+zcmcb?w2ftgn?pfCL0yu$jkR@pfX>pTOV6G?duCbAo*79Q85uQ6cEN#xn|lIhmpjdG
+z@f8#lEH5u_ZEc-6abj$AGy?;}TdC)H6Wg@w4>B<D9c0`wG5al0P@=>&q9iy!t)x7$
+zD3u`~F*C13&(AeP!Bo#s&q6x$)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP<9ZI
+zt-;6)7H0yo4H=mj1b}oD5NEctfW@<bY#^v-xLL-?@Pe5EPNUh%0F;`*&cFgxYhYw-
+zz_<WnEXYdM1rVdA0NEhG1T>fltTM>b0?2~uGBhv%$v&;kY)uNBx(~>#^>lFz(Fl(1
+z3*@V3R^)JrjD4#U#klu>tn`%|%k*dR$4g8&CU4TQE?f181Y585)0*Ys`-JBmXARag
+zIqc0cf6h%&^=nb{cTD&DsQ0v^AY-kmxPYi>u)$}Mq%<au85`9e_?y1H;dEw?vh3fG
+skdTX&oE@twdVj~fI==5s|KAUcJEM364zV0~4008Rr>mdKI;Vst0I+9<TL1t6
+
+delta 243
+zcmV<P01W@O1lR(QMnE++HAF;2FE1}}aBzl(hNY#Y&CSh)g@sd5QD|srcXxMbR5PE1
+zO|y(qyqIEqVm_O9LXnY?%%*Gr008RxA|jE7D}TZO01m<d6(~x80001mNkl<ZC{s<&
+zSrUXW2n0~Tg+)nBy#HMX5}mR?Ulnu%AR-aonPuH}0G7xDAwZ&L4;-f#05xWX0rk8B
+z#H{fP-U0K(=mRXOLZ$THs}E2S1;5;V)MEY+JR?4816or&YR02Bo^or?j`71%J^&nI
+t|0tyamMt%o9F{vK%oYS9nA4Ya+kdn)3fCvX#!3JH002ovPDHLkV1i$^VKD#z
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/padded.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/padded.png
+index d576cc98473df91207dcc6ff7848e74e848070ba..c65716d20c289d99ea4f7c82e5fc3c68088bfc61 100644
+GIT binary patch
+literal 550
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}Z0G|-orU?`O{rh+O_U+g2-fi5qN8i=`=DqtaE-u;G**|~%nl^2kgoMPy
+zCr|G^dhBT?n&BtcnXaxO#|_kdLEslVkP<El@(cct0T?#b-r)dBa~60+7BevL9ROj*
+ztZSW|KtYKT*NBqf{Irtt#G+J&fW*wa5<NfH5Cu~`Lp=-W%vURbYPO|Dc&2%JYB7LJ
+zVP%kFWMyCkvb=y;8p;OwSc8!nEY1XE8!|G1Lm&#s&TMA^i)R7ZAh5rTk>Ld}U|=+w
+zr3^r+3G56kK$QkY#s-WFAf|$BWL*F;X$p`H0!%=2nZPQ8EG>X6s4hbT1CXpw#-g9H
+z=eV8%nT4J%jv*SszGrU>9ai9Ax!@X*lTm#0|Nk3(hKWy3+Hy2_Gb&uuS(?DOqC<}%
+zP&Z6?fmTq~yM_$o)iMwK7Ol)!x!Ad?{MPcbHT^%tzWwd}&lzoc#%6le_Y>JF-<54x
+spVY<mRIt7~ZYnqNLUE1Lp0&&WZ8^-Fb7{5KL6Ac{UHx3vIVCg!052V<z5oCK
+
+delta 354
+zcmZ3+GK+bFV|{*rPl)T|XU{KOyMFEVoljrB{Qdj)-@kvKzkGf2{Kc<dzh1t1^We#o
+zdygK!e)sO{_wP6E-n;$a;l=AWuH3rq;^Ol3<;x#Ge}4G%DLXs+=dWKk@7@3U?c20z
+z(<CG$9zJ>c?!(9TA3y#2{oB(_G{aA>GhJOnj+=pjVG7G8PavgQ669AO{GSNGV1M4p
+zAE<+~z$3Dlfr0NJ2s7@OnEe(g*zD=z7@`pzd*-!NlL8OhgQXK$q_$2v6`J+#-+Dtf
+z{*>DN+sfG=>|euZc9s9i*RZ!?7c%ymzvAAuHT1eHSF}XANx`O%>`I?^?p?7jFj48j
+z#_QK-@6C>!DlButR;T4JQ*-^U@Hdw)7q}$n2>Tc-2EAfk_Wh7cBtv1`k_Ak5`pX%f
+c2J(Dn7l@aQjC>Iq4RjBKr>mdKI;Vst0JAm9ga7~l
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/parrying.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/parrying.png
+index e3bc407953c8126cd371542f1060ba87e26ca6d2..762539e4a6040716feb412532f272954171bd624 100644
+GIT binary patch
+literal 529
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|-oO(}x^|33KpHNI4X>DM){mm5XzOcUm_H(T=e1Ba@D_VG2wuTP66
+zhst%8XZXnhHC+upatlZalmz(&|3?K350qmifpVM$9+AZi415Pcm~qF%?6*Kci4xa{
+zlHmNblJdl&REB`W%)AmkKi3ciQ$0gH3+c>PD}ZXYrABzBd3tIwZ~!^13{s4&42(dQ
+z7Z6KB*&ttPFfxP1nSg9VMkcVYqk!zpb{4RB7LW}BH_I3qUH}6FMx$BE0F;`*&cFgx
+zX<%e*z_<WnD#%9G1rU>_0NEhG1T>cktTM>b0?2~uGBhv%$v&;kY)uNBx(~?A@N{tu
+z(Fl$`cbo5k0ta&dYs}j_PyhcfOI&dBn)qYRpwoZ7PbQ~1e)YJ>8nn9OB~z|a+HG!z
+zeZntf`HUKC-(N^ei?%70G?35OIVD-%;Z2WN-{U2#?r)y<{NRiE4sn`44duBa3qJGD
+YWIr{POTkZk|1yyMp00i_>zopr05>d`Gynhq
+
+delta 245
+zcmbQpvW{tjW4&&GPl)TiE}56>MgKqD`t_C;pS>A}s=|`LAGD9JF@AkouB%)$IW)sh
+z&eKd(Lynt)fq}0>;wzBiFA4Gs{*M9}uH2ci5Gci2;1O92RCox48AUa`8i0cNo-U3d
+z8o{-Fk$epX94;#jVq<pvFU*texb~ubiQ*SSo{suQ>>irkVw?$SXIx7Ig{G~T>f&<4
+zpEXPQVn{}nN}_c<gL{5#M$t?)Nn4(jb*}NpJ5tRHZb<!iPi)IgH)MQp{22Fh4;G8B
+fY*Y3&?EcLu9L2?c{b<8~pxq3fu6{1-oD!M<oGW7_
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/piercing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/piercing.png
+index baa65845d915af389690278580a1603f8e9ef0e1..757d574eb0512d64a91b05b0cb877a3a40a33708 100644
+GIT binary patch
+delta 375
+zcmeBTde1zevHlPP1K%M=Q4OyK1_lO+64!{5;QX|b^2DN4hJeJ(yb?V>*AN9$JwrVU
+z>C9IvfNHj-MtG)qdTKFn06DA-QjDw&j6jwb5KBYZK|r<!BQsc>3CK2NWMU8i(osO1
+z+0FtM&jPZ6pq}AV86(3BW(GKoW-9|wY63e03s9|rk+A{e0*J97D_IvnjG6*ug8&oI
+zU?#B2AWI7%3#!Y|zyKtBCQq!!EBJ*BkeTM`;uxY4oO?cyub{zzgZYA&_s;*lyax3l
+zcGEsh>TRqN-Pf?LQ#fEp6Sr^xN6?C<CT<nyh7-)1af-J>%x*{umQ2k(ACVt_^*96n
+z8+$2_vs2lR_}uK})?B)z=D~?C={w~t^#9~kGf!`0wON~Z`T)p!Pgg&ebxsLQ06Pm>
+AyZ`_I
+
+delta 145
+zcmV;C0B-;91BwEWfq%mQ01m?e$8V@)0001INkl<ZC{u0CQ4Yf}2m?@x4c!06GtSyd
+z)0~f(7m39D<PXHg)kWt@9B|P|fRdn!0YEZ>x(^g_Wo86e3*Du0*F<#-W?HlN_O9L=
+z0u6e<VbjeA`~mnv(Wx80;`xBqZCnpLnfU;DCj|VJAvX8`015yANkvXXu0mjf+jKt(
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/severing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/severing.png
+index d18fa569056fc99e50e54ba13ab4cf17aeea71de..ca006eef3881e415ca5ae129254daf73c1e88d29 100644
+GIT binary patch
+literal 499
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+7Pft%XGqXK=_N-mKwy(GE^vRQ#FJFHA_;FKH6Hv(_8OHlSimN2Z
+zFZe$UFl;)ba~>$lS>O>_%)r2R5QG_bOw4`@6qG1&jVKAuPb(=;EJ|evNX*PD(erZ+
+zQ83jr)U%Mze6<3oW?O26XPT#{76S*6!^$AV$jZP7WO)IxG?WeUjRqq#SeyySHe_T1
+z`z{K|&TMA^i)R7ZAaJvck>Lf<(=Zy%QU;*Z1a<}%ph^QHV*|zo5K}=mvMzv_GzG{8
+z0VbfiOkkBkmKH!3RF|QF0Z8^~ZDwmy;M9FUW|F6iV~9p@>iKBC!wNhu7b|CQzNtSP
+zs<1?K?|k=Zyb|sb%+`~*RbH>la_*k|t@TOJq$%+cmCnqw8ov46cy)K%Z|1G*!s^vl
+z><s!;+-mRpqxu(T@xwoYj(j{_Tnj{k&1GsCw!dZdTA`RF4YJwO)z4*}Q$iB}O<9Hf
+
+delta 228
+zcmey&JeO&LW4&U4Pl)TDJ$u%!UVHlF$;+27KYsk!)6=u5sj08GZ|Tyd)2B~oU|@*<
+zukip#ahC-71^<Tw1}}fcPe5VL0*}aI1_r)EAj~ML;ne^X%=2_{4ABVA?Qi5dqQK)k
+z`PrOX|NlSmu6~fa!NJtdML0#xVM<PI><Z4nF8c{~6H1xwWd)L1Y}hC4(3`}5=He{&
+z1@rgR{=Og`F}wHRR_TQ2YjUS$Z-{Zbn{N8R>riCGx`w8mPhU?tEVV;z?on@r&)ju-
+WZ0#P~HuM9nX7F_Nb6Mw<&;$US^<_H%
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/sharpness.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/sharpness.png
+index 6af3491839aedcd5b79af0131cdfe2d076869b95..3721a9d798aff64087ad10e9695b4027bcb4752d 100644
+GIT binary patch
+literal 529
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|-or}wXIUNG_d*H8JeQCCjwa&d9lwxlmRJNxdHW7DQhlaP?`G!xD6
+zlj}@Z*O21|YLb;`HUd%tB|(0{|4{+M1Lasrpd4p`M`SSr1K&XqX529``z=sVqQo_#
+zBsf2<q&%@Gl_4N8Gp|I?&oxBBRL@Y)LOS!+3ZR;8sS%!Oo}O9^96$~$gA^kx10#^-
+z1;o-&HprJ6jLcwhCLr68kqPYUC?GqtodqnO1!RN3%`!%Y7r?-P(P)-30Hr3dGq3<v
+z8W<THFfM?Y3bK)P0mP&!KsE?40nKFss|>QV0J5OE3=IrGvQKL>TayB(?gKJ2JY5_^
+zG=hD5JcW)Ja4@rOd&C*}<A45g1+z}Sl3<}dOyz<HwXe8tt!>qaW9(hvTIjZA@zYBw
+zN9<W=?onMXQSvj_)>8Y<TK#!R`gLxW8QC^R3Z+gT_`4&|JeuuE<?%#Sx2y7ruT4L*
+X?|;NybM21$F_8V9u6{1-oD!M<Y*CX{
+
+delta 206
+zcmbQpGJ|P?qm)*FPl#)0b@BJFpYmg)uAJI+_sTIB7nkhp?1_n@^{+mzo5sMvz*iFF
+z7yKU?Ft{GLa{?&CS>O>_3{-F!gc*<LuSfw3#(KIqhG+zb_5_MC2y!qayRLaxe|N1$
+zSzXpK?hm{i)uswdYuG)`>(BVi`AGHjjaTa!1Jfh(7CtJpKIrz)ddsVQc2kv&giXFU
+vYD%~|)vF6vG9EE3UC3d2j#r`HXokIo6PL-_Eqr%?HZgd*`njxgN@xNAnv_<Y
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/smite.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/smite.png
+index 0c11a7101206709e526a9d96e9dd0d96e9e26a6b..527af26d5e73cf75666cc1cfc22b4a5dd0828fa0 100644
+GIT binary patch
+literal 621
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%Li60G|-od+S!sDv|hq`q-K23UMLa|KC2}*dp`sB&&{>ie09zb&|ekp{atI
+z)Os=Q{f5egQ={{z#-vXOn<C7a*&Y^E?I9&4<!L6G;V0);ZPuBtt|7<mm8t7dYGe_l
+z2DHIcI6(wR$(IEA1^>qj7|u$Tfn3j7;1OBOz`%C^gc-B0b#ej)B}!Z)N`mv#O3D+9
+zQW*jgGxJLH{9Hp6O!W-)ETl7EtpKXomKx!i=IN=$zyaj2GDtD9GB5&JUO+4jWrIRU
+zgOM35&IDu|GBSZfEDFfZY-a(BX93wDu)mCv;RP@tVKkbh3_z&~><lbGl?Fz}28;_J
+zrh;r_T>vp@3Xlx~Oh9v)z$$|*Er2YjE<*zYkgQL}qMx$oxSj%;9iA?ZAsWG<=L3bB
+z40u>BwCI`eYItdCWWB5R$$ic7EI;08X5^;F0>*!z9(%}frR*Qal}+t$13rtpv_zE&
+zoIH>t<aMp?1Vj0%-*L{2&GzPZ68FTsZawI4*<aWvy2&TANAs-cG|_whs|@dP>3sKP
+yIL=@DZ26hjX^XgCXp0mWNY^E^B&`3O`GHNUS%__mX5@B|`#fF!T-G@yGywqOth%}Y
+
+delta 300
+zcmV+{0n`5N1pWe$L1<S{OjJdhbQtl;1zuDOv4kAVmmow$L~CnnmX?+n7#KTZFG+DV
+zX@^!mX)R8BHfNAlZIxSjoMmy9TW^(INj4Q|P99o&NQq}BC>{$M8X8D-GD>MJI8r76
+z000>J08Rh^03CEvPE(Pw9e-Jd=V|}|010qNS#tmY4#5Bb4#5Gqk!$S$004(cL_t(2
+zQ&o&%7lR-OMX^PJSeq-CrT_nT4z-=y`vUhK9+2+=&AHZqG2LB&dHjjW`4Y-~r{lyQ
+z7lBx2-?)kaFRm3FsW6w=CdNV8idc5_sg`J(pD+KO>&3DXA_ecg1UXT$e6~!46urb4
+y0CC+)jYyb9CcuFTXSefl@a}-93FeeIIrjzRs}ZH8TotSU0000<MNUMnLSTXo9C(ia
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/spilling.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/spilling.png
+index 9ad09226e6d00b3060055e43701a2250cbe6d42e..8cc8ac2a19b99ef3ce9f9f49d4fe1c413517a2b6 100644
+GIT binary patch
+literal 526
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|-oD^I_><i9kDzqR@N8{MG2vHgc!TwJoVv!_j)CLtl=X(pQCC)b&-
+zt|7+_)FBxDN(o5umjw9*|3?7~SMJPM2$bS1@Q5sCVBk9l!i+m6X1@grN|d-plmzFe
+zm6RtIr7{F0X6BXX`MHKDnCcnoSx9HTS^-qEEj7Y3&C^qhfdj~4WsqWIWncudynt95
+z$_DvRgOM35&IDu|GBSaE90g=&wzGi6vw&<6xLL-?@B$bRFdEHL2B6dgb_N!pN&_Qf
+z1I7gqQ$aSeE`XRc1;_>gCZM@YV3k3Z7C;tMm!W|HNcL%MW@}R5)O|o^rl*Tzh(@q)
+zPqfeh2No8=Y~}u){|ke4qCYm~nR5JBQtCR%RA5lBMBwTkW(iG(sgK@FO@Fr0WWhnD
+z<fmtnR;ewY(YDx9xonrobc^)QRauw!SR5_go$Gwy>z;yq=d|zA-T8*)HJtB*ud**~
+W=N4IgeE%+x13X>*T-G@yGywoL%aS<&
+
+delta 249
+zcmeBU*~B!#vEDeqC&bmo#pTM=@Bjb*mynRyeEv;r|Dk>R_T9K~!zKTvN&Kzs?CfdN
+zrg@r)X86f<rmJhnaWgP5bk=*{0aAh`L4LtNjVORYb?wX~pd@F3M`SSr1K(i~W;~w1
+zA_XXz?djqeq7m$S-kYgGfuqRvVtU5E$$!_I9q>2YSl!e3;J<^L|MNR<UMsO4pV$0#
+z?}5!trswTNmMC+2|Cmw~v6kV<9D#Ick(ylX6(X-+v2J~1c46sVwza~299z;2E{aw9
+m%Kvg?KNY#1@vXM>Gx1f|xjm<HyqyiSm%-E3&t;ucLK6Vdu5ii#
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/sweeping.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/sweeping.png
+index 7dc8087b7a36881940dc3605267fd478fdac01f6..be3d62cfa69c122e24c4177903d7ac4e3ee8bb92 100644
+GIT binary patch
+literal 548
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|-oy(j-)zWv|D#pS`X|F7Tw2LcHRiGBO_-MDchJ3D*Yv}vAZq8Wa2
+zo$2Zta@;^oGn<P~04afzAirRcY9zq$Ksi<tD92gg5n0T@z;_6Q8AUa`8i0ZlC9V-A
+z!TD(=<%vb93;~Imc_n&&t|1DhdWL!y(wVPT0M%?ujqptK^weVD0CHFvq!?Kl7=bJ=
+zAeM%*LB7;rWCn{f0ojI(OkiI}0oj@DEMW00AR7cel`%5B00st(MzfRwC^dndfd#12
+zz{uEuaRJ0skd3ShASO)#vO$0eXf6|2Wss!>kOkFcXkY-6J(DL^;}!fu2FR@Tba4#P
+z2=+Y}D8#JD!5qNT@gmRs`~F<^80)9*&m@hxJi9!ycQQ<{xqL<H;%<3`t84n}H44Q#
+zOoU?3?r5CSW~WrGvRd2z(8@3a$Cg>)M)MOY*96=yWzB9go^AeQ@hSNodG4qFF;&*e
+q?Fv_8+%Z4q5Bul4_XO?3-`6n8uI2Kzj{g8k4-B5JelF{r5}E+FD4RO~
+
+delta 197
+zcmZ3&GJ|P?BezO`Pl)UP|NmWFTqZ`y)n^$$6JcOr;3*063kHh90E5u|bLW8KoCO|{
+z#S9F5he4R}c>anMpkS(}i(`mJux%eV-vI><XU)&s3;+K<CpN|9aCIw7x54drF@~@1
+z2hV6vX|xT$(D9h#>Dlt2iWy7_+fzFGlKMU;R!HBvKPBnQEOSmh{mz-eXP#;-p8foH
+q>u=Kozi#{#-Ft2I8SPVDKNyeAWY1c2b733MMg~t;KbLh*2~7Z1by>v#
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/swiftstrike.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/melee/swiftstrike.png
+index 7f732af3aaf09648c44983bba785fb2c490d839d..029aba5241995f3fd8029833cf7ba06fc6940bbb 100644
+GIT binary patch
+literal 531
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|-oeE-$w7kvJA`q}2b&%Ie^LM*%f|Gnzs;*y=6J#E@F2?+^LGtmq`
+zxz2QT4LNS0raQKK*npHkNswRge^kKmKsi<tD92gg5n0T@z;^(I8MCf+asmY<N?apK
+zg7ec#$`gxH83GbB^GfvmTtgI0^$hhaq%&Ww0IJ!R8sVAd>8ZuQ0pzeUNHMZ9FalX#
+zKr9VqgM6vM$P5-|0<sMmnZUk|0<tsPS-|31KsE^MFJokQ0SpWnjb<qWP-+4@0}D{4
+zfswHR;{u4OARAd1KunqfWP<<`&|D_4${<S%APcI?(7*sB>yxqQr|dbdr$A<wr;B5V
+zMzC*Bq}UM!4wl(R6HXlZn{VwOqV~rjl({3H@xTj_Gd?P(?gYJ=!>@TzMXP<=kNgJD
+zXq}0bp9Int>-$~QU0`JC|K`ghRll5h{%dFJ`xV~JOBE=z&EJvFy!p3m^Yj;`cCGI-
+ZuJX^w=Z?Fu*mNhz1)i>cF6*2UngGG6lv)4)
+
+delta 200
+zcmbQtGJ|P?qli|3Pl#*2|LT9IpM_X<^=6$pzu@!4XzBV6!&ZL=1_r*8Aiv=M$biB1
+zz?~C78O{Qa$YP*^Lm<p3s^QfD6pZzBaSYK24($mPV-VzENOoQGuKw;?jk3C|W85Ej
+zIjT(+me#O)oY$Z6ne&nA=^L-sF$Shb<}G|wXnoM_q4kzm`|PGF8ws0yanzJ>b*fhv
+ou4Fu7Sh|qI^c=53z0nMN3nwm<wOjb^0BvIMboFyt=akR{0FU8N#sB~S
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/nearsighted.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/nearsighted.png
+index 77e9e2d05800ebccbc7fd5e7a5d3c494ad96b6a1..f9ebc04b9e79ab8853143b1cd24b5759b9ba8cd8 100644
+GIT binary patch
+literal 511
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|-oMorU78TI$MNfK(7mt5>;?cV<X|NqdkA|V+~9UUE@s)eyu#z2a@
+zB*-rqC<O%!UjB@qfWn*w9+AZi41D`Rn9+hYSOq93QQ{g=5}cn_Ql40p$`Fv4nOCCc
+z=Nh75s%NNYA)WbZ1yIel)CkWsPfsld4j_k>L5h);ff2~^0%B<>8{{JmMrN=$6Oe7l
+z$OQIb6p)?S&H@(C0<uA1Ss5e43!ukgG@7LhK&c7r3@kvE21dpPj0+&9f^1}605NF_
+zkPQM%Ky#VEDuXO7fGnskLjwbl>?6<8iRT@rJ_a(gJY5_^G=gLM0)>tka5yO*@!0#n
+zvHVWSwwu3H^I07CvOT}|h(+cHqo>xnle|kJv|WmrUB9?4DQinQxoxWx@2{ABdaH9=
+zi|iEcirI_3-+s>e%KZR_0=Fg6;$6uLZWVoB|LDoZ{l-7o>OV7nSj*nD&BS{$$OWFR
+KelF{r5}E+pyN9v>
+
+delta 206
+zcmey*+|D$?v0fs;C&cwX1A~N`<*eP?|Ns9VT2>?^qp72#!@$7MoY^xQNO6<|`2_=|
+zK!D+1^WI3H7-xY;WHAE+-vJP2%(~Xe2^386ba4#P2o60L&D5a4;S%WJ_HF;;v?V@2
+zKh67;`1O2L{DK{gUz>_qu04=TZrSbf;NUX%CB_`T*69B7+#oeaELixNNB~cz(;=?s
+zVlM(*K6u5+zWK_ha(zz9_rnTaE2LfKO7B})#gO!urN2u3-hH5j44$rjF6*2UngGc8
+BRvG{R
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/plus.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/plus.png
+index 23be4fef7e414ecb5414c1fffb96ace4ac2c971a..318edff5f800eaaebe5721be49a3cbd9790dde05 100644
+GIT binary patch
+literal 422
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|>0G|+7?Fj}FJ~Gay+<*cb-ju3<)RhGJ1^@s5pTR+E<rg5Iv%n*=n1O-s
+zAP6(=n3(+*C@4|l8c`CQpH@<ySd_{TkeHcQqUYxtqF}0LsAnOa`Dz7F&9>AC&ooa@
+zEd~xChm}E!k(GfF$npYWX($`yY7Itaus9QtZOF(3_C*wso!QO;7S95*LEvT?Bf|@z
+z=U_CNr3^r+3G56kK$QkY#s-WFAf|$BWL*F;X$p`H0!%=2nZPQ8EG>X6s4hbT1CZ>~
+z+RWCZz^VIyOkGbG#}JL+<ODZn9%lUm2RhUausnJomXN^2%(jC;nVDIbnVDHRPxl7P
+bfon_*UC)`0tIgRY0W!qX)z4*}Q$iB}4=+@1
+
+delta 127
+zcmZ3+ypM5$TZQu}HwhmZ?Fj}93=HZ^c5MJsEG0pH!T<mNXK>J3`31=5EbxddW?<ku
+z1j3A>8eR=RL2XYL#}JL+<ODb7=D>zVK^KP`2@ProfZ)i129*ORP8>OL!ef$T!hth9
+Z482B7ml_yM4T0JiJYD@<);T3K0RU+=D~tdD
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/blindshot.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/blindshot.png
+index f20d3ee49bc2acd8815fb17f40e1335cd0417c01..c39424adf59bc9be2daabcf36550cd1a926447bb 100644
+GIT binary patch
+literal 532
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}r0G|-o6D%zM+1Mo1EdNJo&f2~G|NsArii!c*8PA_TU$9_-kc?(%S&@#8
+z&IBPLppH}1Pv!tA{*oZSV4zAQz;NZxjD<ic&H|6fVg?4jLm<p3s^QfD6qG1&jVKAu
+zPb(=;EJ|evNX*PD(erZ+Q83jr)U%Mze6<3oW?O26XPT#{76S*6!^$AV$jZP7WO)Ix
+zG?WeUp#~!}SeyySHe_T1`#1{7&TMA^i)R7ZAn>V-k>Ld}AYe3_r3^r+3G56kK$QkY
+z#s-WFAf|$BWL*F;X$p`H0!%=2nZPQ8EG>X6s4hbT1CZ>QJh2+D;1@DLX1=G3V~9p@
+z?zup|Lk2v|7gV+eKf8G6|Bm1p47m@^tKZyoRreeFn<m~oQNfRmn+zQuEou8;Xrz8K
+zDU|WohvR0Q85|Q{zKbqfyJpMepC;c`%1d1z+==3tyO=5MnbGCnD_Iy$U;DmG<*K*d
+e_Up1%_5}=Hce$K5{ZP9Ma)zg?pUXO@geCw+#F#_?
+
+delta 195
+zcmbQj@`rJPW4&mAPl#(}sMXHam}xm)k+zyHE-vlu?F<YID#!fXfE0U4kYDhBFkq1K
+zW(Emy7I;J!GcfQS24TkI`72U@g0Y@1jv*Ssv3-t02NXDtgl+r!-#>4GU*ao9-<Hs~
+z_h&h2-%0Y^v{JuFlIzt=4$U(ktt2NDx7&EXs8gTpZScR4>(H#=9c+Bz$D_`2#L4s+
+n2%hDzGqrH{anW~DfB%=E`~%Br<sfxWpiK;(u6{1-oD!M<Jo!iO
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/bulk_quiver.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/bulk_quiver.png
+index e40b824afe5bdca9882ee6e36723b1438e3b1adb..bf609fc02411508c5af765b9def7728b94b08903 100644
+GIT binary patch
+literal 496
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|-o2M-<`J9f<8-riP5Ktql@L|ts2r`E9;(@tyE>)FmgRZG4`ngJ>9
+zk|4j}|8T(I<<IyDD9l;l5n0T@z;_UY8Fx&~ehU<oC~=J_3C>R|DNig)We7;j%q!9J
+za}7~2)iczykj{Ly0;pzNYJ_K+r>7PJ2av<cAjQbazzAe{0kJfc4f2r&BQsc>3CK2N
+zWCHsz3dqiEX90_60ofpMvy7491<>O#8qHD$pwt9*1{R=710!Pt#sv^lK{m23fS5D|
+z$OZu>pt($7l|hykKo(S&p@9KN_GxWqYf|9UeL!Zkr;B5VMsRGer_ccf4i@)-kbnOl
+zh&YS!9Bs@q`=KB3TCHC|aj{~nOO|_cfJ^kT4Sm(BM`i?vpI>~k+W%_!1YHZ(%88m@
+t^B*M~H=KWHS?!yGt)Uiq8vn%$kFlyv<&c!wRj>_YrKhW(%Q~loCICSYeaHX+
+
+delta 200
+zcmeys+{iS+v0g5~C&bm>-v0mp|2J;j2vHZal@Yj}?R+f8w9{I3o~ITA1H&`LiHm_0
+zS4ogxFi;r;Fl;)ba~>$lS>O>_%)r2R2!t6$HM|;tf?=L6jv*SsrDqzs4k&QA2F|v6
+z{lC6qU$~E?&Z1rIUf0t9G#1EPJZvz1?zkgJYK0?5M2N0yTtNAW%1PJn{&ka2V6Sq{
+scFJ!!drdmcRB_R)`Wd0Zw<2CMUZ21o8Kdhj0JMU^)78&qol`;+0I(uYcK`qY
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/freezing.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/freezing.png
+index dca306fffc5abcd54115bde9e8436c7b5ad0e55d..69820df25f47f530dcb06d2695bb7c66c3771259 100644
+GIT binary patch
+literal 483
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}f0G|-o72p3iJbnN0&wn83Ojp;C;|9un?2N1fQtTx`e!(D#|Nj}JyqVpA
+zLYxI2k;M!Qd<Q_7G3#0<Cs0tL#5JNMI6tkVJh3R1As{g`uSCz!HAKNw&rr`oI`h>E
+zpqg!|5uRzDo>~kXKn^Q|6eBAGBar0<#L`eU$OjsX%wTaQAls0U3GAaNAUm_21uUKg
+zWP`x|GDe0MK##&`G)ozPQWMx2Sb!=GjEoH!7eGt}*~q#8V$u{K8w8ku<}!g*23cAF
+zSx{Yu1_mHmpNvI6WzTUv1v2A2T^vI+f@A$X`4|*AvK@c_SNG?7p;Dw!)~NJFB=0w8
+zhqLRVIG$<KIK2}zI68g4{jj*^CcHU0cjkW0?E6zz9Xhw+|MkZfY}=ik&eTkHvihd;
+k*|ArBGvDT*w?8wkvNuPwT*;|gWC60()78&qol`;+0H$kuc>n+a
+
+delta 170
+zcmV;b09F6v1J?nN83+ad001BJ|6!3KAb$yPNLh0L01m<c01m<d6(~x80001NNkl<Z
+zI8S33THwytum3@y@bIPoP$32;D2*4uG%9m(G2H$34Jt|k0NL1?t`0T?*>(^h$^{Zj
+zLK)_7e?p$^Ae%MhxWTrf+fEQ5YbF^CLCv5j0>w8)nn8f%kOl#eCbBid07aU~2Nw(s
+Y09><Rou90tmH+?%07*qoM6N<$f{a8zCjbBd
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/impaling.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/impaling.png
+index 7b17ef8d24b0734a4dd6614ecdc21bbd029c8249..c3ef2da4cc358b576a5a09599defaa05ed09c3fd 100644
+GIT binary patch
+literal 510
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}50G|-oY15|t|Nq~`#pTA08=dLu-yWU)|L&}Y9QXfESO0%|_Ta&TW5<r!
+z+uH+`tCe`|22y+_L4LtNEeOEidf?6ppbTe$M`STj!2u9v%(~Xe2^5qlag8Vm&QB{T
+zPb^Ah2uRG#E79|F4N)-FGt{$?&V023sAgMgglC$krxpVTki*I##mLIQ2xNHyu{4wo
+z@|^}FGgzDn$TnnT0{b=!$j)qM0gGn=*&wjLjFI65Fc4rgnxzatsR`^1EI^e8M#ct=
+z3m~R~Y-C*kF=+~r4FXI+bD6*@gDfq8ET}F+0|St(PsXC3vgf#-0-3R%E{-7@!L?@{
+z`3@*>usC#uxIF!TKbIkSV|!6i`-Y}EwmL?=GYm@)FnX}wpS)YkFy(?;S76j?&ce^U
+zYg9Mde%r1zO?bkIS4A(Hx4Jev%h#@|Dn77fkJe+AqNZfIzw5bkpYbS!gDmxQ^>bP0
+Hl+XkKA0?3$
+
+delta 242
+zcmeyzyqal(W4%FuPl)TcM`yo%diL$r+5g|3O`A6D|Ns9kE-p82+~`bK*O24>|L*Mn
+zPgfs2cyR34F?)M^1_p-t$Jb8>QUWDGe!)P+$bjL2a;zj!j<dicvY3H^?+^$xifVW@
+z00lEVT^vI+f<yZvg$^ii91UQ(p8e`?{%!SJ7oT+>NnKFrxWU?D|1Ea*z~}xPhHPJ-
+zcV={HJ?Eb|r8((F<3pob_GeQhzc;o9J<Q2l_+yH9tR1tUjJ2-7t;y^Ea@_k>*mCdJ
+hJl;8fYuaWT#wC05H20TA16{zt;OXk;vd$@?2>=Ydb>08~
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/multishot.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/multishot.png
+index c98a31ea40bca2ae1155499fca171a146133c319..686f82f80271be4b6da10f2292ca6b5736e04591 100644
+GIT binary patch
+literal 499
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|&0G|+7o4yUa&QUUnE#C7FdYXxLrmJW8$!W-OXJ=<mn>NkG#RaHPlHu%6
+zAjMM><QM!O0T_htpF0N>=PdAuEM{QfI|#yzJ0@no1qw=(xJHx&=ckpFCl;kL1SDqW
+zmFW4ohA5co8R}U`XTDkiRI@EL!ZXd&Q;UHE$YEuWVq|4t1hTw<SQ^R(`AUP487$5O
+zWE(OvfqfYTWM{UsfW@<bY!J9v#>nsj=y@28W+?+uY63e03s9wjk+A{e0*I*~8(9}X
+zOqv2@g8&oITqdx}AWI7%3#!Y|zyKusv^KLfDRAmOAT!F-#W6%9IJQ5U?|=da%l1=;
+z%ih=DXIt&D%RWVI1Lp(%8=tM17;c<mtKy$>LMVK}s+qq;dZ#4H-CSz)&hgVs*^H^2
+wZjGwvg#-QVl0K@RnY`UYPu6uqLEY?1#*Mo;U74KE3WIF)boFyt=akR{0AwbA3;+NC
+
+delta 201
+zcmey&+{84&v0fs;C&bm$OtdpyJ;P5<LykK;JKM#@W!ki93=9mL{wjV3QXC~ge!>4C
+zfZ<;A-bkPrXMsm#F#`kNArNL1)$nQn3dVc7IEH8h$M!f19WdZvVomz<zkhY7pY_qp
+z?-a!L*R-a_O=J+t3S>#$mDtU>p#1Q)I472;cQx*Lf6A2T|ClKea%}NC4lb#AZEe9S
+u%KK+~2b}r)Ogn3TW!!>iQdf7*?qKho!*bi^{IouxT@0SCelF{r5}E*oBTs1n
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/power.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/power.png
+index daebaad08cec7ad679d28929e7fb80cfa66d81e6..c3662d50dce47022ec7bf21508647a54e17aab1e 100644
+GIT binary patch
+delta 401
+zcmeBVddob)U8P?AauCA?2L?|w(av=B3_m#yIqv_>D*qqucX4rHU|_KR`s>cbY^C}`
+z3=DjS7)3R_8i0ZlC9V-A!TD(=<%vb93;~Imc_n&&t|1DhdWL!y(wVPT0M%?ujqptK
+z^weVD0CHFvq!?Kl7=bJ=AeM%*gMe%eMrN=$6Oe7l$iyH3q@#d1vz-Mjo&{tBK|RB#
+zGDe0M%nWcE%~l4W)C6`07NA-KBVz-`1rTFFR<bUD7&QgR1_36Z!AxM4L6#Ok7F3s^
+zfdNSNOrBVcSMUoNATz?##W6%9IJPfZDCvL#2lHX)+~WVt<rjih{!E&#$Xvm~qR_rV
+z#%V$E77oXSZHC49XRVW#dr4nXp3}6Y@aSDx*?K?4lioAFKT#6fzv$}|f0gTfN;@p&
+aZ&xztM{)QwoWJo1WTB_4pUXO@geCwdBx8yI
+
+delta 171
+zcmV;c0960&1Bn8VM<oCMNj4RUXD4V*9w;6Q(^3FLL`47Lzpy|6|AQm|004SxWH^y)
+zB7DOD01m?e$8V@)00015Nkl<ZC{tC;0TO^92t-jpE#v+NZZ|=UnWlL^NZg&z9wDPB
+zrU+PT)@2pSItJi^jzRbp`#SE)Hyq!e?G<L3K@HdGFEobm-bf?-&47#Y3WxKg20uOR
+Z{sI7-2lc+TW90w<002ovPDHLkV1g*IMYaF{
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/punch.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/punch.png
+index e563c946bfd94d784eb032e91809c8f2597a4c57..aa62261e2d1de5ae678951eb01f99378142bfea8 100644
+GIT binary patch
+literal 516
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|-owzjsKB)j0iKz)7v%{_swt*sdu8S`6wGeeBa%gZ~{)iva}A3S()
+z?AS4TdwZa!XKUKxfRsQ<kYDhBRKV~+IaU%V$64SJS<Jw|cMyabcTCKF3lx+nag8Vm
+z&QB{TPb^Ah2uRG#E79|F4N)-FGt{$?&V023sAgMgglC$krxpVTki*I##mLIQ2xNHy
+zu{4wo@}&kNGgzDn$TnnT0{c1&$j)qM0gGn=*&uMUjFI65Ffd>=nxzatsR`^1EI^e8
+zM#ct=3m~R~Y-C*kF=+~r4FXI+bD6*@gDfq8ET}F+0|Suk)7s3|q`;~BfXrx57sn8d
+z;Mnt#d<PUbTmw&QZ?Sk+znxb~^!4=bEIvGM%bRw`sSD&yW<A0*d#1x7or-&`0fAu`
+z;u=>7+>sXCD}Llkg012*OUs1v_Lws1CzD<?UM-LR__p5q9Q#T}Ua_+DX~G~YJzf1=
+J);T3K0RTp?iR%CW
+
+delta 294
+zcmZo+xyLlYvEDVnC&cya*|P-&1#N9@duAl*>+8F?xMYSHZ|(^^vn(e#FwoT0v?j@}
+zwY4=PBV*#kiRI<x^ILp7)73TPxF0-taO~JIdwY8Z28QfstxiBnyd=mk_&-*_@XX;^
+z98d{ofk$L90|Vb728MdRLyV#tUJXFedQTU}5RKr_-iu<*3Ovq&FC!weOEv!gUzzPt
+z)>qr`WK!FOXLnxlPuuaWy2)kzpSB&0hSUAqBpY1Jy#;6TotP0ib(3(zp+nDR_I{J7
+zTGX*(V@Kc|*;UUxPV3lu)OJoj&DW>@FSUuSpkHne^A+KH)xT~!*}j%HeKMoKcJF$d
+bnr!>K69jA8Hoe>fbPI#0tDnm{r-UW|dvb`o
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/quick_charge.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/quick_charge.png
+index 3e361e80358414ec7de5f05638e356c42e6402ff..82d0c6ad7df4c275c82aa69b1124ae0d6930f991 100644
+GIT binary patch
+literal 559
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}B0G|+7Up+xBDb8FciD#$vKh9O15FvlHRbgwfzO@SP76~hPA-1Ej65XpD
+zJ+uXu9P>JMC)`Yd8>m$>qwo@t5-JJu3;vG|7#{84F9ek3EbxddW?<ku0K$w}*E%_Y
+zf)XXJ5hcO-X(i=}MX3w{iJ5sNdVa1U3Z{C7dKS`|uT}unY)g&sO!M^AV&DLBSQ(@k
+zSs56CEH5CIhO$Av)nH@>i!%Y)hKx*L-$w!2ne8lK@hl)41ooFPGQ0o=3XDdxlmRF;
+zft`T`sM5g5*nn{X#8i-ttP3C}O#!k&fC*?W6If-Cr3H`$)n#a40Fw2|SoBl&9M@AI
+zv(D4SF+?Lc^n4`WVFezR3m;iz9xa=&^M9)LwpFf=4*SO~oZtR6ok7Czp@-8s6~l)U
+z{^%^7u`Y5_%jT9P*WW$f$)I@MmeE!%M*0Vz0Ovw0hMOWD3RUx2iv*6GT5$5}YKw!P
+zW?WzDdVj`_lKY`sw|#RtzoFL8CZVQZ`p^${*B8upqPV@^TFo>8xysYk&t;ucLK6T(
+Cy`ZK5
+
+delta 239
+zcmZ3_vVv)XW4%g%Pl&6po}iW#XRedP$GNH#BILIg>szbv$_ugm|Nq}ZTfj_#n}LDh
+z>-kq%K#Hd%$S)Wu4g(BA_s^XJigOltL>4nJ@ErtU#vK#0-vR|oJzX3_G=hEm0)>t!
+z@Hh#s%{=?}{cVS|U9&$r$1%A6>phae&cHKGXom4dF;9~jrR(;7zp$2ZoorFsJ=sWU
+zj`yF#yk>p4CupY_D<?Q5F=a~HWH!xQC5NxtN0SYv{q{Ze>2<&JoC%AyejT-Vdhz%g
+g9|_(yCW1ei&YQ8j7%t-%0J?y|)78&qol`;+09<!q^Z)<=
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/sinistral.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/sinistral.png
+index dd51f86950b4ce72fbf2d7d134e2687286cd2dc8..574ed0a8a8209be65cf51115ebed1fd1f7e14bff 100644
+GIT binary patch
+literal 520
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|+7Up>KGCkZVn&Iu9nTZ{EwTwJVGcyn`er%jvYp$#(6tS3hVNO6}0
+z`33)n0|qaD#!o<D&H|6fVg?4jgCNYfV`BDOprAyFYeY$Kep*R+Vo@qXKw@TIiJqTp
+zh=Qq}p`L|w=BpJzHQQ1nJkvZqwHP>n999M?Mpgz!Aj=DgrJ-z)k2DyW!QxCnwjm=E
+z*oRR-c4j*ZSUd~J27#Mpj0`V;9*5CrmNEdPCa^QG096_o85=MzfS3xhk#zyYq$xl)
+z2rvQ7Wdf@Vva|rQpt=kV3_!9^YcpGu0;lc+GK)Q3978mMefy*Nju>z-zg0Y&R{NiM
+zy+>5(U&f>(hc!AssjC`YYMU!{qHO9SsW;!W&ser+U18j5W%4lchv$mO*gN84a_uG!
+z8`@4@Hy2pv+W&U*!DDO0S-S7_@CPhZ3-9CSW!fSid1+fQ_pgcD^In?l|HbI%#TKdL
+R%XSFl6i-(_mvv4FO#l*yhQ|N^
+
+delta 301
+zcmeBRdCD}wvEC`bC&blPPcYX>LQ9HsLWF#7ZtnEy(_LI#tW|io7VFCku}zyc%|lzj
+zP?06oTRg;0*i3=jMU`vj%$eJ_Zx<6_y>{&y0|Ub<_63eWN~|QvFZe$;z`%Ivz!RVf
+z&H|6fVg?4j!ywFfygq+L3Q)Am)5S4FBiQyVBVUUGkITiCZ@Nmml`OvRf3?j+Me(7%
+z6vN3I?>{x@9Oz~gm^kIY`R|PDVv5e)_S)4GXdm?XnX&Mn1rC0NhVr)+6+b@8aP9b)
+z(p2>}!1!=OhPd`q4yE%MTZ6n;8ZPv|e)xCM1>qvCwO6CoUwim{-V(LDZ?o14uM#?Y
+iFSe>?^<wtYN%j1<c>8|vbFKh7i^0>?&t;ucLK6UYQiLD?
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/trick_quiver.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/trick_quiver.png
+index 2e874223bbeacbfa48f65d7a8af03fa0db9c981e..112182b875e70722802237ebf0e659b872105a74 100644
+GIT binary patch
+literal 502
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|&0G|-o2M-<`J9f<8-hORHw1yn_{)U2c6Y9U8-TnXh?H8LD++I8hsPKAo
+z;65P5QxfDC{2u`rgzld^2NdTl@Q5sCVBk9l!i+m6X1@grN|d-plmzFem6RtIr7{F0
+zX6BXX`MHKDnCcnoSx9HTS^-qEEj7Y3&C^qhfdj~4WsqWIWncudynt95$_DvLgOM35
+z&IDu|GBSaE83kl#wzGi6vw&<6xLL-?@B-+07>#Br15j!LI|B<)rGb&L0pkLQsURC!
+z7eGv!0%U^#6VO~Hu*x7y3m^-s%h138B>S{Bvo$GjDkw-|JzX3_G=gK#2J#(H;9xzd
+z&Y^YZ|32OoylX!mmQ_Af&;9kz3#LFbDYJl_cNq&>cBl!yweV+3@tL--eO}zDKTS7c
+zvMx#=Irg^Y7UTS~9XGV*CM=ab7iFDR@Gt(sZn@?Njw@AKTG=2=Jzf1=);T3K0RYO)
+Bjb;D<
+
+delta 200
+zcmeyy+{iS+v0g5~C&bm>-v0mp|2J;j*xyjFHY57`+1>x2-@d(g(u>Ut7#J9?NiVzu
+zq_|3g{DOhXAb?@h8J+V$QO*L7$YKTtzC$3)D5~Mr02B=Kba4#P2rfOt$j2ba;}W=S
+zZP9=3{PYg9*=sodao_sYW1n%y+Rq}P_on0g2~3Lwn8XBmGsTavJ+bM0ZFc4Y`;ESP
+u0kZ<67hK+CekP}>+U$S8S+yw}uW?^r!yXYWxjPML1%s!npUXO@geCy%3|9OA
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/trueshot.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/ranged/trueshot.png
+index 696ec22eef7dff48755f2a133414ee53746caba4..d56c86b21cf1d802240fcd6feb4ef804eafb3a99 100644
+GIT binary patch
+literal 512
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|-oDIyH7ukZT)>Gi*Ve?Pyze?njXj+a+455p1@6QGj72Qqho6jw=*
+zU+{kzVAym<=R8o9v%n*=n1O-s5C}7hYIrpO1tm&cBT9nv(@M${i&7Z^5;OBk^!!{y
+z6ioFD^(>?_U#$SD*_ImNnda%K#lQjNurf$7vNA9NSzbUa4P}FTqru1w7H0yo4H=oh
+zzKa5~Guv6f;#oj82z)AIWOxDeG>k^GlmRF;ft`T`sM5g5*nn{X#8i-ttP3C}O#!k&
+zfC*?W6If-Cr3H`$)n#a40FphECsyMX{6YrE%=dJ04ABUVJ>Sj6s>s0-;C|fw|Nq0{
+zrMFwN1I{vTeDY_iP5X(xxh+iIdpUdd8a$LyJfker6=T50^XeF5<Iyb{5}O>Q7xnyO
+zINSSFUu8?lGZA(_A=bms7#l)E_Y?@VG`(2)`%6wz*}nOw@BBCvZvSfy>z$PWe$zqD
+N@O1TaS?83{1OP#;jXMAU
+
+delta 240
+zcmZo*S;;iPvECrSC&YD$iOEhQqpPN-pI_g9|LDTMe}C_Id3l<Np3v9tOjpnFlhcsn
+z&d$zuadDY8Z5jgu!_Ou4Z-A6QNswRge^kKmKsi<tD92gg5n0T@z;_sg8IR|$NC66_
+zdAc};Xat9zaTIG%;BXBzxRj~V{rCO0{xk{Uz3)3*&P>s1tC(!tUwu$QR=S&g!K!PM
+zBV2?c7<&Srompv8dZX3;SJCd-^9%S_yI<JQ9<<T+ZgW+|-@P;3e%xj@JEW{LPuuWE
+c$<~|9{MtNapB``62egvG)78&qol`;+06!pVhX4Qo
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/recapitated.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/recapitated.png
+index b925ee75c0d0862acedcae001e2a65e49eec8e76..2f06646e6f20085c1d2017c83192f83868713d00 100644
+GIT binary patch
+literal 484
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}H0G|+7Pft%XGqXK=_N-mKwy(GE^vRQ#FJFHA_;FKH6Hv(_8OHlSimN2Z
+zFZe$UFl;)ba~>$lS>O>_%)r2R0E8K{u61$(1tm&cBT9nv(@M${i&7Z^5;OBk^!!{y
+z6ioFD^(>?_U#$SD*_ImNnda%K#lQjNurf$7vNA9NSzbUa4P}FTqru1w7H0yo4H=oh
+zzKa5~Guv6f;#oj82<$IoWOxDeG>k^GlmRF;ft`T`sM5g5*nn{X#8i-ttP3C}O#!k&
+zfC*?W6If-Cr3H`$)n#a40Fw2|SoBl&9M@AIGuYF`F+?M{_gpkzg9C?iV8+7c-}g6M
+ztjy@?ymwxh>BhGc{~FHT*~{!8<LcuPc#3-on<tmvi$bSas%MIPC#+C9DJAeX>&lFR
+jIogbU+I6r0e&xTxX!eSY_uobi36NEuu6{1-oD!M<vQmH^
+
+delta 178
+zcmaFD{F-rsW4&~MPl)TDJ$u%!UVHlF$;+27KYsk!)6=u5sj08GkAZ>V5?_`Pkm4)}
+z@(cbC1q{Ld6+$4v0*}aI1_r)^Ak4U9V)k30po^!AV~9rZ+_Q#!2NZam1Fh92{GKo2
+zwNzl^*7#GO*w_odiZeWV+0Z#jc7oIvE$t7}65h3ya;j9R&ornp7uukH`u45#jv4hz
+WYzvn${N4gIkipZ{&t;ucLK6T*+e(-K
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/shiny.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/shiny.png
+index 300355d9b557bfba03d7e03aa2e40cda4985756e..905c31bf9a2d4af5ce2db23d79d83124fee77bb2 100644
+GIT binary patch
+literal 796
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!61|;P_|4#%`jKx9jP7LeL$-D$|SkfJR9T^xl
+z_H+M9WCij$3p^r=85sBufiR<}hF1enP@=>&q9iy!t)x7$D3u`~F*C13&(AeP!Bo#s
+z&q6x$)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP&UXl8jQ?faV8+!kdX=Ox+ow!
+zvz-Mjo&{usz^5`sh8N5T8qHD$pwt9*1{R=710!Pt#sv^lK{m23fS5D|$OZu>pt($7
+zl|hykKo(S&p@9KN_Dr5wjaTps8DOxS_H=O!vGCtI!QW$YqRjFA=NIV&v@CHHn&=!O
+zzL!Hw`Ky%9jLRu157({^P%!fETidK4&2^FQGr#c!7XC7+kggT^UIwdWx7@KVS#+iQ
+zRN70knZL_6l;>1mom}h3fByaV+PeAA+5hnWl4{o36a4XplT5YL^98wY@5uc)v(mWx
+z+_vu_g;(9S+Sc|u{yL-S<-FwloTPP~houxe+w5g0s>GWH{BH1C*toj1O=YK^Y>~Os
+zui1JWixb$-ZHt_g;^GxF@v_W{?zyttqVHWw<b5I<Z+~-%lDek8+7InH4?e%L^o>|9
+zw{8K)_f>hx3;ve;a!GINpZoO2eal0<wNl^QFMnv6<r=q3Am4q8_v7}G>;IQ2E&o|q
+z(j0AHb~E!!w%YTzo>Eq^r#z0!J^#z~{8(MlBJ(qEze+^&{+(5zC#BkMdVuS(>>Jlh
+z9Cd$tKE6M1V!Jb?oPl9pdwzySpHr2(@>I_U@BSKX3E6W-YQ?RcznB=_O!H)7Iu^w0
+ztzG|s_iKl^DR+;2{^BJ@eQU2;EPImISbyKNv~$f=K88s%nP2c;|B$$o<6b~N1H<?2
+z>`4`8)x!3%Onk_B<>WFwMH4o$=I-mI=7B|D#cEc+76141(ob&xZGR6hYX0&F6vdvd
+KelF{r5}E+3ZyHJf
+
+delta 322
+zcmbQk_Ks<SBnLAC1A~SxfAB;_h5GOSpAgrDiW6L1T>c;U_P_pZH+NN$apwR3|M%_N
+zcdq}agoMPsxU;XbZv_f@JX~}G2)3FoKIOG@+O%ow3zqi>w3TYOW%$W0k*YXi+!!ln
+z*K6f7nXfoII~!=n%i~S|fRt=WkY6y+Ky08MEXWYq_B;!ylC!`gvY3H^?=T269?xHq
+z0u(Iwba4#P2o61SQ|zz;2g`+n9zxQ-muesX-@p06rCXJOdc_T27+>(8;N8bAr+%He
+zt&-;xb5Xmh*7b|OPQG5v;H>jmDrX^czJS-xc!!GbuMNLzU&y>4^e&sH<=l$j`b^Wa
+yAFS87^Nyc$BWK4v{ohB}{^ULPdXUVoByW3Nv|Enx@l~K37(8A5T-G@yGywp5`<e6r
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/tank.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/tank.png
+index 3c8e053dff90015fb29dc693e9046c5cea901f65..16a10952e4ff781d18411d6e8006c15a2212a8d8 100644
+GIT binary patch
+literal 489
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|s0G|+716|$RjKuV$7%x{RMR~;#e{VZ03!voNmvbe66h}#rU+{kjV7S-3
+zHxekuS>O>_%)r2R5QG_bOw4`@GOWZkq9iy!t)x7$D3u`~F*C13&(AeP!Bo#s&q6x$
+z)e4}RZK)BSX`Y^13>-iXD}xjxD+42t<pspjP&UXH8jQ?faV8+!kdX=Ot0*8lvz-Mj
+zo&{usz|As7h8IB3!e}&08Gup~*cn)WDh-T`4Hy?dOa<A<x&UI*6d)S}n1JRofmH@s
+zS^!y4U4{k*Alaw2nXO5IQ}+Rx37#&FAsWG{{n3041{^Gran=8&r59XXHT#2ct0ss2
+zL@kDZ8I{aCAHR!RFkkdSN5+C_Dp#E}n3Ebfi`|wf>xiGwQJ7iHq7e`@FG%Ln+Z&g@
+op4QZTA2sbz)DKVj@4LTE<#sJ*nVj=W(GO&=r>mdKI;Vst05~XkmjD0&
+
+delta 210
+zcmaFKJb`I~TYYv~LQ-_Nzn8n3imJVhrJ=sAg^4i(1H(bvNkTx1qa?^L_&)?N+-u$&
+z2^8Zj@Q5sCVBk9p!i>lBSEK+1b3I)gLo|Y8&qWJ4D{?Rg2vxqRKkmC>?^_dl3-^Ge
+zf13oj8uS~^F&8v5&uLZIH025VfmM=fE4??#u53OUdf{%?)#$t8tIj#e_*bbsYT7j6
+zz`lj~I~Q!dcVLg~&85Png^v3@Jg&Dct_Z%~djHHGhT0!2S5Fr^OaR)<;OXk;vd$@?
+F2>@pcRv`cY
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/tier.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/tier.png
+index 353e3e3e38748e61024e007d23ded91f5ee84f13..ed81c6890bb079fddac2a8a8e776532597b80d4c 100644
+GIT binary patch
+literal 469
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G}T0G|+7@w70JNN>5WGWAWf`0UL*%|tW&<T}&UHRQNuJ4=D8R{0pK0x9m2
+zAiv=MaKPZ@&-e)_%vs<OS<Jw|cL0PLv#xb=0tF>XTq8<?^V3So6N^$A0unRxO7#3(
+zLljK)4D~FeGheL$s@awr;hE;?sl~tn<ghYGF|sl+0$E-_EDdFYe5Aq13>IesvJDxT
+zz&?xuvNPLRz~WgzHVEu5V`O*%^f-)0vy=fSHG!Rh1*p=%$k>2!0mM|0jjRhGCQSjd
+zL4XNpE)!T~kfjBX1=VF}U;vW!$yoGL_8iw!Ak)Fq#W6%9_~==0p#usW%mIgvU%K=E
+zz|`I#eTCh7eApfq7D=-(SUH@%@?Y58wOt}l_K{~<$HXVQ7gh=FQ_w#DUY_eTr|jvN
+RPktbCJzf1=);T3K0RUmAZYlr(
+
+delta 168
+zcmcc0{E%^iW4&~MPl&5{T9`<rH=n(k`leZ)W}+E>avE~no$2Zf3=G$68he2hXGxG>
+z@P8;^2==cK0tps)L>4nJ@ErtU#vK#0-vR}#JY5_^G=h(wI>^hQz`^XWqT_CT5+{F?
+zPJ+De4kekN{EJpSX6DwHm{zvo?TZA(<0siRx_djmo5*y2_8y5Q_S!}j?L?q444$rj
+JF6*2UngIPXJ0k!9
+
+diff --git a/src/main/resources/assets/tconstruct/textures/gui/modifiers/unbreakable.png b/src/main/resources/assets/tconstruct/textures/gui/modifiers/unbreakable.png
+index 84573db21b56602d80c1af75bf727139c489697d..0afccac9d71cc31cbe8e2959c01a246e2b99edb2 100644
+GIT binary patch
+literal 547
+zcmeAS@N?(olHy`uVBq!ia0vp^0wB!63?wyl`GbKJV{wqX6T`Z5GB1G~mUKs7M+SzC
+z{oH>NS%G|m0G|+78zUn_O)V8Uc@I~QsPHIXPhV?GYad5vX9wpsI@M=Om%O|5?B3j?
+z-(J1b*U$uNI+5hj1Ed5>g8YL2qXLEp%CV9_InDx)$YKTtzC$3)D5~Mr02Gucag8Vm
+z&QB{TPb^Ah2uRG#E79|F4N)-FGt{$?&V023sAgMgglC$krxpVTki*I##mLIQ2xNHy
+zu{4wo@}&kNGgzDn$TnnT0{c1&$j)qM0gGn=*&y(#jFI65Ffd>=nxzatsR`^1EI^e8
+zM#ct=3m~R~Y-C*kF=+~r4FXI+bD6*@gDfq8ET}F+0|SuknLM!?uizIlKxUPvi(`mJ
+zaBN>RAG09`Gvo0br?~I?bC0TpF75jv6=}BV{{&qvcG1Awn?#=;2%6#4#jG-)eaE70
+z&ObymK3-zI?_#46{6bVz<-%XJ3r#A=Y-GK*bwnMXQRE$bL?U_J><=&Yp0})bx)XaX
+q>QGGJqrWDV;aAT1n4Z@;Dlh+BmVJWy^?%+V7kRq+xvX<aXaWFn%a^kN
+
+delta 225
+zcmZ3?vV&=YBctv_C#Cv(bB~@aUGnYKJADmJ1_lQ6_?z#66n{yOU+{kvz;NZxjD<ic
+z&H|6fVg?4j!ywFfJby(BP_WX|#W6%9IJS?GkHwJ1Rnj?n%Xj;C25;1M>kEBc6#wuK
+zBfCJ?i;7l<UEF<MjN1haKTBNnIup8LOXz~sWm(T0=JQH_)L`8<!%%qV7dGAAfS~m}
+zDREiFv#d%q_AgwuuiE)a_j(4w#=YhRaR*PFpRe{_bPv;!H3~=gpW7UlXZH~|Q@jjx
+O1%s!npUXO@geCyR3}7t)
+
